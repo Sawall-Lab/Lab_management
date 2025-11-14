@@ -6,7 +6,7 @@
 
 ---
 
-# 🧪 **Sawall Lab / MABEE Lab — Lab Management Repository**  
+## 🧪 **Sawall Lab / MABEE Lab — Lab Management Repository**  
 ### *Field Manuals • Lab Equipment Guides • Sampling Protocols • Analysis SOPs*
 
 This repository serves as the central hub for **protocols**, **equipment manuals**, and **lab SOPs** used across the Sawall Lab / MABEE Lab at **ASU BIOS**.  
