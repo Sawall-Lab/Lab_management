@@ -89,6 +89,7 @@ Each folder contains manuals, SOPs, or reference documents relevant to field res
     ├── 📄 Proteins/
     └── 📄 Lipids/
 ````
+<details>
 
 ---
 
