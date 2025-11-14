@@ -38,8 +38,6 @@ Each folder contains manuals, SOPs, or reference documents relevant to field res
 <details>
 <summary><strong>Click to expand folder tree</strong></summary>
 
-<br>
-
 ````md
 📁 Lab_management/
 │
@@ -89,7 +87,7 @@ Each folder contains manuals, SOPs, or reference documents relevant to field res
     ├── 📄 Proteins/
     └── 📄 Lipids/
 ````
-</details> ```
+</details> 
 
 ---
 
@@ -97,6 +95,9 @@ Each folder contains manuals, SOPs, or reference documents relevant to field res
 
 This repository will grow as lab members add manuals, update SOPs, and upload new documents.  
 To keep everything consistent, please follow the guidelines below.
+
+<details>
+<summary><strong>Click to expand</strong></summary>
 
 ### 🟦 **Adding New Files**
 1. Navigate to the correct folder  
@@ -142,6 +143,6 @@ git checkout -b update-protocol-name
 git add .
 git commit -m "Updated TA analysis protocol"
 git push
-
-
+```
+<details>
 
