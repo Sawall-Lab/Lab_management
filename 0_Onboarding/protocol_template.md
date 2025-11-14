@@ -47,7 +47,7 @@ Describe any pre-processing steps:
 - Subsampling strategy  
 
 You may refer to other protocols here using Markdown links, e.g.:  
-`[See Tissue Homogenization Protocol](../0_Onboarding/protocol_template.md)`
+[See Tissue Homogenization Protocol](../6_Coral_tissue_analyses/Air_picking.md)
 
 ## Procedure
 Provide steps **exactly as performed**, using numbered lists for clarity.
