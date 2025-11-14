@@ -8,7 +8,7 @@
 
 # Protocol Title
 ### Adapted from: Cite original authors if applicable.
-**Author(s):**  Your Name
+**Author(s):** Your Name  
 **Lab:** Sawall Lab / MABEE Lab  
 **Version:** v1.0  
 **Date:** YYYY-MM-DD
