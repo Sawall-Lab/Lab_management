@@ -33,55 +33,62 @@ Each folder contains manuals, SOPs, or reference documents relevant to field res
 
 ---
 
-## 🌳 **Folder Structure Diagram**
+## 🌳 **Repository Folder Structure (Collapsible)**
 
-Lab_management/
+<details>
+<summary><strong>Click to expand folder tree</strong></summary>
+
+<br>
+
+````md
+📁 Lab_management/
 │
-├── 0_Onboarding/
-│   ├── Welcome_documents/
-│   ├── Safety/
-│   └── Checklists/
+├── 📁 0_Onboarding/
+│   ├── 📄 Welcome_documents/
+│   ├── 📄 Safety/
+│   └── 📄 Checklists/
 │
-├── 1_Field_Manuals/
-│   ├── ADCP/
-│   ├── SeapHOx/
-│   ├── RAS/
-│   └── Other_instruments/
+├── 📁 1_Field_Manuals/
+│   ├── 📄 ADCP/
+│   ├── 📄 SeapHOx/
+│   ├── 📄 RAS/
+│   └── 📄 Other_instruments/
 │
-├── 2_Lab_manuals/
-│   ├── BIOS/
-│   │   ├── Titrator/
-│   │   ├── OXY-12/
-│   │   └── Incubators/
-│   └── ASU_Tempe/
-│       ├── Freeze_dryer/
-│       └── Sonicator/
+├── 📁 2_Lab_manuals/
+│   ├── 📁 BIOS/
+│   │   ├── 📄 Titrator/
+│   │   ├── 📄 OXY-12/
+│   │   └── 📄 Incubators/
+│   └── 📁 ASU_Tempe/
+│       ├── 📄 Freeze_dryer/
+│       └── 📄 Sonicator/
 │
-├── 3_Water_quality_sampling/
-│   ├── Nutrients/
-│   ├── DIC_TA/
-│   ├── Pigments/
-│   ├── Particulates/
-│   └── RAS_preparation/
+├── 📁 3_Water_quality_sampling/
+│   ├── 📄 Nutrients/
+│   ├── 📄 DIC_TA/
+│   ├── 📄 Pigments/
+│   ├── 📄 Particulates/
+│   └── 📄 RAS_preparation/
 │
-├── 4_Water_quality_analyses/
-│   ├── Ammonium/
-│   ├── TA/
-│   ├── Chl-a/
-│   └── Particulate_matter/
+├── 📁 4_Water_quality_analyses/
+│   ├── 📄 Ammonium/
+│   ├── 📄 TA/
+│   ├── 📄 Chl-a/
+│   └── 📄 Particulate_matter/
 │
-├── 5_Live_coral_measurements/
-│   ├── Surface_area/
-│   ├── Grayscale/
-│   ├── Incubations/
-│   └── Calcification_TA/
+├── 📁 5_Live_coral_measurements/
+│   ├── 📄 Surface_area/
+│   ├── 📄 Grayscale/
+│   ├── 📄 Incubations/
+│   └── 📄 Calcification_TA/
 │
-└── 6_Coral_tissue_analyses/
-    ├── Tissue_stripping/
-    ├── Zoox_density/
-    ├── Chl-a/
-    ├── Proteins/
-    └── Lipids/
+└── 📁 6_Coral_tissue_analyses/
+    ├── 📄 Tissue_stripping/
+    ├── 📄 Zoox_density/
+    ├── 📄 Chl-a/
+    ├── 📄 Proteins/
+    └── 📄 Lipids/
+````
 
 ---
 
