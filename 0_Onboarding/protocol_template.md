@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/ASU_BIOS_Logo.png" 
+  <img src="../images/ASU_BIOS_Logo.png" 
        alt="ASU-BIOS Logo"
        height="140">
 </p>

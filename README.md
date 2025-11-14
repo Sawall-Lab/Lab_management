@@ -152,7 +152,7 @@ git push
 This template provides a standardized format for writing, updating, and maintaining all Sawall/MABEE Lab protocols. 
 Use it as the starting point for any new SOP to ensure consistency, clarity, and reproducibility across lab workflows.
 
-You can also download the markdown file version [here](https://https://bios.asu.edu/)
+You can also download the markdown file version [here](https://github.com/Sawall-Lab/Lab_management/blob/main/0_Onboarding/protocol_template.md)
 
 <details>
 <summary><strong>Click to expand SLP Template</strong></summary>
