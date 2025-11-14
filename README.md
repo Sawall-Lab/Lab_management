@@ -281,7 +281,7 @@ You can also reference images inside subfolders:
 ```
 
 ---
-
+````
 # 📊 **Making Tables in Markdown**
 Basic table:
 
@@ -307,26 +307,13 @@ Multi-line formatting:
 Link to other protocols:
 
 ```md
-[See related Chlorophyll Extraction SOP](../6_Coral_tissue_analyses/Chl-a.md)
+[See related Air Picking SOP](../6_Coral_tissue_analyses/filename.md)
 ```
 
 Link to external resources:
 
 ```md
-[NOAA Coral Protocols](https://www.coral.noaa.gov)
+[Putnam Lab Chl a Protocol](https://emmastrand.github.io/EmmaStrand_Notebook/Chlorophyll-A-Protocol/)
 ```
-
 ---
-
-# 📁 **Appendix (Optional)**
-Add any auxiliary details:
-
-- Storage conditions  
-- Special notes  
-- Historical deviations  
-- Additional diagrams  
-- Example calculations  
-
----
-````
 </details> 
