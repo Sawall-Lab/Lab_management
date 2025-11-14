@@ -146,3 +146,54 @@ git push
 ```
 <details>
 
+## 📄 **Standard Operating Procedure (SOP) Template**
+
+<details>
+<summary><strong>Click to expand SOP Template</strong></summary>
+
+<br>
+
+````md
+# Protocol Title
+**Author(s):**  
+**Lab:** Sawall Lab / MABEE Lab  
+**Version:** v1.0  
+**Date:** YYYY-MM-DD
+
+## Purpose
+Describe what the protocol does, its context, and why it is needed.
+
+## Materials & Reagents
+- List everything needed  
+- Include amounts and suppliers  
+
+## Equipment
+- Instruments with settings  
+- Calibration notes  
+
+## Procedure
+1. Step-by-step instructions  
+2. Include temperatures, times, volumes  
+3. Add notes for optional steps  
+
+## Quality Control & Calibration
+- Standards  
+- Blanks  
+- Instrument checks  
+
+## Troubleshooting
+- Common issues  
+- Causes  
+- Fixes  
+
+## Safety Notes
+- PPE  
+- Chemical hazards  
+- Waste disposal  
+
+## References
+- Papers  
+- Manuals  
+- Related SOPs
+````
+</details> 
