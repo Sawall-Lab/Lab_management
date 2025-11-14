@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/MABEE_Logo_Wide.png" 
+  <img src="images/MABEE_Logo_Wide.png" 
        alt="MABEE Lab Logo"
        height="140">
 </p>
