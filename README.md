@@ -149,6 +149,10 @@ git push
 </details>
 
 ## 📄 **Standard Lab Protocols Template**
+This template provides a standardized format for writing, updating, and maintaining all Sawall/MABEE Lab protocols. 
+Use it as the starting point for any new SOP to ensure consistency, clarity, and reproducibility across lab workflows.
+
+You can also download the markdown file version [here](https://https://bios.asu.edu/)
 
 <details>
 <summary><strong>Click to expand SLP Template</strong></summary>
@@ -264,8 +268,9 @@ Specify where the outputs go.
 - DOI links if applicable  
 
 ---
-
-# 📸 **Embedding Images in SOPs**
+````
+## 🛠️ Additional Formatting Tips
+### 📸 **Embedding Images**
 Use the following Markdown format:
 
 ```md
@@ -280,10 +285,7 @@ You can also reference images inside subfolders:
 <img src="../images/Instrument_Diagram.png" width="350">
 ```
 
----
-````
-### 🛠️ Additional Formatting Tips
-# 📊 **Making Tables in Markdown**
+### 📊 **Making Tables in Markdown**
 Basic table:
 
 ```md
@@ -304,7 +306,7 @@ Multi-line formatting:
 
 ---
 
-# 🔗 **Links**
+### 🔗 **Adding Links**
 Link to other protocols:
 
 ```md
