@@ -68,7 +68,7 @@ Note: DO NOT squeeze the bottle, the sample should be collected through gravity 
 7. Filter can be thrown in the garbage.
     
 <p align="center">
-  <img src="..images/NUTS_Sampling.png" alt="Nutrients Sampling" width="400">
+  <img src="../images/NUTS_Sampling.png" alt="Nutrients Sampling" width="400">
 </p>
     
 ## 4. <a name="Analysis"></a> **Analysis**
