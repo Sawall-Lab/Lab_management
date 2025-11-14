@@ -282,6 +282,7 @@ You can also reference images inside subfolders:
 
 ---
 ````
+### 🛠️ Additional Formatting Tips
 # 📊 **Making Tables in Markdown**
 Basic table:
 
