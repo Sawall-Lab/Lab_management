@@ -99,6 +99,8 @@ To keep everything consistent, please follow the guidelines below.
 <details>
 <summary><strong>Click to expand</strong></summary>
 
+<br>
+
 ### 🟦 **Adding New Files**
 1. Navigate to the correct folder  
 2. Click **Add file → Upload files**  
