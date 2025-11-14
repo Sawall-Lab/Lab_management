@@ -146,7 +146,7 @@ git add .
 git commit -m "Updated TA analysis protocol"
 git push
 ```
-<details>
+</details>
 
 ## 📄 **Standard Operating Procedure (SOP) Template**
 
