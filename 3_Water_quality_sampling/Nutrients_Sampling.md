@@ -20,7 +20,7 @@ Be sure to wear gloves for the entire process! Testing for nutrient content is v
 
 ## Contents
 - [Materials](#Materials)  
-    - Purchasing new materials
+    - [Purchasing new materials](#Purchasing_new_materials)
 - [Preparation](#Preparation)  
 - [Sample Collection](#Sample_Collection)  
 - [Analysis](#Analysis)  
@@ -45,8 +45,8 @@ Most materials are stored on a shelf in room 305, in a green plastic box with a 
  -	Cooler filled with ice
  -	HCl
 
-Purchasing new materials:
--	Filters can be purchased by ordering online (sold by various websites, eg. [Cytivia](https://www.cytivalifesciences.com/en/us/products/items/whatman-nuclepore-polycarbonate-hydrophilic-membranes-p-06195) ).
+<a name="Purchasing new materials:">Purchasing new materials</a>
+-	Filters can be purchased by ordering online (sold by various websites, eg. [Cytivia](https://www.cytivalifesciences.com/en/us/products/items/whatman-nuclepore-polycarbonate-hydrophilic-membranes-p-06195)).
 -	HCl and can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu); [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
 
 ## <a name="Preparation">Preparation</a>
@@ -64,7 +64,7 @@ Purchasing new materials:
 2.  Untwist and separate the two parts of the filter holder and use the tweezers to put a filter inside (on the half with the grid), place the O-ring onto the filter, then close the filter holder again.
       Note: the filter must be placed very flat and uniform, and the filter must be closed carefully to keep the filter flat.
 
-## <a name="Sample_Collection">Sample Collection</a>
+## <a name="Sample Collection">Sample_Collection</a>
      
 1. Collect water from the middle of the water column by putting the bottle into the column upside down and then tipping it rightside up once in the middle of the water column.
 2. Rinse the bottle 3x with the sample water before collecting a full sample.
