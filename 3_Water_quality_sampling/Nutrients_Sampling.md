@@ -55,7 +55,7 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
 -	HCl and can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu); [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
 
 
-<h2 id="#Preparation">Preparation</h2>
+### <a name="#Preparation">Preparation</a>
 
 1. Use the tweezers to remove a filter from the filter container.
     - Note: the filters are clear and are separated by blue round sheets.
