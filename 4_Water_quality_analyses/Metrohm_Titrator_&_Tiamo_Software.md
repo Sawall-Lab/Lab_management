@@ -18,35 +18,35 @@ No gloves for computer handling!
 
 Contents
 - [**Materials**](#Materials)
-    - ##Making titrant 
-    - ##Samples
-    - ##Purchasing new materials
-- [**Making Titrant**](#Making Titrant)  
-- [**Tiamo Software**](#Tiamo Software) 
-    - ##Databases
-    - ##Methods 
-    - ##Export Templates
-- [**Machine Preparations**](#Machine Preparations)  
-- [**Bubble Removal**](#Bubble Removal)    
-- [**Sample Preparation**](#Sample Preparation)  
-    - ##Notes
-    - ##Adding sample data directly into the machine  
-    - ##Adding sample data using an CSV spreadsheet sample table 
-- [**Conducting Titrations**](#Conducting Titrations)  
-- [**End of Day**](#End of Day)  
-- [**Waste Disposal**](#Waste Disposal)  
-    - ##Clean Waste 
-    - ##Spiked Waste  
-    - ##Gloves, Aluminum foil, etc. 
-- [**Data Processing**](#Data Processing)  
+    - Making titrant 
+    - Samples
+    - Purchasing new materials
+- [**Making Titrant**](#Making_Titrant)  
+- [**Tiamo Software**](#Tiamo_Software) 
+    - Databases
+    - Methods 
+    - Export Templates
+- [**Machine Preparations**](#Machine_Preparations)  
+- [**Bubble Removal**](#Bubble_Removal)    
+- [**Sample Preparation**](#Sample_Preparation)  
+    - Notes
+    - Adding sample data directly into the machine  
+    - Adding sample data using an CSV spreadsheet sample table 
+- [**Conducting Titrations**](#Conducting_Titrations)  
+- [**End of Day**](#End_of_Day)  
+- [**Waste Disposal**](#Waste_Disposal)  
+    - Clean Waste 
+    - Spiked Waste  
+    - Gloves, Aluminum foil, etc. 
+- [**Data_Processing**](#Data Processing)  
 - [**Storage**](#Storage)  
 - [**Troubleshooting**](#Troubleshooting) 
-    - ##Calibration  
-    - ##Volume 
-    - ##System was shut down 
-    - ##Broken equipment 
+    - Calibration  
+    - Volume 
+    - System was shut down 
+    - Broken equipment 
 
-1. <a name="Materials"></a> **Materials**
+<a name="Materials"></a> **Materials**
 
 Materials are mostly stored in room 305. Note that not all materials on this list need to be used each time samples are run.
 

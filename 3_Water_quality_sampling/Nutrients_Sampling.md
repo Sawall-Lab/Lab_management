@@ -22,11 +22,11 @@ Be sure to wear gloves for the entire process! Testing for nutrient content is v
 - [Materials](#Materials)  
     - Purchasing new materials
 - [Preparation](#Preparation)  
-- [Sample_Collection](#Sample Collection)  
-- [**Analysis**](#Analysis)  
+- [Sample Collection](#Sample_Collection)  
+- [Analysis](#Analysis)  
 - [**Cleanup**](#Cleanup)  
  
-## <a name="Materials"></a> **Materials**
+## <a name="Materials">Materials</a>
 
 Most materials are stored on a shelf in room 305, in a green plastic box with a green lid labeled “Nutrients”.
 
