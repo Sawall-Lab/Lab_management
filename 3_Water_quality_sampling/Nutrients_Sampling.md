@@ -23,7 +23,7 @@ Note: Be sure to wear gloves for the entire process! Testing for nutrient conten
 - [Materials](#Materials)  
     - [Purchasing new materials](#Purchasing_new_materials)
 - [Preparation](#Preparation)  
-- [Sample Collection](#sample_collection)  
+- [Sample Collection](#sample-collection)  
 - [Analysis](#Analysis)  
 - [Cleanup](#Cleanup)  
  
@@ -65,12 +65,12 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
 2. Untwist and separate the two parts of the filter holder and use the tweezers to put a filter inside (on the half with the grid), place the O-ring onto the filter, then close the filter holder again.
     - Note: the filter must be placed very flat and uniform, and the filter must be closed carefully to keep the filter flat.
 
-## Sample Collection {#sample_collection}
+## Sample Collection {#sample-collection}
      
 1. Collect water from the middle of the water column by putting the bottle into the column upside down and then tipping it rightside up once in the middle of the water column.
 2. Rinse the bottle 3x with the sample water before collecting a full sample.
 3. Attach the filter to the top of the bottle, placing the bottle upside down so the water can drip out of the filter and into the amber bottle.
-    a. The bottle can be propped up to sit upside down, and the amber collection bottle can be set down as the water filtration can be a slow process.
+    - The bottle can be propped up to sit upside down, and the amber collection bottle can be set down as the water filtration can be a slow process.
     - Note: the water may drip very slowly out of the filter.
     - Note: DO NOT squeeze the bottle, the sample should be collected through gravity flow rather than pressure.
 4. Rinse the amber bottle 3x with the filtered sample water before filling the bottle, leaving enough headspace in the bottle for the sample to expand as it freeze.
