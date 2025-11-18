@@ -32,7 +32,7 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
 
 - Gloves
 - Nuclepore 47mm Circular Filters
-<p align="center">
+<p>
   <img src="../images/Whatman_Nuclepore_Filter.png" alt="Whatman Nuclepore Filter Container" width="400">
 </p>
 
@@ -65,7 +65,7 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
 2. Untwist and separate the two parts of the filter holder and use the tweezers to put a filter inside (on the half with the grid), place the O-ring onto the filter, then close the filter holder again.
     - Note: the filter must be placed very flat and uniform, and the filter must be closed carefully to keep the filter flat.
 
-## <a name="#sample_collection">Sample Collection</a>
+## <a name="Sample Collection">#sample_collection</a>
      
 1. Collect water from the middle of the water column by putting the bottle into the column upside down and then tipping it rightside up once in the middle of the water column.
 2. Rinse the bottle 3x with the sample water before collecting a full sample.
@@ -78,13 +78,13 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
 6. After all samples are collected, put all the samples in a labeled plastic bag and place the plastic bag in a -20°C freezer.
 7. Filter can be thrown in the garbage.
     
-<p align="center">
+<p>
   <img src="../images/NUTS_Sampling.png" alt="Nutrients Sampling" width="400">
 </p>
 
-align="center" *Potential sampling setup*
+*Potential sampling setup*
 
-<p align="center">
+<p>
   <img src="../images/NUTS_Alternative_Sampling.png" alt="Nutrients Alternative Sampling" width="400">
 </p>
 
