@@ -47,7 +47,8 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
  -	Cooler filled with ice
  -	HCl
 
-<h4 id="Purchasing new materials">#Purchasing_new_materials</h4>
+<h4 id="#Purchasing_new_materials">Purchasing new materials</h4>
+
 -	Filters can be purchased by ordering online (sold by various websites, eg. [Cytivia](https://www.cytivalifesciences.com/en/us/products/items/whatman-nuclepore-polycarbonate-hydrophilic-membranes-p-06195)).
 -	HCl and can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu); [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
 
@@ -59,6 +60,7 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
 <p>
   <img src="../images/Whatman_Nuclepore_Filter_Open.png" alt="Removing Whatman Nuclepore Filter" width="400">
 </p>
+
 *Clear filter being removed from storage box*
 
 
@@ -81,12 +83,14 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
 <p>
   <img src="../images/NUTS_Sampling.png" alt="Nutrients Sampling" width="400">
 </p>
+
 *Potential sampling setup*
 
 
 <p>
   <img src="../images/NUTS_Alternative_Sampling.png" alt="Nutrients Alternative Sampling" width="400">
 </p>
+
 *Potential sampling setup using alternative sampling bottle (not stored in the Nutrients box)*
 
   
