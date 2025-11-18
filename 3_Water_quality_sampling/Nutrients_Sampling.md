@@ -45,7 +45,7 @@ Most materials are stored on a shelf in room 305, in a green plastic box with a 
  -	Cooler filled with ice
  -	HCl
 
-<a name="Purchasing new materials:">Purchasing new materials</a>
+<a name="Purchasing new materials:">Purchasing_new_materials</a>
 -	Filters can be purchased by ordering online (sold by various websites, eg. [Cytivia](https://www.cytivalifesciences.com/en/us/products/items/whatman-nuclepore-polycarbonate-hydrophilic-membranes-p-06195)).
 -	HCl and can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu); [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
 
