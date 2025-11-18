@@ -55,7 +55,7 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
 -	HCl and can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu); [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
 
 
-### <a name="#Preparation">Preparation</a>
+<h2 id="#Preparation">Preparation</h2>
 
 1. Use the tweezers to remove a filter from the filter container.
     - Note: the filters are clear and are separated by blue round sheets.
@@ -71,7 +71,7 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
     - Note: the filter must be placed very flat and uniform, and the filter must be closed carefully to keep the filter flat.
 
 
-<h2 id="#Sample_Collection">Sample Collection</h2>
+<h2 id="Sample_Collection">Sample Collection</h2>
      
 1. Collect water from the middle of the water column by putting the bottle into the column upside down and then tipping it rightside up once in the middle of the water column.
 2. Rinse the bottle 3x with the sample water before collecting a full sample.
