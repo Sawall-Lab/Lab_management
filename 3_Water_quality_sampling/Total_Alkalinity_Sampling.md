@@ -10,13 +10,15 @@ output: html_document
 Original: 20251113    
 Last Revised: 20251113 
 
-Overview: This protocol is used for the collection of water samples for the purpose of analyzing Total Alkalinity with the Metrohm Titrator in room 305.
+## Overview
+
+This protocol is used for the collection of water samples for the purpose of analyzing Total Alkalinity with the Metrohm Titrator in room 305.
 
 ## Contents  
 
-- [**Materials**](#Materials) 
-    - Purchasing new materials
-- [**Sample Collection**](#Sample_Collection)  
+- [Materials](#Materials) 
+    - [Purchasing new materials](#Purchasing_new_materials)
+- [*Sample Collection](#Sample_Collection)  
 
 ## <a name="Materials">Materials</a>
 
@@ -34,7 +36,7 @@ Most materials are stored in room 305.
 -	YSI probe
 -	Notebook/datasheet
     
-Purchasing new materials: 
+### <a name="#Purchasing_new_materials">Purchasing new materials</a>
 -	HgCl2 can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu); [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
 -	Filters can be purchased by ordering online (sold by various websites, eg. [Cytivia](https://www.cytivalifesciences.com/en/us/products/items/whatman-nuclepore-polycarbonate-hydrophilic-membranes-p-06195)).
 
