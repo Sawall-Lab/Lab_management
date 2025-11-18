@@ -28,7 +28,7 @@ Note: Be sure to wear gloves for the entire process! Testing for nutrient conten
 - [Cleanup](#Cleanup)  
  
  
-<h2 id="#materials">Materials</h2>
+<h2 id="Materials">Materials</h2>
 
 Most materials are stored on a shelf in room 305, in a green plastic box labeled “Nutrients”.
 
@@ -55,7 +55,7 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
 -	HCl and can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu); [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
 
 
-<h2 id="#Preparation">Preparation</h2>
+<h2 id="Preparation">Preparation</h2>
 
 1. Use the tweezers to remove a filter from the filter container.
     - Note: the filters are clear and are separated by blue round sheets.

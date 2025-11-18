@@ -1,26 +1,30 @@
----
-title: "Total_Alkalinity_Sampling"
-author: "Xinya Calhoun"
-date: "2025-11-13"
-output: html_document
+<p align="center">
+  <img src="../images/ASU_BIOS_Logo.png" 
+       alt="ASU-BIOS Logo"
+       height="140">
+</p>
+
 ---
 
 # Protocol for Total Alkalinity Sampling 
-
-Original: 20251113    
-Last Revised: 20251113 
+**Author(s):** Xinya Calhoun  
+**Lab:** Sawall Lab / MABEE Lab  
+**Version:** v1.0  
+**Date:** 2025-11-18
 
 ## Overview
 
-This protocol is used for the collection of water samples for the purpose of analyzing Total Alkalinity with the Metrohm Titrator in room 305.
+This protocol is used for the collection of water samples for the purpose of analyzing Total Alkalinity (TA) with the Metrohm Titrator in room 305.
 
 ## Contents  
 
 - [Materials](#Materials) 
     - [Purchasing new materials](#Purchasing_new_materials)
-- [*Sample Collection](#Sample_Collection)  
+- [*Sample Collection](#Sample_Collection)
+- [Cleanup](#Cleanup) 
+- [Analysis](#Analysis) 
 
-## <a name="Materials">Materials</a>
+<h2 id="Materials">Materials</h2>
 
 Most materials are stored in room 305. 
 
@@ -36,14 +40,15 @@ Most materials are stored in room 305.
 -	YSI probe
 -	Notebook/datasheet
     
-### <a name="#Purchasing_new_materials">Purchasing new materials</a>
+<h4 id="Purchasing_new_materials">Purchasing new materials</h4>
+
 -	HgCl2 can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu); [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
 -	Filters can be purchased by ordering online (sold by various websites, eg. [Cytivia](https://www.cytivalifesciences.com/en/us/products/items/whatman-nuclepore-polycarbonate-hydrophilic-membranes-p-06195)).
 
     
-## <a name="Sample_Collection">Sample Collection</a>
+<h2 id="Sample_Collection">Sample Collection</h2>
 
-Samples can be collected through different methods (eg. RAS Sampler, BIO-RESORT Water Sampler, hand-collected samples). This outline will be for hand-collected samples using filtration and vials, with and without spiking.
+Samples can be collected through different methods (eg. RAS Sampler, BIO-RESORT Water Sampler, hand-collected samples). This outline will be for hand-collected samples using filtration and 30mL vials, with and without spiking.
 
 1. Use 30mL threaded vials to collect the samples.
 2. Record the vial ID and time of sample collection, and use the YSI to record the salinity and pH of the water the sample is taken from.
@@ -62,18 +67,21 @@ Samples can be collected through different methods (eg. RAS Sampler, BIO-RESORT 
 7. Eject water from the syringe to fill the sample vial.
     - If taking triplicate samples, use the same syringe water sample for all three vials.
 8. If not spiking the sample:
-    a. Place sample in the ice cooler.
-    b. Once all samples are collected, place vials in the fridge.
+    - Place sample in the ice cooler.
+    - Once all samples are collected, place vials in the fridge.
 9. If spiking the sample:
-    a.	Gloves ON.
-    b.	Do not change the volume of the pipette.
-    c.	Eject one pipette volume worth of HgCl2 into the vial.
-    d.	Close the vial and slowly turn it upside down to mix the HgCl2 throughout the vial.
-    e.	The pipette can be put back down into the water bottle container, then the tip can be disposed of in the small plastic bag in the kit.
-    f.	See Waste Disposal for more details.
+    - Gloves ON.
+    - Do not change the volume of the pipette.
+    - Eject one pipette volume worth of HgCl2 into the vial.
+        - If taking samples bigger than 30mL, more HgCl2 may be needed.
+    - Close the vial and slowly turn it upside down to mix the HgCl2 throughout the vial.
+    - The pipette can be put back down into the water bottle container, then the tip can be disposed of in the small plastic bag in the kit.
 10. Remove the filter holder from the syringe and empty all remaining sample liquid from the syringe. 
-11. Repeat steps 4-10 for all samples. The same filter can be used for all samples until it is too difficult eject water through it. Once it is no longer needed the filter can be thrown out.
+11. Repeat steps 4-10 for all samples. The same filter can be used for all samples until it is too difficult eject water through it. Once it is no longer needed the filter can be thrown out in the regular garbage.
 
+<h2 id="Analysis">Analysis</h2>
+
+Analysis of the TA samples is conducted using the Metrohm Titrator and the attached Tiamo software, located in room 305. The protocol for this process is outlined [here]()
 
 
         
