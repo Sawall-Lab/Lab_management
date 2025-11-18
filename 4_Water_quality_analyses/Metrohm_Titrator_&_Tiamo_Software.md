@@ -123,6 +123,9 @@ Methods are step-by-step procedures that the instrument takes each time it analy
   <img src="../images/Tiamo_Methods.png" alt="Tiamo Methods" width="400">
 </p>
 
+*Method: TA_CO3_20mL_AU_JWelter*
+
+
 <h4 id="Export_Templates">Export Templates</h4>
 
 Export Templates are outlines for where the produced “res” and “mp” files from each analyzed sample will be saved in the computer’s File Explorer, and what metadata will be included in the produced “res” files from each analyzed sample.
@@ -143,6 +146,9 @@ Export Templates are outlines for where the produced “res” and “mp” file
 <p>
   <img src="../images/Tiamo_Export_Template.png" alt="Tiamo Export Template" width="400">
 </p>
+
+*Tiamo windows for finding, creating, and editing Export Templates*
+
 
 <h2 id="Machine_Preparations">Machine Preparations</h2>
 
@@ -206,19 +212,26 @@ Note: don’t run pump 1 for too long or else the sample beaker will overflow.
     -	Sample vials and 30mL threaded glass vials: special position = 187mm
 9. 2 junk samples should be run between every ~12 real samples to ensure the system is still stabilized or to determine drift.
 
+<p>
+  <img src="../images/Tiamo_Junk_Template.png" alt="Tiamo Junk Template" width="400">
+</p>
+
+*Example junk sample template*
+
+
 <h4 id="Adding_sample_data_directly_into_software:">Adding sample data directly into software</h4> 
 
-    1. Go to the “Workplace” tab in the Tiamo software (top left corner).
-    2. Expand the “run” window (top right corner).
-    3. Clear the sample data tab if old samples are present (select any line of sample data and right-click -> delete).
-    4. Double-click the first line.
-    5. Select the desired method.
-    6. Add sample ID in the ID1 field.
-    7. Add sample salinity in ID2 field.
-    8. Other metadata can be added in ID3-ID8 fields.
-    9. Click “Apply” to add the sample to the table.
-    10. Use the arrows at bottom left hand corner to move to the next line and add more samples.
-    11.	Proceed to “Starting Titrations”.
+1. Go to the “Workplace” tab in the Tiamo software (top left corner).
+2. Expand the “run” window (top right corner).
+3. Clear the sample data tab if old samples are present (select any line of sample data and right-click -> delete).
+4. Double-click the first line.
+5. Select the desired method.
+6. Add sample ID in the ID1 field.
+7. Add sample salinity in ID2 field.
+8. Other metadata can be added in ID3-ID8 fields.
+9. Click “Apply” to add the sample to the table.
+10. Use the arrows at bottom left hand corner to move to the next line and add more samples.
+11.	Proceed to “Starting Titrations”.
 
 <h4 id="Adding_sample_data_using_CSV_sample_table">Adding sample data using CSV sample table</h4>
 
@@ -228,10 +241,18 @@ Note: if samples are collected by another researcher, a template table can be se
 2. Add the correct date (yyyymmdd) to the template file and append with titration run number.
 3. Add method name in column A (Method).
 4. Add sample positions in column B (Sample Position).
-    Note: for duplicates or triplicates, samples should not be run one after the other – alternate duplicates or triplicates with each other to account more for drift.
+    - Note: for duplicates or triplicates, samples should not be run one after the other – alternate duplicates or triplicates with each other to account more for drift.
+
+<p>
+  <img src="../images/Tiamo_Sample_Table.png" alt="Tiamo Sample Table" width="400">
+</p>
+
+*Sample table with triplicates before and after alternating*                                                  
+
+
 5. Add sample IDs in column C (ID1).
 6. Add sample salinities is column D (ID2).
-    Note: LNSW salinity is 36.6, sample salinity is dependent on water quality measurements.
+    - Note: LNSW salinity is 36.6, sample salinity is dependent on water quality measurements.
 7. Other metadata can be added in columns E-J (ID3-ID8).
 8. Add titration volume in column K (Sample Size).
 9. Add sample unit in column L (Sample Size Unit) (unit will be mL unless specified otherwise). 
