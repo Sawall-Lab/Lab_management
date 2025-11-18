@@ -23,11 +23,11 @@ Note: Be sure to wear gloves for the entire process! Testing for nutrient conten
 - [Materials](#Materials)  
     - [Purchasing new materials](#Purchasing_new_materials)
 - [Preparation](#Preparation)  
-- [Sample Collection](#sample-collection)  
+- [Sample Collection](#Sample_Collection)  
 - [Analysis](#Analysis)  
 - [Cleanup](#Cleanup)  
  
-## <a name="Materials">Materials</a>
+<h2 id="#materials">Materials</h2>
 
 Most materials are stored on a shelf in room 305, in a green plastic box labeled “Nutrients”.
 
@@ -47,11 +47,11 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
  -	Cooler filled with ice
  -	HCl
 
-#### <a name="Purchasing new materials">#Purchasing_new_materials</a>
+<h4 id="Purchasing new materials">#Purchasing_new_materials</h4>
 -	Filters can be purchased by ordering online (sold by various websites, eg. [Cytivia](https://www.cytivalifesciences.com/en/us/products/items/whatman-nuclepore-polycarbonate-hydrophilic-membranes-p-06195)).
 -	HCl and can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu); [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
 
-## <a name="Preparation">Preparation</a>
+<h2 id="#Preparation">Preparation</h2>
 
 1. Use the tweezers to remove a filter from the filter container.
     - Note: the filters are clear and are separated by blue round sheets.
@@ -90,7 +90,7 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
 *Potential sampling setup using alternative sampling bottle (not stored in the Nutrients box)*
 
   
-## <a name="Analysis">Analysis</a>
+<h2 id="Analysis">Analysis</h2>
  
 Nutrients analysis is conducted by [Becca May](rebecca.may@bios.asu.edu) from the BATS Team, and are sent along once all samples from the season are collected.
 
@@ -110,7 +110,7 @@ Nutrients analysis is conducted by [Becca May](rebecca.may@bios.asu.edu) from th
 *Example spreadsheet*
 
 
-## <a name="Cleanup">Cleanup</a>
+<h2 id="Cleanup">Cleanup</h2>
 
 - Amber Bottles need to be retrieved from the BATS Lab
 - Bottles and disassembled filter holders should be soaked in an HCl bath for 2-3hrs, then rinsed with tapwater, then rinsed 3x with MQ, then hung/sat to dry.
