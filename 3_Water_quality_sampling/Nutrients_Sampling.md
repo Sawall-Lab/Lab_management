@@ -26,7 +26,7 @@ Be sure to wear gloves for the entire process! Testing for nutrient content is v
 - [**Analysis**](#Analysis)  
 - [**Cleanup**](#Cleanup)  
  
-## <a name="Materials"></a> **Materials**
+<a name="Materials"></a> **Materials**
 
 Most materials are stored on a shelf in room 305, in a green plastic box with a green lid labeled “Nutrients”.
 
@@ -84,9 +84,8 @@ Purchasing new materials:
 *Potential sampling setup*
 
 <p align="center">
-  <img src="../images/NUTS_Alternative_Sampling.png" alt="Nutrients Alternative Sampling" width="400">
+  <img src="../images/NUTS_Alternative_Sampling.png" alt="Nutrients Sampling" width="400">
 </p>
-
 *Potential sampling setup using alternative sampling bottle (not stored in the Nutrients box)*
 
   
