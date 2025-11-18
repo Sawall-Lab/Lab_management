@@ -84,7 +84,7 @@ Purchasing new materials:
 *Potential sampling setup*
 
 <p align="center">
-  <img src="../images/NUTS_Alternative_Sampling.png" alt="Nutrients Sampling" width="400">
+  <img src="../images/NUTS_Alternative_Sampling.png" alt="Nutrients Alternative Sampling" width="400">
 </p>
 *Potential sampling setup using alternative sampling bottle (not stored in the Nutrients box)*
 
