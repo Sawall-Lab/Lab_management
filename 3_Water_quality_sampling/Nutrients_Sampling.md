@@ -19,10 +19,10 @@ This protocol is used for the collection of water samples for the purpose of ana
 Be sure to wear gloves for the entire process! Testing for nutrient content is very sensitive.
 
 ## Contents
-- [**Materials**](#Materials)  
+- [Materials](#Materials)  
     - Purchasing new materials
-- [**Preparation**](#Preparation)  
-- [**Sample_Collection**](#Sample Collection)  
+- [Preparation](#Preparation)  
+- [Sample_Collection](#Sample Collection)  
 - [**Analysis**](#Analysis)  
 - [**Cleanup**](#Cleanup)  
  
