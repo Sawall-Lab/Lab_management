@@ -67,7 +67,7 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
 2. Untwist and separate the two parts of the filter holder and use the tweezers to put a filter inside (on the half with the grid), place the O-ring onto the filter, then close the filter holder again.
     - Note: the filter must be placed very flat and uniform, and the filter must be closed carefully to keep the filter flat.
 
-<h2 id="#sample-collection">Sample Collection</h2>
+<h2 id="#Sample-Collection">Sample Collection</h2>
      
 1. Collect water from the middle of the water column by putting the bottle into the column upside down and then tipping it rightside up once in the middle of the water column.
 2. Rinse the bottle 3x with the sample water before collecting a full sample.
