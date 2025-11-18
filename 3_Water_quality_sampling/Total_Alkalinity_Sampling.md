@@ -16,9 +16,9 @@ Overview: This protocol is used for the collection of water samples for the purp
 
 - [**Materials**](#Materials) 
     - Purchasing new materials
-- [**Sample_Collection**](#Sample Collection)  
+- [**Sample Collection**](#Sample_Collection)  
 
-## <a name="Materials"></a> **Materials**
+## <a name="Materials">Materials</a>
 
 Most materials are stored in room 305. 
 
@@ -39,7 +39,7 @@ Purchasing new materials:
 -	Filters can be purchased by ordering online (sold by various websites, eg. [Cytivia](https://www.cytivalifesciences.com/en/us/products/items/whatman-nuclepore-polycarbonate-hydrophilic-membranes-p-06195)).
 
     
-## <a name="Sample Collection"></a> **Sample_Collection**
+## <a name="Sample_Collection">Sample Collection</a>
 
 Samples can be collected through different methods (eg. RAS Sampler, BIO-RESORT Water Sampler, hand-collected samples). This outline will be for hand-collected samples using filtration and vials, with and without spiking.
 
