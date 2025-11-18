@@ -22,7 +22,7 @@ Be sure to wear gloves for the entire process! Testing for nutrient content is v
 - [Materials](#Materials)  
     - [Purchasing new materials](#Purchasing_new_materials)
 - [Preparation](#Preparation)  
-- [Sample Collection](#Sample Collection)  
+- [Sample Collection](#Sample_Collection)  
 - [Analysis](#Analysis)  
 - [Cleanup](#Cleanup)  
  
