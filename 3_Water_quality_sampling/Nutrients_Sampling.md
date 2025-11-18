@@ -22,7 +22,7 @@ Be sure to wear gloves for the entire process! Testing for nutrient content is v
 - [**Materials**](#Materials)  
     - Purchasing new materials
 - [**Preparation**](#Preparation)  
-- [**Sample Collection**](#Sample Collection)  
+- [**Sample_Collection**](#Sample_Collection)  
 - [**Analysis**](#Analysis)  
 - [**Cleanup**](#Cleanup)  
  
@@ -57,7 +57,9 @@ Purchasing new materials:
 <p align="center">
   <img src="../images/Whatman_Nuclepore_Filter_Open.png" alt="Removing Whatman Nuclepore Filter" width="400">
 </p>
+
 *Clear filter being removed from storage box*
+
 
 2.  Untwist and separate the two parts of the filter holder and use the tweezers to put a filter inside (on the half with the grid), place the O-ring onto the filter, then close the filter holder again.
       Note: the filter must be placed very flat and uniform, and the filter must be closed carefully to keep the filter flat.
@@ -78,13 +80,16 @@ Purchasing new materials:
 <p align="center">
   <img src="../images/NUTS_Sampling.png" alt="Nutrients Sampling" width="400">
 </p>
+
 *Potential sampling setup*
 
 <p align="center">
   <img src="../images/NUTS_Alternative_Sampling.png" alt="Nutrients Alternative Sampling" width="400">
 </p>
+
 *Potential sampling setup using alternative sampling bottle (not stored in the Nutrients box)*
-    
+
+  
 ## <a name="Analysis"></a> **Analysis**
  
 Nutrients analysis is conducted by Becca May (rebecca.may@bios.asu.edu) from the BATS Team, and are sent along once all samples from the season are collected.
@@ -101,7 +106,9 @@ Nutrients analysis is conducted by Becca May (rebecca.may@bios.asu.edu) from the
 | AU_20250905 | A5 |
 | AU_20250905 | A6 |
 | AU_20250905 | A7 |
+
 *Example spreadsheet*
+
 
 ## <a name="Cleanup"></a> **Cleanup**
 
