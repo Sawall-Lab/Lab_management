@@ -26,7 +26,7 @@ Be sure to wear gloves for the entire process! Testing for nutrient content is v
 - [**Analysis**](#Analysis)  
 - [**Cleanup**](#Cleanup)  
  
-## 1. <a name="Materials"></a> **Materials**
+## <a name="Materials"></a> **Materials**
 
 Most materials are stored on a shelf in room 305, in a green plastic box with a green lid labeled “Nutrients”.
 
@@ -35,6 +35,7 @@ Most materials are stored on a shelf in room 305, in a green plastic box with a 
 <p align="center">
   <img src="../images/Whatman_Nuclepore_Filter.png" alt="Whatman Nuclepore Filter Container" width="400">
 </p>
+
 -	Tweezers to handle filters
 -	Filter holders
 -	Bottle with Nutrients Sampling (bottle modified for nutrient sampling)
@@ -43,12 +44,12 @@ Most materials are stored on a shelf in room 305, in a green plastic box with a 
     - Appropriate labels should be added via electrical tape
  -	Cooler filled with ice
  -	HCl
- 	  
-Purchasing new materials:
-    -	Filters can be purchased by ordering online (sold by various websites, eg. Cytivia).
-    -	HCl and can be ordered through Lab Operations (Yasah Pitcher, ypitcher@bios.asu.edu; Jess Godfrey, Jessica_Godfrey@bios.asu.edu).              
 
-## 2. <a name="Preparation"></a> **Preparation**
+Purchasing new materials:
+-	Filters can be purchased by ordering online (sold by various websites, eg. Cytivia).
+-	HCl and can be ordered through Lab Operations (Yasah Pitcher, ypitcher@bios.asu.edu; Jess Godfrey, Jessica_Godfrey@bios.asu.edu).              
+
+## <a name="Preparation"></a> **Preparation**
 
 1.  Use the tweezers to remove a filter from the filter container.
       Note: the filters are clear and are separated by blue round sheets.
@@ -61,7 +62,7 @@ Purchasing new materials:
 2.  Untwist and separate the two parts of the filter holder and use the tweezers to put a filter inside (on the half with the grid), place the O-ring onto the filter, then close the filter holder again.
       Note: the filter must be placed very flat and uniform, and the filter must be closed carefully to keep the filter flat.
 
-## 3. <a name="Sample Collection"></a> **Sample Collection**
+## <a name="Sample Collection"></a> **Sample Collection**
      
 1. Collect water from the middle of the water column by putting the bottle into the column upside down and then tipping it rightside up once in the middle of the water column.
 2. Rinse the bottle 3x with the sample water before collecting a full sample.
@@ -84,7 +85,7 @@ Purchasing new materials:
 </p>
 *Potential sampling setup using alternative sampling bottle (not stored in the Nutrients box)*
     
-## 4. <a name="Analysis"></a> **Analysis**
+## <a name="Analysis"></a> **Analysis**
  
 Nutrients analysis is conducted by Becca May (rebecca.may@bios.asu.edu) from the BATS Team, and are sent along once all samples from the season are collected.
 
@@ -102,7 +103,7 @@ Nutrients analysis is conducted by Becca May (rebecca.may@bios.asu.edu) from the
 | AU_20250905 | A7 |
 *Example spreadsheet*
 
-## 5. <a name="Cleanup"></a> **Cleanup**
+## <a name="Cleanup"></a> **Cleanup**
 
 - Amber Bottles need to be retrieved from the BATS Lab
 - Bottles and disassembled filter holders should be soaked in an HCl bath for 2-3hrs, then rinsed with tapwater, then rinsed 3x with MQ, then hung/sat to dry.
