@@ -6,7 +6,8 @@
 
 ---
 
-# Protocol for Total Alkalinity Sampling 
+# Protocol for Analyzing Total Alkalinity
+### Using Metrohm Titrator and Tiamo Software
 **Author(s):** Roderick Bakker, Xinya Calhoun  
 **Lab:** Sawall Lab / MABEE Lab  
 **Version:** v1.3  
@@ -81,7 +82,7 @@ Materials are mostly stored in room 305. Note that not all materials on this lis
 
 -	Aluminum foil and pH testing strips can be purchased at stores on-island and reimbursed.
 -	HCl and HgCl2 can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
--	Metrohm solutions and parts (KCl solution, etc.) can be purchased through their website.
+-	Metrohm solutions and parts (KCl solution, etc.) can be purchased through their [website](https://www.metrohm.com/en.html).
 
 <h2 id="Making_Titrant">Making Titrant</h2>
 
