@@ -20,7 +20,7 @@ This protocol is used for the collection of water samples for the purpose of ana
 
 - [Materials](#Materials) 
     - [Purchasing new materials](#Purchasing_new_materials)
-- [*Sample Collection](#Sample_Collection)
+- [Sample Collection](#Sample_Collection)
 - [Cleanup](#Cleanup) 
 - [Analysis](#Analysis) 
 
