@@ -34,7 +34,7 @@ Most materials are stored in room 305.
     - Syringe
     - [Whatman GF/F 25mm circular glass microfiber filters](../images/Whatman_GFF_Filter.png)
     - Tweezers to handle filters
-- [HgCl~~2~~ spiking kit](../images/HgCl2_Kit.png) (if needed)
+- [HgCl<sub>2<sub> spiking kit](../images/HgCl2_Kit.png) (if needed)
 - Gloves (if spiking)
 -	Cooler full of ice (if not spiking)
 -	YSI probe
