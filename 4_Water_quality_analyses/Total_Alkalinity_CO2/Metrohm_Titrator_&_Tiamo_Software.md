@@ -14,7 +14,7 @@
 
 ## Overview
 
-This protocol is used for the estimation of carbonate (CO3) and/or total alkalinity (TA) through a 2-step titration process via the Metrohm Titrator and Tiamo software. A sample volume of 30-50mL is required; protocols are available for different volumes, but the different protocols cannot be mixed during a single run. 
+This protocol is used for the estimation of carbonate (CO<sub>3</sub>) and/or total alkalinity (TA) through a 2-step titration process via the Metrohm Titrator and Tiamo software. A sample volume of 30-50mL is required; protocols are available for different volumes, but the different protocols cannot be mixed during a single run. 
 
 Gloves for machine and sample handling! This lab sometimes uses HgCl<sub>2</sub> so there could be traces.
 No gloves for computer handling! 
@@ -360,9 +360,9 @@ Storage refers to when the system and the instrument will not be running samples
 
 <h4 id="Calibration">Calibration</h4>
 
-If values seem off, the lab has batches of [Certified Reference Material (CRM)](../../images/CRMs.png) solution, located in cupboard labeled “Seawater Standards, Spiked HgCl2”. These have been prepared by the Scripps Institution, with each respective batch’s salinity, TA and CO2 values published [online](https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Dickson_CRM/batches.html). Run some samples of an UNOPENED bottle of solution (if already opened then the values will not be accurate due to air exposure) using their salinity, and if the CO2 and TA results do not match those published by Scripps (be sure to correspond the batch number to the number on the website) then there is something off with the system’s readings and offset must be accounted for.
+If values seem off, the lab has batches of [Certified Reference Material (CRM)](../../images/CRMs.png) solution, located in cupboard labeled “Seawater Standards, Spiked HgCl<sub>2</sub>”. These have been prepared by the Scripps Institution, with each respective batch’s salinity, TA and CO<sub>2</sub> values published [online](https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Dickson_CRM/batches.html). Run some samples of an UNOPENED bottle of solution (if already opened then the values will not be accurate due to air exposure) using their salinity, and if the CO<sub>2</sub> and TA results do not match those published by Scripps (be sure to correspond the batch number to the number on the website) then there is something off with the system’s readings and offset must be accounted for.
 
-Note: the Scripps solutions are spiked with HgCl¬2!
+Note: the Scripps solutions are spiked with HgCl<sub>2</sub>!
 
 If new CRMs need to be purchased, email co2crms@ucsd.edu and they will provide an order form.
 
