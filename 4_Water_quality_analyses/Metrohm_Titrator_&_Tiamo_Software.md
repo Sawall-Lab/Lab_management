@@ -44,12 +44,12 @@ No gloves for computer handling!
     - [Clean Waste](#Clean_Waste)
     - [Spiked Waste](#Spiked_Waste)  
     - [Gloves, Aluminum foil, etc.](#Gloves,_Aluminum_foil,_etc.)
-- [**Data_Processing**](#Data Processing)  
-- [**Storage**](#Storage)  
-- [**Troubleshooting**](#Troubleshooting) 
+- [Data Processing](#Data_Processing)  
+- [Storage](#Storage)  
+- [Troubleshooting](#Troubleshooting) 
     - [Calibration](#Calibration)
     - [Volume](#Volume)
-    - [System was shut down](#System_Was_Shut_Down) 
+    - [Software was shut down](#Software_was_shut_down) 
     - [Broken equipment](#Broken_Equipment) 
 
 <h2 id="Materials">Materials</h2>
@@ -57,12 +57,14 @@ No gloves for computer handling!
 Materials are mostly stored in room 305. Note that not all materials on this list need to be used each time samples are run.
 
 <h4 id="Titrant">Titrant</h4> 
+
 -	Balance/scale
 -	HCl
 -	Reagent+ grade NaCl
 -	MilliQ water (aka MQ)
     
 <h4 id="Samples">Samples</h4>
+
 -	Collected samples
 -	LNSW + bottles
 -	Titrant
@@ -76,8 +78,9 @@ Materials are mostly stored in room 305. Note that not all materials on this lis
 -	CRMs
     
 <h4 id="Purchasing_new_materials">Purchasing new materials</h4>
+
 -	Aluminum foil and pH testing strips can be purchased at stores on-island and reimbursed.
--	HCl and HgCl2 can be ordered through Lab Operations (Yasah Pitcher, ypitcher@bios.asu.edu; Jess Godfrey, Jessica_Godfrey@bios.asu.edu).              
+-	HCl and HgCl2 can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
 -	Metrohm solutions and parts (KCl solution, etc.) can be purchased through their website.
 
 <h2 id="Making_Titrant">Making Titrant</h2>
@@ -294,11 +297,11 @@ Recall that at the beginning of the day the LNSW junks need to be run first! The
 
 <h2 id="End_of_Day">End of Day</h2>
 
-    1. Top up electrode with KCl and close it.
-    2. Unlatch top of pump 2.
-    3. Move waste line on pump 2 back to waste bottle with green label. 
-    4. Discard remnants from sample vials into the appropriate waste bottle, wash each 3x with MQ and leave to dry.
-    5. Proceed to “Data Processing”.
+1. Top up electrode with KCl and close it.
+2. Unlatch top of pump 2.
+3. Move waste line on pump 2 back to waste bottle with green label. 
+4. Discard remnants from sample vials into the appropriate waste bottle, wash each 3x with MQ and leave to dry.
+5. Proceed to “Data Processing”.
 
 <h2 id="Waste_Disposal">Waste Disposal</h2>
 
@@ -321,12 +324,12 @@ Recall that at the beginning of the day the LNSW junks need to be run first! The
 4. Contains seawater, MQ, Titrant, and HgCl2
 5. Needs to be treated with HCl to lower the pH to ~3 (TEST WITH PH PAPER)
     - Jerry can full to 10L needs ~15ml of HCl
-6. Bring wastewater to the mercury filter in the DIC Lab (discuss beforehand with Becky Garley, Rebecca.Garley@bios.asu.edu)
+6. Bring wastewater to the mercury filter in the DIC Lab (discuss beforehand with [Becky Garley](Rebecca.Garley@bios.asu.edu))
 
 <h4 id="Gloves,_Aluminum_foil,_etc.">Gloves, Aluminum foil, etc.</h4>
 
 1. All things that come in contact with regular samples can be disposed of in the regular waste bins.
-2. All things that come in contact with HgCl¬2 (gloves, aluminum foil, etc.) should be disposed of in a double-bagged biohazard bag that can be obtained from Lab Operations (Yasah Pitcher, ypitcher@bios.asu.edu; Jess Godfrey, Jessica_Godfrey@bios.asu.edu).              
+2. All things that come in contact with HgCl¬2 (gloves, aluminum foil, etc.) should be disposed of in a double-bagged biohazard bag that can be obtained from Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
     -	Once biohazard bag is full, seal and return bag to Lab Operations.
 
 <h2 id="Data_Processing">Data Processing</h2>
