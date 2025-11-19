@@ -182,7 +182,7 @@ These steps should be taken every day, regardless of if it is also the start of 
 
 <h2 id="Bubble_Removal">Bubble Removal</h2>
 
-Note: bubble removal process only uses MQ so the waste line of pump 2 can be in the waste bottle with the green label for the duration of the process.
+The waste line of pump 2 can be in the waste bottle with the green label for the duration of the bubble removal process.
 
 1. Put a 50mL Falcon tube into the position directly under the injection needle.
 2. In the Tiamo software: “Manual -> Tower 1 -> Move -> Lower the “Lift position” until the injection needle is lowered to ~150mm in the Falcon tube.
@@ -239,7 +239,7 @@ Note: don’t run pump 1 for too long or else the sample beaker will overflow.
 
 <h4 id="Adding_sample_data_using_CSV_sample_table">Adding sample data using CSV sample table</h4>
 
-Note: if samples are collected by another researcher, a template table can be sent to them for them to fill out and returned for running the titrations. Example templates are provided in the [Templates](../../Templates) folder.
+Note: if samples are collected by another researcher, a template table can be sent to them for them to fill out and returned for running the titrations. Example templates are provided in the [Templates](../Total_Alkalinity_CO2/Templates) folder.
 
 1. Copy the sample table template (or a previous sample table) to a daily folder (yyyyymmdd).
 2. Add the correct date (yyyymmdd) to the template file and append with titration run number.
