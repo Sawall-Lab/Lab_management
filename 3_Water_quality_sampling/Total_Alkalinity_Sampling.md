@@ -14,7 +14,7 @@
 
 ## Overview
 
-This protocol is used for the collection of water samples for the purpose of analyzing Total Alkalinity (TA) with the Metrohm Titrator in room 305.
+This protocol is used for the collection of water samples for the later purpose of analyzing Total Alkalinity (TA) with the Metrohm Titrator in room 305.
 
 ## Contents  
 
@@ -30,11 +30,11 @@ Most materials are stored in room 305.
 
 -	Vials (30mL threaded, 50mL, 50mL falcon tubes)
 -	Filtration Box
-    o	Filter holder
-    o	Syringe
-    o	Whatman GF/F 25mm circular glass microfiber filters
-    o	Tweezers to handle filters
-- HgCl2 spiking kit (if needed)
+    - Filter holder
+    - Syringe
+    - [Whatman GF/F 25mm circular glass microfiber filters](../images/Whatman_GFF_Filter.png)
+    - Tweezers to handle filters
+- [HgCl~2~ spiking kit](../images/HgCl2_Kit.png) (if needed)
 - Gloves (if spiking)
 -	Cooler full of ice (if not spiking)
 -	YSI probe
@@ -57,17 +57,17 @@ Samples can be collected through different methods (eg. RAS Sampler, BIO-RESORT 
 5. Fill  the syringe with sample water and [connect the tip of the syringe to the filter holder](../images/TA_Syringe.png).
 6. Eject enough water from the syringe into the sample vial, close the lid and rinse. Repeat for a total of 3x rinses.
 7. Eject water from the syringe to fill the sample vial.
-    - If taking triplicate samples, use the same syringe water sample for all three vials.
+    1. If taking triplicate samples, use the same syringe water sample for all three vials.
 8. If not spiking the sample:
-    - Place sample in the ice cooler.
-    - Once all samples are collected, place vials in the fridge.
+    2. Place sample in the ice cooler.
+    3. Once all samples are collected, place vials in the fridge.
 9. If spiking the sample:
-    - Gloves ON.
-    - Do not change the volume of the pipette.
-    - Eject one pipette volume worth of HgCl2 into the vial.
+    1. Gloves ON.
+    2. Do not change the volume of the pipette.
+    3. Eject one pipette volume worth of HgCl2 into the vial.
         - If taking samples bigger than 30mL, more HgCl2 may be needed.
-    - Close the vial and slowly turn it upside down to mix the HgCl2 throughout the vial.
-    - The pipette can be put back down into the water bottle container, then the tip can be disposed of in the small plastic bag in the kit.
+    4. Close the vial and slowly turn it upside down to mix the HgCl2 throughout the vial.
+    5. The pipette can be put back down into the water bottle container, then the tip can be disposed of in the small plastic bag in the kit.
 10. Remove the filter holder from the syringe and empty all remaining sample liquid from the syringe. 
 11. Repeat steps 4-10 for all samples. The same filter can be used for all samples until it is too difficult eject water through it. Once it is no longer needed the filter can be thrown out in the regular garbage.
 
