@@ -375,7 +375,7 @@ The titrator needs to take up a certain amount of volume depending on the Method
 If the computer is shut down or the application is closed, the software will reset and may give error messages when trying to move the tower for bubble removal, as it will not be able to read the rack position: “Current position” (under Manual -> Tower 1 -> Move -> Rack position) will read “-----" instead of the number value that corresponds to the rack position directly under the tower.
 
 <p>
-  <img src="../../images/Tiamo_Tower_Rack_Position.png" alt="Tiamo Tower Rack Position" width="400">
+  <img src="../../images/Tiamo_Tower_Rack_Position_Error.png" alt="Tiamo Tower Rack Position Error" width="400">
 </p>
 
 *Rack position reading “-----", indicating error in function and connection between the instrument and software*
@@ -384,7 +384,7 @@ If the computer is shut down or the application is closed, the software will res
 To fix: set up one junk sample in the Workplace and start it. The system should begin running as usual – you can press “Stop” once the tower begins to lower as though to take up the sample. When “Stop” is pressed, everything will stay as it was while “Stop” was pressed, so go into “Manual”, stop the stirrer and move the Lift position back to 0. “Current position” should now read the number value that corresponds to the rack position directly under the tower. Proceed with bubble removal.
 
 <p>
-  <img src="../../images/Tiamo_Tower_Rack_Position_Error.png" alt="Tiamo Tower Rack Position Error" width="400">
+  <img src="../../images/Tiamo_Tower_Rack_Position.png" alt="Tiamo Tower Rack Position" width="400">
 </p>
 
 *Rack position reading a proper position, indicating proper function and connection between the instrument and software*
