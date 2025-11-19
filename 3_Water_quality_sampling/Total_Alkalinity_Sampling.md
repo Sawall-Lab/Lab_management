@@ -69,7 +69,7 @@ Samples can be collected through different methods (eg. RAS Sampler, BIO-RESORT 
     4. Close the vial and slowly turn it upside down to mix the HgCl2 throughout the vial.
     5. The pipette can be put back down into the water bottle container, then the tip can be disposed of in the small plastic bag in the kit.
 10. Remove the filter holder from the syringe and empty all remaining sample liquid from the syringe. 
-11. Repeat steps 4-10 for all samples. The same filter can be used for all samples until it is too difficult eject water through it. Once it is no longer needed the filter can be thrown out in the regular garbage.
+11. Repeat steps 4-10 for all samples. The same filter can be used for all samples until it is too difficult eject water through it. Once it is no longer needed the filter can be thrown out in the regular waste bin.
 
 <h2 id="Analysis">Analysis</h2>
 
