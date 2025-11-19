@@ -48,7 +48,7 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
 <h4 id="Purchasing_new_materials">Purchasing new materials</h4>
 
 -	Filters can be purchased by ordering online (sold by various websites, eg. [Cytivia](https://www.cytivalifesciences.com/en/us/products/items/whatman-nuclepore-polycarbonate-hydrophilic-membranes-p-06195)).
--	HCl and can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
+-	HCl can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
 
 
 <h2 id="Preparation">Preparation</h2>
@@ -70,7 +70,7 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
 4. Rinse the amber bottle 3x with the filtered sample water before filling the bottle, leaving enough headspace in the bottle for the sample to expand as it freeze.
 5. Place the filled amber bottle in the ice cooler.
 6. After all samples are collected, put all the samples in a labeled plastic bag and place the plastic bag in a -20°C freezer.
-7. Filter can be thrown in the garbage.
+7. Filter can be thrown in a regular waste bin.
     
 <p>
   <img src="../images/NUTS_Sampling.png" alt="Nutrients Sampling" width="400">
