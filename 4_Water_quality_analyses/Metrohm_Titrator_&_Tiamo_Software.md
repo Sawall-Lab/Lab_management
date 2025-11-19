@@ -344,7 +344,7 @@ Note: see “Methods -> Export locations for data” to find exact locations for
 
 Storage refers to when the system and the instrument will not be running samples for ~3+ weeks.
 
-1. Swap [amber titrant bottle](images/Titrator_Titrant_Bottle.png) with the clear Dosino storage bottle (contains MQ) and rinse the Dosino 3x.
+1. Swap [amber titrant bottle](images/Titrator_Titrant_Bottle) with the clear Dosino storage bottle (contains MQ) and rinse the Dosino 3x.
 2. Flush all lines with MQ using the machine commands (do not try to take off the lines and do it manually). After switching Titrant bottle for the Storage bottle, all inflows come from MQ - running prepare commands for both Dosinos is enough.
     -	Bonus: not necessary, but both Dosino units can be disassembled and rinsed with MQ to flush out any salt build up; Metrohm has instructional videos for [disassembling the sample Dosino](https://youtu.be/NHa0AXHTO-E?si=ftNoxO5LLXFLbEXw), and the titrant Dosino is the same process. After reassembly, run the “Prepare” command once or twice to ensure proper function. Tools required for disassembly are found in the drawer in room 305 marked “Metrohm”, in a Ziploc bag labeled “Tools”.
 3. Place electrode in a storage tube with the Metrohm 3M KCl solution. Seal the storage tube with Parafilm to prevent the solution from desiccating.
