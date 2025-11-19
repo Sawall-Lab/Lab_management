@@ -79,32 +79,33 @@ Materials are mostly stored in room 305. Note that not all materials on this lis
     
 <h4 id="Purchasing_new_materials">Purchasing new materials</h4>
 
--	Aluminum foil and pH testing strips can be purchased at stores on-island and reimbursed.
+-	Aluminum foil can be purchased at stores on-island and reimbursed.
+- pH testing strips can be ordered online or off-island.
 -	HCl can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
 -	Metrohm solutions and parts (KCl solution, etc.) can be purchased through their [website](https://www.metrohm.com/en.html).
 
 <h2 id="Making_Titrant">Making Titrant</h2>
 
-Note: use fresh MQ and clean glassware. 
+Use fresh MQ and clean glassware! 
 
 1. Mix 900mL MQ with 38.5g Reagent+ grade NaCl (located in a Ziploc bag in a drawer) in a 1L beaker. Mix occasionally over the course of 1-2 hours until the NaCl is fully dissolved. 
-2. Add 2.78mL Reagent grade HCl (located in a bottle in the cabinet under the fume hood). 
+2. Add 2.78mL Reagent+ grade HCl (located in a bottle in the cabinet under the fume hood). 
 3. Add more MQ so the total volume of the titrant solution is 1L (should add ~97.22mL of MQ).
 
-For absolute TA measurements: use RM or CRM measurements to back calculate precise acid concentration. Adjust concentration in tiamo software and R templates. 
+For absolute TA measurements: use RM or CRM measurements to back calculate precise acid concentration. Adjust concentration in Tiamo software and R templates. 
 
-Note: If running a lot of samples (eg. over the summer field season) it’s best to make 4L at once in the big 4L amber bottle (blue label) and top up the smaller amber titrant bottle (green label) as needed. This avoids having to restandardize.
+If running a lot of samples (eg. over the summer field season) it’s best to make 4L at once in the big 4L amber bottle (blue label) and top up the smaller [amber titrant bottle](../../images/Titrator_Titrant_Bottle.png) (green label) as needed. This avoids having to restandardize.
 
 <h2 id="Tiamo_Software">Tiamo Software</h2>
 
-Note: DO NOT close the Tiamo software application on the computer, it will reset the rack which may prevent the instrument from working (see Troubleshooting).
+DO NOT close the Tiamo software application on the computer, it will reset the rack which may prevent the instrument from working (see [Troubleshooting](#Troubleshooting)).
 
 <h4 id="Databases">Databases</h4>
 
 Databases are locations to group data/records produced by analyzed samples
 
 -	To find: Database -> File -> Database manager
-   o	To create a new Database (if necessary): Database Manager -> right-click empty space and select “New”.
+   -	To create a new Database (if necessary): Database Manager -> right-click empty space and select “New”.
 -	Databases are used to organize and group produced sample files together
 -	Multiple Methods can be saved in one Database
 -	Saving a method in a Database is done by modifying the method (see below).
@@ -118,8 +119,8 @@ Methods are step-by-step procedures that the instrument takes each time it analy
 -	The general Method that is used for the titration of seawater samples in the MABEE Lab is “TA_CO3_20mL_AU_2024”. 
 -	Each Method has its own export templates for the “res” and “mp” files.
 -	If a new Method needs to be made in order to have different export templates but the same steps are desired, an old Method can be duplicated.
-    o	Within the duplicated Method, find the EXPORT command labeled “Export Measuring Points” for exporting the “mp” files, and “Export Results” for exporting the “res” files, and modify them by selecting their respective export templates (see below to create export templates).
-    o	Within the duplicated Method, find the DATABASE command, selecting the appropriate database to save the data in and labeling it as the database name.
+    -	Within the duplicated Method, find the EXPORT command labeled “Export Measuring Points” for exporting the “mp” files, and “Export Results” for exporting the “res” files, and modify them by selecting their respective export templates (see below to create export templates).
+    -	Within the duplicated Method, find the DATABASE command, selecting the appropriate database to save the data in and labeling it as the database name.
 -	Be sure to save the Method after any changes are made, or else they may not be applied.
 
 <p>
@@ -136,15 +137,15 @@ Export Templates are outlines for where the produced “res” and “mp” file
 -	To find: Database -> Tools -> Templates -> Export Templates…
 -	Two files are exported for each titration reaction, one containing the raw measuring points (labeled “mp”; larger file ~20KB) and one containing the results: derived values (CO3, TA) and quality control metrics (temperatures & pH EP) (labeled “res”; smaller file ~1KB)
 -	“Mp” file: 
-    o	“File type” should be under “*csv. (Measuring point list)”
-    o	“File name” should be under “Sample identification” and “ID1”
+    -	“File type” should be under “*csv. (Measuring point list)”
+    -	“File name” should be under “Sample identification” and “ID1”
 -	“Res” file:
-    o	“File type” should be under “*csv. (Comma Separated)”
-    o	“File name” should be under “Sample identification” and “ID1”
-    o	The metadata included in the “res” file can be modified based on the metadata that is input into the IDs of the sample tables, as well as the results that need to be included
-        	When creating/editing a “res” export template, click “Select fields”
-        	There can be as many or as few “selected fields” as desired
-        	Each value from the “available field” can be given a simplified/clearer “displayed name”
+    -	“File type” should be under “*csv. (Comma Separated)”
+    -	“File name” should be under “Sample identification” and “ID1”
+    -	The metadata included in the “res” file can be modified based on the metadata that is input into the IDs of the sample tables, as well as the results that need to be included
+        -	When creating/editing a “res” export template, click “Select fields”
+        -	There can be as many or as few “selected fields” as desired
+        -	Each value from the “available field” can be given a simplified/clearer “displayed name”
 
 <p>
   <img src="../../images/Tiamo_Export_Template.jpg" alt="Tiamo Export Template" width="400">
@@ -171,8 +172,8 @@ These steps should be taken every day, regardless of if it is also the start of 
 2. Check that the MQ reservoir has 5L or more (5L = ~30 runs).
 3. Check/empty the waste water reservoirs (see [Waste Disposal](#Waste_Disposal)).
 4. [Attach](../../images/Titrator_Latched_Pump2.png) the top of pump 2. 
-    - Note: [black mark](../../images/Titrator_Black_Mark_Pump2.png) on the tube goes flush with the right-hand side of the base of the clip.
-    - Note: tube should be within the large [groove](../../images/Titrator_Groove_Pump2.png) on the metal part of the holder.
+    - The [black mark](../../images/Titrator_Black_Mark_Pump2.png) on the tube goes flush with the right-hand side of the base of the clip.
+    - The tube should be within the large [groove](../../images/Titrator_Groove_Pump2.png) on the metal part of the holder.
 5. [Open the electrode](../../images/Titrator_Open_Electrode.png) and top up with KCL (3-mol) by squeezing liquid from the KCl bottle into the hole.
 6. Start the computer (login is written on tape on the computer).
 7. Open the Tiamo software.
@@ -186,13 +187,13 @@ Note: bubble removal process only uses MQ so the waste line of pump 2 can be in 
 1. Put a 50mL Falcon tube into the position directly under the injection needle.
 2. In the Tiamo software: “Manual -> Tower 1 -> Move -> Lower the “Lift position” until the injection needle is lowered to ~150mm in the Falcon tube.
 3. In “Tower 1”, start pump 2. 
-    - Note: pump 2 drains the [sample beaker](../../images/Tiamo_Sample_Beaker.png) - if the sample beaker isn’t draining, adjust the spring tension on pump 2 by twisting the [silver knob](../images/Titrator_Knob_Pump2.png) on the clasp.
+    - Pump 2 drains the [sample beaker](../../images/Tiamo_Sample_Beaker.png) - if the sample beaker isn’t draining, adjust the spring tension on pump 2 by twisting the [silver knob](../images/Titrator_Knob_Pump2.png) on the clasp.
 4. In “Dosing Devices”, start “prepare” commands for both dosinos.
 5. Wait until prepare commands have finished and liquid is fully drained out of the sample beaker.
 6. Stop pump 2 and run pump 1 until sample beaker is full to ~25mL.
 Note: don’t run pump 1 for too long or else the sample beaker will overflow.
 7.	Check that air had been removed from the dosinos and the line coming from the titrant bottle. 
-    - Note: The line should be free of bubbles. For the dosinos: small air bubbles (1mm or smaller) are okay, but bigger bubbles should be removed by now. If not, repeat prepare commands as many times as required.
+    - The line should be free of bubbles. For the dosinos: small air bubbles (1mm or smaller) are okay, but bigger bubbles should be removed by now. If not, repeat prepare commands as many times as required.
     -	If there is still a concerning amount of bubbles despite multiple prepare commands, the Dosino device can be taken apart to remove the bubbles (see Storage for instructions). 
 8. In “Lift position”, raise the injection needle back to home position (0mm).
 9. Empty Falcon tube into waste bottle with green label or into sink.
@@ -238,13 +239,13 @@ Note: don’t run pump 1 for too long or else the sample beaker will overflow.
 
 <h4 id="Adding_sample_data_using_CSV_sample_table">Adding sample data using CSV sample table</h4>
 
-Note: if samples are collected by another researcher, a template table can be sent to them for them to fill out and returned for running the titrations. Example templates are provided in the “Templates” folder.
+Note: if samples are collected by another researcher, a template table can be sent to them for them to fill out and returned for running the titrations. Example templates are provided in the [Templates](../../Templates) folder.
 
 1. Copy the sample table template (or a previous sample table) to a daily folder (yyyyymmdd).
 2. Add the correct date (yyyymmdd) to the template file and append with titration run number.
 3. Add method name in column A (Method).
 4. Add sample positions in column B (Sample Position).
-    - Note: for duplicates or triplicates, samples should not be run one after the other – alternate duplicates or triplicates with each other to account more for drift.
+    - For duplicates or triplicates, samples should not be run one after the other – alternate duplicates or triplicates with each other to account more for drift.
 
 <p>
   <img src="../../images/Tiamo_Sample_Table.png" alt="Tiamo Sample Table" width="400">
@@ -255,7 +256,7 @@ Note: if samples are collected by another researcher, a template table can be se
 
 5. Add sample IDs in column C (ID1).
 6. Add sample salinities is column D (ID2).
-    - Note: LNSW salinity is 36.6, sample salinity is dependent on water quality measurements.
+    - LNSW salinity is 36, sample salinity is dependent on water quality measurements.
 7. Other metadata can be added in columns E-J (ID3-ID8).
 8. Add titration volume in column K (Sample Size).
 9. Add sample unit in column L (Sample Size Unit) (unit will be mL unless specified otherwise). 
@@ -263,14 +264,14 @@ Note: if samples are collected by another researcher, a template table can be se
     - Method: same as for samples
     - Position: position on sample rack
     - Vial: junk-# (number junks continuously throughout a day)
-    - Salinity: 36.6
+    - Salinity: 36
 11. Delete the row with header information (row 1).
 12. Store sample table as csv file.
 13. Go to the “run” window in the Tiamo “workplace” tab.
 14. Press “Sample table” at the bottom of the run window. 
 15. Press “Import data”.
 16. Find the stored sample table and open it to upload samples to the Tiamo software. 
-    - Note: If header information wasn’t deleted earlier this line should be deleted in the “run” window.
+    - If header information wasn’t deleted earlier this line should be deleted in the “run” window.
 17. Proceed to “Starting Titrations”.
 
 
@@ -285,12 +286,12 @@ Recall that at the beginning of the day the LNSW junks need to be run first! The
 5. Place samples on the titrator carousel in their appropriate positions.
 6. Ensure waste line on pump 2 is in the waste bottle with the green label for un-spiked samples, and the red label for spiked (HgCl<sub>2</sub>) samples.
 7. Place the white foam 50mL falcon tube holder in front of the sensor of the tower. 
-    - Note: Machine will not run without covering the sensor, unless official Metrohm beakers and beaker covers are used.
+    - Machine will not run without covering the sensor, unless official Metrohm beakers and beaker covers are used.
 8. Import the desired sample table.
 9. Double-check samples are in their proper positions on the carousel and match the sample positions in the sample table.
 10. In the Tiamo workplace tab, press “Start”. 
 11. Monitor the machine’s process of first titration as well as the results (under “Database”) to ensure (1) the samples are located properly on the carousel, (2) the waste pump is fully draining the sample beaker and (3) the titration reaction is running properly and produced reasonable results.
-    Note: ensure that the determination overview shows the correct database, or the results of each sample will not be shown: under “Database” go to File -> Open -> select the appropriate database -> Open.
+    - Ensure that the determination overview shows the correct database, or the results of each sample will not be shown: under “Database” go to File -> Open -> select the appropriate database -> Open.
 12. After samples are run, the remaining sample liquid can be disposed of depending on the type (see [Waste Disposal](#Waste_Disposal)). 
     -	Vials containing LNSW or un-spiked samples: dump remaining liquid into the sink, rinse 3x with MQ and set to dry.
     -	Vials containing samples spiked with HgCl<sub>2</sub>: dump remaining liquid into the glass bottle with the yellow lid (located under the sink), rinse once with MQ and dump that rinse into the glass bottle, then rinse 3x with MQ and set to dry.
@@ -319,8 +320,8 @@ Recall that at the beginning of the day the LNSW junks need to be run first! The
     -	Located on the counter
 2. [Glass bottle](../../images/Small_Spiked_Waste_Jug.png) with yellow lid and red label that says “HgCl<sub>2</sub> Mercury Chloride HgCl<sub>2</sub>”
     -	Located under the sink
-    -	Used for the leftovers in sample vials, as well as rinse #1 with MilliQ
-3. sed for samples spiked with HgCl2
+    -	Used for the leftovers in sample vials, as well as rinse #1 with MQ
+3. Used for samples spiked with HgCl<sub>2</sub> 
 4. Contains seawater, MQ, Titrant, and HgCl<sub>2</sub>
 5. Needs to be treated with HCl to lower the pH to ~3 (TEST WITH PH PAPER)
     - Jerry can full to 10L needs ~15ml of HCl
