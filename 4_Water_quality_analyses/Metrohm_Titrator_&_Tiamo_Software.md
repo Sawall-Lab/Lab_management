@@ -222,7 +222,7 @@ Note: don’t run pump 1 for too long or else the sample beaker will overflow.
 *Example junk sample template*
 
 
-<h4 id="Adding_sample_data_directly_into_software:">Adding sample data directly into software</h4> 
+<h4 id="Adding_sample_data_directly_into_software">Adding sample data directly into software</h4> 
 
 1. Go to the “Workplace” tab in the Tiamo software (top left corner).
 2. Expand the “run” window (top right corner).
@@ -260,17 +260,17 @@ Note: if samples are collected by another researcher, a template table can be se
 8. Add titration volume in column K (Sample Size).
 9. Add sample unit in column L (Sample Size Unit) (unit will be mL unless specified otherwise). 
 10. Two vials of LNSW should be placed at the start and end of every batch of samples (every ~6 samples). For these only the method, position, salinity and vial number should be added (columns A-D). All other columns can be put as “NA”. 
-    a. Method: same as for samples
-    b. Position: position on sample rack
-    c. Vial: junk-# (number junks continuously throughout a day)
-    d. Salinity: 36.6
+    - Method: same as for samples
+    - Position: position on sample rack
+    - Vial: junk-# (number junks continuously throughout a day)
+    - Salinity: 36.6
 11. Delete the row with header information (row 1).
 12. Store sample table as csv file.
 13. Go to the “run” window in the Tiamo “workplace” tab.
 14. Press “Sample table” at the bottom of the run window. 
 15. Press “Import data”.
 16. Find the stored sample table and open it to upload samples to the Tiamo software. 
-    Note: If header information wasn’t deleted earlier this line should be deleted in the “run” window.
+    - Note: If header information wasn’t deleted earlier this line should be deleted in the “run” window.
 17. Proceed to “Starting Titrations”.
 
 
@@ -285,15 +285,15 @@ Recall that at the beginning of the day the LNSW junks need to be run first! The
 5. Place samples on the titrator carousel in their appropriate positions.
 6. Ensure waste line on pump 2 is in the waste bottle with the green label for un-spiked samples, and the red label for spiked (HgCl2) samples.
 7. Place the white foam 50mL falcon tube holder in front of the sensor of the tower. 
-    Note: Machine will not run without covering the sensor, unless official Metrohm beakers and beaker covers are used.
+    - Note: Machine will not run without covering the sensor, unless official Metrohm beakers and beaker covers are used.
 8. Import the desired sample table.
 9. Double-check samples are in their proper positions on the carousel and match the sample positions in the sample table.
 10. In the Tiamo workplace tab, press “Start”. 
 11. Monitor the machine’s process of first titration as well as the results (under “Database”) to ensure (1) the samples are located properly on the carousel, (2) the waste pump is fully draining the sample beaker and (3) the titration reaction is running properly and produced reasonable results.
     Note: ensure that the determination overview shows the correct database, or the results of each sample will not be shown: under “Database” go to File -> Open -> select the appropriate database -> Open.
 12. After samples are run, the remaining sample liquid can be disposed of depending on the type (see [Waste Disposal](#Waste_Disposal)). 
-    a.	Vials containing LNSW or un-spiked samples: dump remaining liquid into the sink, rinse 3x with MQ and set to dry.
-    b.	Vials containing samples spiked with HgCl¬2: dump remaining liquid into the glass bottle with the yellow lid (located under the sink), rinse once with MQ and dump that rinse into the glass bottle, then rinse 3x with MQ and set to dry.
+    -	Vials containing LNSW or un-spiked samples: dump remaining liquid into the sink, rinse 3x with MQ and set to dry.
+    -	Vials containing samples spiked with HgCl¬2: dump remaining liquid into the glass bottle with the yellow lid (located under the sink), rinse once with MQ and dump that rinse into the glass bottle, then rinse 3x with MQ and set to dry.
 
 <h2 id="End_of_Day">End of Day</h2>
 
@@ -344,7 +344,7 @@ Note: see “Methods -> Export locations for data” to find exact locations for
 
 Storage refers to when the system and the instrument will not be running samples for ~3+ weeks.
 
-1. Swap amber titrant bottle with the clear Dosino storage bottle (contains MQ) and rinse the Dosino 3x.
+1. Swap [amber titrant bottle](images/Titrator_Titrant_Bottle.png) with the clear Dosino storage bottle (contains MQ) and rinse the Dosino 3x.
 2. Flush all lines with MQ using the machine commands (do not try to take off the lines and do it manually). After switching Titrant bottle for the Storage bottle, all inflows come from MQ - running prepare commands for both Dosinos is enough.
     -	Bonus: not necessary, but both Dosino units can be disassembled and rinsed with MQ to flush out any salt build up; Metrohm has instructional videos for [disassembling the sample Dosino](https://youtu.be/NHa0AXHTO-E?si=ftNoxO5LLXFLbEXw), and the titrant Dosino is the same process. After reassembly, run the “Prepare” command once or twice to ensure proper function. Tools required for disassembly are found in the drawer in room 305 marked “Metrohm”, in a Ziploc bag labeled “Tools”.
 3. Place electrode in a storage tube with the Metrohm 3M KCl solution. Seal the storage tube with Parafilm to prevent the solution from desiccating.
