@@ -16,7 +16,7 @@
 
 This protocol is used for the estimation of carbonate (CO3) and/or total alkalinity (TA) through a 2-step titration process via the Metrohm Titrator and Tiamo software. A sample volume of 30-50mL is required; protocols are available for different volumes, but the different protocols cannot be mixed during a single run. 
 
-Gloves for machine and sample handling! This lab sometimes uses HgCl2 so there could be traces.
+Gloves for machine and sample handling! This lab sometimes uses HgCl<sub>2</sub> so there could be traces.
 No gloves for computer handling! 
 
 ## Contents
@@ -80,7 +80,7 @@ Materials are mostly stored in room 305. Note that not all materials on this lis
 <h4 id="Purchasing_new_materials">Purchasing new materials</h4>
 
 -	Aluminum foil and pH testing strips can be purchased at stores on-island and reimbursed.
--	HCl and HgCl2 can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
+-	HCl can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
 -	Metrohm solutions and parts (KCl solution, etc.) can be purchased through their [website](https://www.metrohm.com/en.html).
 
 <h2 id="Making_Titrant">Making Titrant</h2>
@@ -283,7 +283,7 @@ Recall that at the beginning of the day the LNSW junks need to be run first! The
 3. For 50mL samples, aliquot samples to sample vials to reach just under the blue fill line (fill line indicates ~40-50mL).
 4. Cover sample vials lids, first with aluminum foil, then with a white lid.
 5. Place samples on the titrator carousel in their appropriate positions.
-6. Ensure waste line on pump 2 is in the waste bottle with the green label for un-spiked samples, and the red label for spiked (HgCl2) samples.
+6. Ensure waste line on pump 2 is in the waste bottle with the green label for un-spiked samples, and the red label for spiked (HgCl<sub>2</sub>) samples.
 7. Place the white foam 50mL falcon tube holder in front of the sensor of the tower. 
     - Note: Machine will not run without covering the sensor, unless official Metrohm beakers and beaker covers are used.
 8. Import the desired sample table.
@@ -293,7 +293,7 @@ Recall that at the beginning of the day the LNSW junks need to be run first! The
     Note: ensure that the determination overview shows the correct database, or the results of each sample will not be shown: under “Database” go to File -> Open -> select the appropriate database -> Open.
 12. After samples are run, the remaining sample liquid can be disposed of depending on the type (see [Waste Disposal](#Waste_Disposal)). 
     -	Vials containing LNSW or un-spiked samples: dump remaining liquid into the sink, rinse 3x with MQ and set to dry.
-    -	Vials containing samples spiked with HgCl¬2: dump remaining liquid into the glass bottle with the yellow lid (located under the sink), rinse once with MQ and dump that rinse into the glass bottle, then rinse 3x with MQ and set to dry.
+    -	Vials containing samples spiked with HgCl<sub>2</sub>: dump remaining liquid into the glass bottle with the yellow lid (located under the sink), rinse once with MQ and dump that rinse into the glass bottle, then rinse 3x with MQ and set to dry.
 
 <h2 id="End_of_Day">End of Day</h2>
 
@@ -317,11 +317,11 @@ Recall that at the beginning of the day the LNSW junks need to be run first! The
 
 1. Rectangular [jerry can](../../images/Spiked_Waste_Jug.png) with red label that says “Waste Water (spiked/HCl)”
     -	Located on the counter
-2. [Glass bottle](../../images/Small_Spiked_Waste_Jug.png) with yellow lid and red label that says “HgCl2 Mercury Chloride HgCl2”
+2. [Glass bottle](../../images/Small_Spiked_Waste_Jug.png) with yellow lid and red label that says “HgCl<sub>2</sub> Mercury Chloride HgCl<sub>2</sub>”
     -	Located under the sink
     -	Used for the leftovers in sample vials, as well as rinse #1 with MilliQ
 3. sed for samples spiked with HgCl2
-4. Contains seawater, MQ, Titrant, and HgCl2
+4. Contains seawater, MQ, Titrant, and HgCl<sub>2</sub>
 5. Needs to be treated with HCl to lower the pH to ~3 (TEST WITH PH PAPER)
     - Jerry can full to 10L needs ~15ml of HCl
 6. Bring wastewater to the mercury filter in the DIC Lab (discuss beforehand with [Becky Garley](Rebecca.Garley@bios.asu.edu))
@@ -329,7 +329,7 @@ Recall that at the beginning of the day the LNSW junks need to be run first! The
 <h4 id="Gloves,_Aluminum_foil,_etc.">Gloves, Aluminum foil, etc.</h4>
 
 1. All things that come in contact with regular samples can be disposed of in the regular waste bins.
-2. All things that come in contact with HgCl¬2 (gloves, aluminum foil, etc.) should be disposed of in a double-bagged biohazard bag that can be obtained from Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
+2. All things that come in contact with HgCl<sub>2</sub> (gloves, aluminum foil, etc.) should be disposed of in a double-bagged biohazard bag that can be obtained from Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
     -	Once biohazard bag is full, seal and return bag to Lab Operations.
 
 <h2 id="Data_Processing">Data Processing</h2>

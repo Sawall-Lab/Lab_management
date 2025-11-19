@@ -34,7 +34,7 @@ Most materials are stored in room 305.
     - Syringe
     - [Whatman GF/F 25mm circular glass microfiber filters](../images/Whatman_GFF_Filter.png)
     - Tweezers to handle filters
-- [HgCl<sub>2<sub>  spiking kit](../images/HgCl2_Kit.png) (if needed)
+- [HgCl<sub>2</sub> spiking kit](../images/HgCl2_Kit.png) (if needed)
 - Gloves (if spiking)
 -	Cooler full of ice (if not spiking)
 -	YSI probe
@@ -42,7 +42,7 @@ Most materials are stored in room 305.
     
 <h4 id="Purchasing_new_materials">Purchasing new materials</h4>
 
--	HgCl2 can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
+-	HgCl<sub>2</sub> can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
 -	Filters can be purchased by ordering online (sold by various websites, eg. [Cytivia](https://www.cytivalifesciences.com/en/us/products/items/whatman-nuclepore-polycarbonate-hydrophilic-membranes-p-06195)).
 
     
@@ -64,8 +64,8 @@ Samples can be collected through different methods (eg. RAS Sampler, BIO-RESORT 
 9. If spiking the sample:
     1. Gloves ON.
     2. Do not change the volume of the pipette.
-    3. Eject one pipette volume worth of HgCl2 into the vial.
-        - If taking samples bigger than 30mL, more HgCl2 may be needed.
+    3. Eject one pipette volume worth of HgCl<sub>2</sub> into the vial.
+        - If taking samples bigger than 30mL, more HgCl<sub>2</sub> may be needed.
     4. Close the vial and slowly turn it upside down to mix the HgCl2 throughout the vial.
     5. The pipette can be put back down into the water bottle container, then the tip can be disposed of in the small plastic bag in the kit.
 10. Remove the filter holder from the syringe and empty all remaining sample liquid from the syringe. 
