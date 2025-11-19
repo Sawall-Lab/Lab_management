@@ -7,7 +7,6 @@
 ---
 
 # Protocol for Analyzing Total Alkalinity
-### Using Metrohm Titrator and Tiamo Software
 **Author(s):** Roderick Bakker, Xinya Calhoun  
 **Lab:** Sawall Lab / MABEE Lab  
 **Version:** v1.3  
