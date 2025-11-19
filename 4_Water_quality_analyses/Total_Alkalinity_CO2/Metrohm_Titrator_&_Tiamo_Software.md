@@ -170,10 +170,10 @@ These steps should be taken every day, regardless of if it is also the start of 
 1. Check that the titrant bottle is at least half full (500mL = ~150 runs).
 2. Check that the MQ reservoir has 5L or more (5L = ~30 runs).
 3. Check/empty the waste water reservoirs (see [Waste Disposal](#Waste_Disposal)).
-4. [Attach](../images/Titrator_Latched_Pump2.png) the top of pump 2. 
-    - Note: [black mark](../images/Titrator_Black_Mark_Pump2.png) on the tube goes flush with the right-hand side of the base of the clip.
-    - Note: tube should be within the large [groove](../images/Titrator_Groove_Pump2.png) on the metal part of the holder.
-5. [Open the electrode](../images/Titrator_Open_Electrode.png) and top up with KCL (3-mol) by squeezing liquid from the KCl bottle into the hole.
+4. [Attach](../../images/Titrator_Latched_Pump2.png) the top of pump 2. 
+    - Note: [black mark](../../images/Titrator_Black_Mark_Pump2.png) on the tube goes flush with the right-hand side of the base of the clip.
+    - Note: tube should be within the large [groove](../../images/Titrator_Groove_Pump2.png) on the metal part of the holder.
+5. [Open the electrode](../../images/Titrator_Open_Electrode.png) and top up with KCL (3-mol) by squeezing liquid from the KCl bottle into the hole.
 6. Start the computer (login is written on tape on the computer).
 7. Open the Tiamo software.
 8. Check for bubbles in both Dosinos (aka Dosing devices) and the blue tube coming from the titrant bottle. 
@@ -186,7 +186,7 @@ Note: bubble removal process only uses MQ so the waste line of pump 2 can be in 
 1. Put a 50mL Falcon tube into the position directly under the injection needle.
 2. In the Tiamo software: “Manual -> Tower 1 -> Move -> Lower the “Lift position” until the injection needle is lowered to ~150mm in the Falcon tube.
 3. In “Tower 1”, start pump 2. 
-    - Note: pump 2 drains the [sample beaker](../images/Tiamo_Sample_Beaker.png) - if the sample beaker isn’t draining, adjust the spring tension on pump 2 by twisting the [silver knob](../images/Titrator_Knob_Pump2.png) on the clasp.
+    - Note: pump 2 drains the [sample beaker](../../images/Tiamo_Sample_Beaker.png) - if the sample beaker isn’t draining, adjust the spring tension on pump 2 by twisting the [silver knob](../images/Titrator_Knob_Pump2.png) on the clasp.
 4. In “Dosing Devices”, start “prepare” commands for both dosinos.
 5. Wait until prepare commands have finished and liquid is fully drained out of the sample beaker.
 6. Stop pump 2 and run pump 1 until sample beaker is full to ~25mL.
@@ -279,7 +279,7 @@ Note: if samples are collected by another researcher, a template table can be se
 Recall that at the beginning of the day the LNSW junks need to be run first! The following describes real samples but the steps for junks are relatively the same.
 
 1. Un-spiked samples are kept in the fridge until they are run (for a week at most since they are un-spiked), but must be room temperature before titration. Take them out of the fridge and let them sit before analyzing.
-2. Methods are available for 30mL and 50mL samples. 30mL samples go in [threaded sample vials](../images/Threaded_30mL_Vials.png) and can be placed directly on the titrator. Larger samples and LSNW junks will have to be transferred to [50mL vials](../images/50mL_Vial.png). [50mL falcon tubes](../images/Falcon_Tube.png) may be used for sample collection as well, and must be placed in Styrofoam stands to keep them upright.
+2. Methods are available for 30mL and 50mL samples. 30mL samples go in [threaded sample vials](../../images/Threaded_30mL_Vials.png) and can be placed directly on the titrator. Larger samples and LSNW junks will have to be transferred to [50mL vials](../images/50mL_Vial.png). [50mL falcon tubes](../images/Falcon_Tube.png) may be used for sample collection as well, and must be placed in Styrofoam stands to keep them upright.
 3. For 50mL samples, aliquot samples to sample vials to reach just under the blue fill line (fill line indicates ~40-50mL).
 4. Cover sample vials lids, first with aluminum foil, then with a white lid.
 5. Place samples on the titrator carousel in their appropriate positions.
@@ -297,8 +297,8 @@ Recall that at the beginning of the day the LNSW junks need to be run first! The
 
 <h2 id="End_of_Day">End of Day</h2>
 
-1. Top up electrode with KCl and [close](../images/Titrator_Closed_Electrode.png) it.
-2. [Unlatch](../images/Titrator_Unlatched_Pump2.png) top of pump 2.
+1. Top up electrode with KCl and [close](../../images/Titrator_Closed_Electrode.png) it.
+2. [Unlatch](../../images/Titrator_Unlatched_Pump2.png) top of pump 2.
 3. Move waste line on pump 2 back to waste bottle with green label. 
 4. Discard remnants from sample vials into the appropriate waste bottle, wash each 3x with MQ and leave to dry.
 5. Proceed to “Data Processing”.
@@ -307,7 +307,7 @@ Recall that at the beginning of the day the LNSW junks need to be run first! The
 
 <h4 id="Clean_Waste">Clean Waste</h4>
 
-1. [Nalgene bottle](../images/Clean_Waste_Jug.png) with green label that says “Waste Water (clean)”
+1. [Nalgene bottle](../../images/Clean_Waste_Jug.png) with green label that says “Waste Water (clean)”
     -	Located on the counter
 2. Used for junk samples and un-spiked seawater samples
 3. Contains seawater, MQ, and Titrant
@@ -315,9 +315,9 @@ Recall that at the beginning of the day the LNSW junks need to be run first! The
 
 <h4 id="Spiked_Waste">Spiked Waste</h4>
 
-1. Rectangular [jerry can](../images/Spiked_Waste_Jug.png) with red label that says “Waste Water (spiked/HCl)”
+1. Rectangular [jerry can](../../images/Spiked_Waste_Jug.png) with red label that says “Waste Water (spiked/HCl)”
     -	Located on the counter
-2. [Glass bottle](../images/Small_Spiked_Waste_Jug.png) with yellow lid and red label that says “HgCl2 Mercury Chloride HgCl2”
+2. [Glass bottle](../../images/Small_Spiked_Waste_Jug.png) with yellow lid and red label that says “HgCl2 Mercury Chloride HgCl2”
     -	Located under the sink
     -	Used for the leftovers in sample vials, as well as rinse #1 with MilliQ
 3. sed for samples spiked with HgCl2
@@ -344,7 +344,7 @@ Note: see “Methods -> Export locations for data” to find exact locations for
 
 Storage refers to when the system and the instrument will not be running samples for ~3+ weeks.
 
-1. Swap [amber titrant bottle](../images/Titrator_Titrant_Bottle.png) with the [clear Dosino storage bottle](../images/Titrator_Storage_Bottle.png) (contains MQ) and rinse the Dosino 3x.
+1. Swap [amber titrant bottle](../../images/Titrator_Titrant_Bottle.png) with the [clear Dosino storage bottle](../../images/Titrator_Storage_Bottle.png) (contains MQ) and rinse the Dosino 3x.
 2. Flush all lines with MQ using the machine commands (do not try to take off the lines and do it manually). After switching Titrant bottle for the Storage bottle, all inflows come from MQ - running prepare commands for both Dosinos is enough.
     -	Bonus: not necessary, but both Dosino units can be disassembled and rinsed with MQ to flush out any salt build up; Metrohm has instructional videos for [disassembling the sample Dosino](https://youtu.be/NHa0AXHTO-E?si=ftNoxO5LLXFLbEXw), and the titrant Dosino is the same process. After reassembly, run the “Prepare” command once or twice to ensure proper function. Tools required for disassembly are found in the drawer in room 305 marked “Metrohm”, in a Ziploc bag labeled “Tools”.
 3. Place electrode in a storage tube with the Metrohm 3M KCl solution. Seal the storage tube with Parafilm to prevent the solution from desiccating.
@@ -359,7 +359,7 @@ Storage refers to when the system and the instrument will not be running samples
 
 <h4 id="Calibration">Calibration</h4>
 
-If values seem off, the lab has batches of [Certified Reference Material (CRM)](../images/CRMs.png) solution, located in cupboard labeled “Seawater Standards, Spiked HgCl2”. These have been prepared by the Scripps Institution, with each respective batch’s salinity, TA and CO2 values published [online](https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Dickson_CRM/batches.html). Run some samples of an UNOPENED bottle of solution (if already opened then the values will not be accurate due to air exposure) using their salinity, and if the CO2 and TA results do not match those published by Scripps (be sure to correspond the batch number to the number on the website) then there is something off with the system’s readings and offset must be accounted for.
+If values seem off, the lab has batches of [Certified Reference Material (CRM)](../../images/CRMs.png) solution, located in cupboard labeled “Seawater Standards, Spiked HgCl2”. These have been prepared by the Scripps Institution, with each respective batch’s salinity, TA and CO2 values published [online](https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Dickson_CRM/batches.html). Run some samples of an UNOPENED bottle of solution (if already opened then the values will not be accurate due to air exposure) using their salinity, and if the CO2 and TA results do not match those published by Scripps (be sure to correspond the batch number to the number on the website) then there is something off with the system’s readings and offset must be accounted for.
 
 Note: the Scripps solutions are spiked with HgCl¬2!
 
