@@ -148,7 +148,7 @@ Export Templates are outlines for where the produced “res” and “mp” file
         	Each value from the “available field” can be given a simplified/clearer “displayed name”
 
 <p>
-  <img src="../images/Tiamo_Export_Template.png" alt="Tiamo Export Template" width="400">
+  <img src="../images/Tiamo_Export_Template.jpg" alt="Tiamo Export Template" width="400">
 </p>
 
 *Tiamo windows for finding, creating, and editing Export Templates*

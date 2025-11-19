@@ -73,7 +73,7 @@ Samples can be collected through different methods (eg. RAS Sampler, BIO-RESORT 
 
 <h2 id="Analysis">Analysis</h2>
 
-Analysis of the TA samples is conducted using the Metrohm Titrator and the attached Tiamo software, located in room 305. The protocol for this process is outlined [here]()
+Analysis of the TA samples is conducted using the Metrohm Titrator and the attached Tiamo software, located in room 305. The protocol for this process is outlined [here](../4_Water_quality_analyses/Metrohm_Titrator_&_Tiamo_Software.md).
 
 
         
