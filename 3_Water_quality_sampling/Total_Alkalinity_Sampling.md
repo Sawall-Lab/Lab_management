@@ -54,15 +54,7 @@ Samples can be collected through different methods (eg. RAS Sampler, BIO-RESORT 
 2. Record the vial ID and time of sample collection, and use the YSI to record the salinity and pH of the water the sample is taken from.
 3. Untwist and separate the two parts of the filter holder and use the tweezers to put a filter inside (on the half with the grid), place the O-ring onto the filter, then close the filter holder again.
 4. Before connecting the syringe and the filter holder, collect and eject water three times from the syringe as the three “rinses”.
-5. Fill  the syringe with sample water and connect the tip of the syringe to the filter holder.
-
-<p align="center">
-  <img src="../images/TA_Syringe.png" alt="TA Syringe" width="400">
-</p>
-
-*Connected syringe (empty) and filter holder*
-
-
+5. Fill  the syringe with sample water and [connect the tip of the syringe to the filter holder](../images/TA_Syringe.png).
 6. Eject enough water from the syringe into the sample vial, close the lid and rinse. Repeat for a total of 3x rinses.
 7. Eject water from the syringe to fill the sample vial.
     - If taking triplicate samples, use the same syringe water sample for all three vials.

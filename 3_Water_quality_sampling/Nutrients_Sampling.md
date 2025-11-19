@@ -33,11 +33,7 @@ Note: Be sure to wear gloves for the entire process! Testing for nutrient conten
 Most materials are stored on a shelf in room 305, in a green plastic box labeled “Nutrients”.
 
 - Gloves
-- Nuclepore 47mm Circular Filters
-<p>
-  <img src="../images/Whatman_Nuclepore_Filter.png" alt="Whatman Nuclepore Filter Container" width="400">
-</p>
-
+- [Nuclepore 47mm Circular Filters](../images/Whatman_Nuclepore_Filter.png)
 -	Tweezers to handle filters
 -	Filter holders
 -	Bottle with Nutrients Sampling (bottle modified for nutrient sampling)
@@ -58,15 +54,7 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
 <h2 id="Preparation">Preparation</h2>
 
 1. Use the tweezers to remove a filter from the filter container.
-    - Note: the filters are clear and are separated by blue round sheets.
-
-<p>
-  <img src="../images/Whatman_Nuclepore_Filter_Open.png" alt="Removing Whatman Nuclepore Filter" width="400">
-</p>
-
-*Clear filter being removed from storage box*
-
-
+    - Note: the filters are clear and are separated by [blue round sheets](../images/Whatman_Nuclepore_Filter_Open.png).
 2. Untwist and separate the two parts of the filter holder and use the tweezers to put a filter inside (on the half with the grid), place the O-ring onto the filter, then close the filter holder again.
     - Note: the filter must be placed very flat and uniform, and the filter must be closed carefully to keep the filter flat.
 
