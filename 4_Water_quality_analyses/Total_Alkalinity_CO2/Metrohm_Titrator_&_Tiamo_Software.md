@@ -123,7 +123,7 @@ Methods are step-by-step procedures that the instrument takes each time it analy
 -	Be sure to save the Method after any changes are made, or else they may not be applied.
 
 <p>
-  <img src="../images/Tiamo_Methods.png" alt="Tiamo Methods" width="400">
+  <img src="../../images/Tiamo_Methods.png" alt="Tiamo Methods" width="400">
 </p>
 
 *Method: TA_CO3_20mL_AU_JWelter*
@@ -147,7 +147,7 @@ Export Templates are outlines for where the produced “res” and “mp” file
         	Each value from the “available field” can be given a simplified/clearer “displayed name”
 
 <p>
-  <img src="../images/Tiamo_Export_Template.jpg" alt="Tiamo Export Template" width="400">
+  <img src="../../images/Tiamo_Export_Template.jpg" alt="Tiamo Export Template" width="400">
 </p>
 
 *Tiamo windows for finding, creating, and editing Export Templates*
@@ -216,7 +216,7 @@ Note: don’t run pump 1 for too long or else the sample beaker will overflow.
 9. 2 junk samples should be run between every ~12 real samples to ensure the system is still stabilized or to determine drift.
 
 <p>
-  <img src="../images/Tiamo_Junk_Template.png" alt="Tiamo Junk Template" width="400">
+  <img src="../../images/Tiamo_Junk_Template.png" alt="Tiamo Junk Template" width="400">
 </p>
 
 *Example junk sample template*
@@ -247,7 +247,7 @@ Note: if samples are collected by another researcher, a template table can be se
     - Note: for duplicates or triplicates, samples should not be run one after the other – alternate duplicates or triplicates with each other to account more for drift.
 
 <p>
-  <img src="../images/Tiamo_Sample_Table.png" alt="Tiamo Sample Table" width="400">
+  <img src="../../images/Tiamo_Sample_Table.png" alt="Tiamo Sample Table" width="400">
 </p>
 
 *Sample table with triplicates before and after alternating*                                                  
@@ -374,7 +374,7 @@ The titrator needs to take up a certain amount of volume depending on the Method
 If the computer is shut down or the application is closed, the software will reset and may give error messages when trying to move the tower for bubble removal, as it will not be able to read the rack position: “Current position” (under Manual -> Tower 1 -> Move -> Rack position) will read “-----" instead of the number value that corresponds to the rack position directly under the tower.
 
 <p>
-  <img src="../images/Tiamo_Tower_Rack_Position.png" alt="Tiamo Tower Rack Position" width="400">
+  <img src="../../images/Tiamo_Tower_Rack_Position.png" alt="Tiamo Tower Rack Position" width="400">
 </p>
 
 *Rack position reading “-----", indicating error in function and connection between the instrument and software*
@@ -383,7 +383,7 @@ If the computer is shut down or the application is closed, the software will res
 To fix: set up one junk sample in the Workplace and start it. The system should begin running as usual – you can press “Stop” once the tower begins to lower as though to take up the sample. When “Stop” is pressed, everything will stay as it was while “Stop” was pressed, so go into “Manual”, stop the stirrer and move the Lift position back to 0. “Current position” should now read the number value that corresponds to the rack position directly under the tower. Proceed with bubble removal.
 
 <p>
-  <img src="../images/Tiamo_Tower_Rack_Position_Error.png" alt="Tiamo Tower Rack Position Error" width="400">
+  <img src="../../images/Tiamo_Tower_Rack_Position_Error.png" alt="Tiamo Tower Rack Position Error" width="400">
 </p>
 
 *Rack position reading a proper position, indicating proper function and connection between the instrument and software*
