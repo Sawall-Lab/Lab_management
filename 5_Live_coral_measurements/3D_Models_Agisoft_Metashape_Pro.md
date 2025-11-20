@@ -111,7 +111,7 @@ If using multiple chunks:
   <img src="../images/Agisoft_Photo_Cloud.png" alt="Agisoft Photo Cloud" width="400">
 </p>
 
-3.Check coverage and alignments (alignment problems occur if on the platform are not properly detected in the image; if misalignment occurs see “Troubleshooting”).
+3. Check coverage and alignments (alignment problems occur if on the platform are not properly detected in the image; if misalignment occurs see “Troubleshooting”).
     - To check coverage, click the [camera button](../images/Agisoft_Camera_Button.png) along the top taskbar and a photo cloud should appear. 
     - Aim for coverage roughly like below:
     
@@ -121,9 +121,9 @@ If using multiple chunks:
 
 <h4 id="Photo_Cloud_Troubleshooting">Photo Cloud Troubleshooting</h4>
 
-A. If the coverage does not look like enough to accurately generate a model from all angles, another video of the same coral can be added to the same chunk by following the steps under “Importing Videos”, and then coverage can be re-checked by following the steps under “Generating Photo Cloud”.
+- If the coverage does not look like enough to accurately generate a model from all angles, another video of the same coral can be added to the same chunk by following the steps under “Importing Videos”, and then coverage can be re-checked by following the steps under “Generating Photo Cloud”.
 
-B. If there are alignment issues, the system will say there are misaligned photos.
+- If there are alignment issues, the system will say there are misaligned photos.
     1. In Workspace, select the chunk with misaligned photos and its drop-down menu will appear.
     2. Select “Images” – it will say how many images are aligned, and the misaligned frames will appear with “NA” (see below). 
         a.	If there are very few misaligned images (less than 20%), their absence won’t negatively affect the model, and coverage is good already, remove the misaligned photos. 
