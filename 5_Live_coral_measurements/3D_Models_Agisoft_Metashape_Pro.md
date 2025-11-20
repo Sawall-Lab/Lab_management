@@ -24,7 +24,7 @@ This protocol is for the analysis of live corals (or other objects) for the purp
     - [Recording](#Recording)
 - [Agisoft Metashape Pro Model Creation](#Agisoft_Metashape_Pro_Model_Creation)  
     - [Importing Videos](#Importing_Videos)
-    - [Generating Photo Clouds](#Generating_Photo_Clouds)
+    - [Generating Photo Cloud](#Generating_Photo_Cloud)
         - [Troubleshooting](#Troubleshooting)
     - [Batch Processing to Generate Model](#Batch_Processing_to_Generate_Model)
 - [Markers and Scale Bars](#Markers_and_Scale_Bars) 
