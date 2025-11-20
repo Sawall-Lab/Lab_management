@@ -77,7 +77,7 @@ Note: perform in low light conditions.
 -	Spatula
 -	1M HCl
 -	Pasteur pipet
--	[“chlorophyl-a_trilogy_raw_fluorescence” datasheet](../Chlorophyll-A/chlorophyl-a_trilogy_raw_fluorescence_template.xlsx)
+-	[“chlorophyl-a_trilogy_raw_fluorescence” datasheet](../Chlorophyll-A/chlorophyll-a_trilogy_raw_fluorescence_template.xlsx)
 
 <h4 id="A_Methods">Methods</h4>
 
