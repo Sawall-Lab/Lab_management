@@ -225,7 +225,7 @@ The next four jobs (Optimize Alignment, Build Point Cloud, Build Mesh, Refine Me
 
 1. Tools -> Mesh -> Close Holes -> Level 100% -> Ok.
     - To measure volume, the model cannot have any holes (hence closing the holes). The only hole at this point (before closing it) should be the bottom of the model. If the hole is not properly closed, volume will be 0.
-2. Tools -> Mesh -> Measure Surface Area and Volume. This will produce an Area (m^2^) and a Volume (m^3^) value based on the model.
+2. Tools -> Mesh -> Measure Surface Area and Volume. This will produce an Area (m<sup>2</sup>) and a Volume (m<sup>3</sup>) value based on the model.
 3. Record values elsewhere – values are not saved on Agisoft.
     - The Area value produced here is not the one we want (though record it for the sake of datakeeping) – we will be generating another one.
     
@@ -238,5 +238,5 @@ The next four jobs (Optimize Alignment, Build Point Cloud, Build Mesh, Refine Me
   <img src="../images/Agisoft_Model_SA.png" alt="Agisoft Model with Scale Bars and Cropped for Surface Area" width="400">
 </p>
 
-2. Tools -> Mesh -> Measure Surface Area and Volume. This will produce an Area (m^2^) value; the Volume value will be 0.
+2. Tools -> Mesh -> Measure Surface Area and Volume. This will produce an Area (m<sup>2</sup>) value; the Volume value will be 0.
 3. Record values elsewhere – values are not saved on Agisoft.
