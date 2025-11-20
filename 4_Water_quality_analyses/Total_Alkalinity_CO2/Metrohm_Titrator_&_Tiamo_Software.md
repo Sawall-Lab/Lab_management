@@ -239,7 +239,7 @@ Note: don’t run pump 1 for too long or else the sample beaker will overflow.
 
 <h4 id="Adding_sample_data_using_CSV_sample_table">Adding sample data using CSV sample table</h4>
 
-Note: if samples are collected by another researcher, a template table can be sent to them for them to fill out and returned for running the titrations. Example templates are provided in the [Templates](../Total_Alkalinity_CO2/Templates) folder.
+Note: if samples are collected by another researcher, a template table can be sent to them for them to fill out and returned for running the titrations. Example templates are provided in the [Templates](../Total_Alkalinity_CO3/Templates) folder.
 
 1. Copy the sample table template (or a previous sample table) to a daily folder (yyyyymmdd).
 2. Add the correct date (yyyymmdd) to the template file and append with titration run number.

@@ -40,7 +40,7 @@ The platform the corals are placed on must have distinguishable markers on them 
 
 The following is an example of a platform set-up using Agisoft markers, but markers can be customized to user preference:
 
-1. The marker template can be found [here](5_Live_coral_measurements/3D_Models/Agisoft_Marker_Template.docx).
+1. The marker template can be found [here](../3D_Models/Agisoft_Marker_Template.docx).
 2. Attach markers to the disk-shaped base that holds the coral plug (see below). Record measurements of the distances between each of the markers.
 
 <p>
