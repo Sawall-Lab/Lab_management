@@ -44,7 +44,7 @@ The following is an example of a platform set-up using Agisoft markers, but mark
 2. Attach markers to the disk-shaped base that holds the coral plug (see below). Record measurements of the distances between each of the markers.
 
 <p>
-  <img src="../images/Agisoft_Platform.png" alt="Agisoft Platform" width="400">
+  <img src="../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Platform.png" alt="Agisoft Platform" width="400">
 </p>
 
 *Platform with Agisoft markers*
@@ -53,7 +53,7 @@ The following is an example of a platform set-up using Agisoft markers, but mark
 The MABEE Lab has two platforms that can be used for 3D models. The above one is smaller and typically for fragments, and the below one can be used for full colonies.
 
 <p>
-  <img src="../images/Agisoft_Large_Platform.png" alt="Agisoft Large Platform" width="400">
+  <img src="../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Large_Platform.png" alt="Agisoft Large Platform" width="400">
 </p>
 
 *Larger platform with painted markers*
@@ -88,7 +88,7 @@ In Agisoft Metashape Pro, create a project, then name and save it. Different pro
 6. Select “Ok”.
 
 <p>
-  <img src="../images/Agisoft_Import_Vid.png" alt="Agisoft Import Video" width="400">
+  <img src="../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Import_Vid.png" alt="Agisoft Import Video" width="400">
 </p>
 
 If using multiple chunks:
@@ -96,7 +96,7 @@ If using multiple chunks:
 7. Click “Add Chunk” in the Workspace (see below).
 
 <p>
-  <img src="../images/Agisoft_Add_Chunk.png" alt="Agisoft Add Chunk" width="400">
+  <img src="../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Add_Chunk.png" alt="Agisoft Add Chunk" width="400">
 </p>
 
 8. Follow steps 1-6 until all chunks are created.
@@ -108,15 +108,15 @@ If using multiple chunks:
     - If the project has multiple chunks and the job needs to be run for all the chunks, ensure that “Applies to -> All chunks” is selected.
   
 <p>
-  <img src="../images/Agisoft_Photo_Cloud.png" alt="Agisoft Photo Cloud" width="400">
+  <img src="../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Photo_Cloud.png" alt="Agisoft Photo Cloud" width="400">
 </p>
 
 3. Check coverage and alignments (alignment problems occur if on the platform are not properly detected in the image; if misalignment occurs see “Troubleshooting”).
-    - To check coverage, click the [camera button](../images/Agisoft_Camera_Button.png) along the top taskbar and a photo cloud should appear. 
+    - To check coverage, click the [camera button](../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Camera_Button.png) along the top taskbar and a photo cloud should appear. 
     - Aim for coverage roughly like below:
     
 <p>
-  <img src="../images/Agisoft_Photo_Cover.png" alt="Agisoft Photo Cover" width="400">
+  <img src="../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Photo_Cover.png" alt="Agisoft Photo Cover" width="400">
 </p>
 
 <h4 id="Photo_Cloud_Troubleshooting">Photo Cloud Troubleshooting</h4>
@@ -125,7 +125,7 @@ If using multiple chunks:
 
 - If there are alignment issues, the system will say there are misaligned photos.
     1. In Workspace, select the chunk with misaligned photos and its drop-down menu will appear.
-    2. Select “Images” – it will say [how many images are aligned, and the misaligned frames will appear with “NA”](../images/Agisoft_Align.png). 
+    2. Select “Images” – it will say [how many images are aligned, and the misaligned frames will appear with “NA”](../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Align.png). 
         - If there are very few misaligned images (less than 20%), their absence won’t negatively affect the model, and coverage is good already, remove the misaligned photos. 
         - If there are many misaligned images, remove all images and import the video again with a different Frame Step value.
     3. If there are still alignment issues, manually crop any useless background from the images to reduce what the system needs to filter out.
@@ -140,32 +140,32 @@ The next four jobs (Optimize Alignment, Build Point Cloud, Build Mesh, Refine Me
 3. Add -> Job Type -> Build Point Cloud (see parameters below) -> Ok. 
 
 <p>
-  <img src="../images/Agisoft_Point_Cloud.png" alt="Agisoft Build Point Cloud" width="400">
+  <img src="../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Point_Cloud.png" alt="Agisoft Build Point Cloud" width="400">
 </p>
 
 4. Add -> Job Type -> Build Mesh (see parameters below) -> Ok.
 
 <p>
-  <img src="../images/Agisoft_Mesh.png" alt="Agisoft Build Mesh" width="400">
+  <img src="../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Mesh.png" alt="Agisoft Build Mesh" width="400">
 </p>
 
 5. Add-> Job Type -> Refine Mesh (see parameters below) -> Ok
 
 <p>
-  <img src="../images/Agisoft_Refine_Mesh.png" alt="Agisoft Refine Mesh" width="400">
+  <img src="../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Refine_Mesh.png" alt="Agisoft Refine Mesh" width="400">
 </p>
 
 6. Below is what the job lineup should look like. Once ready, checkmark “Save project after each step” -> Ok. 
     - The checkmarks mean that the jobs will be run when pressing “OK”. If a job fails, they do not all need to be removed – simply uncheck the ones you don’t want to run.
 
 <p>
-  <img src="../images/Agisoft_Job_Lineup.png" alt="Agisoft Job Lineup" width="400">
+  <img src="../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Job_Lineup.png" alt="Agisoft Job Lineup" width="400">
 </p>
 
 7. The final product should look like this: 
 
 <p>
-  <img src="../images/Agisoft_Model.png" alt="Agisoft Final Model" width="400">
+  <img src="../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Model.png" alt="Agisoft Final Model" width="400">
 </p>
 
 <h2 id="Markers_And_Scale_Bars">Markers and Scale Bars</h2>
@@ -186,15 +186,15 @@ The next four jobs (Optimize Alignment, Build Point Cloud, Build Mesh, Refine Me
 2. Right click on the selected markers -> Scale Bar
 3. Double-click space under “Distance(m)” next to the created scale bar to manually enter the scale according to real life measurement. 
 4. Repeat steps 1-3 for different combinations of markers to create as many scale bars as desired. 
-5. Once satisfied, press the [update transform button](../images/Agisoft_Transform_Button.png). The model will then be updated according to scale.
+5. Once satisfied, press the [update transform button](../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Transform_Button.png). The model will then be updated according to scale.
     - Tip: Press 0 to reset the view of the model post-transformation. 
 6. The final product should look like this:
 
 <p>
-  <img src="../images/Agisoft_Model_ScaleBars.png" alt="Agisoft Final Model with Scale Bars" width="400">
+  <img src="../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Model_ScaleBars.png" alt="Agisoft Final Model with Scale Bars" width="400">
 </p>
 
-7. If desired, to hide the points and scale bars from view, press the [flag button](../images/Agisoft_Flag_Button.png).
+7. If desired, to hide the points and scale bars from view, press the [flag button](../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Flag_Button.png).
 
 <h2 id="Volume/Surface_Area_Measurements">Volume/Surface Area Measurements</h2>
 
@@ -202,7 +202,7 @@ The next four jobs (Optimize Alignment, Build Point Cloud, Build Mesh, Refine Me
 2. Open the dashed rectangle’s drop-down menu and select “Free-Form Selection” (see below).
 
 <p>
-  <img src="../images/Agisoft_FreeForm.png" alt="Agisoft Free-Form Selection" width="400">
+  <img src="../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_FreeForm.png" alt="Agisoft Free-Form Selection" width="400">
 </p>
 
 3. Press and drag over the coral, epoxy, base/plug, and tag. Selected area will turn pink – this is what will be KEPT.
@@ -210,7 +210,7 @@ The next four jobs (Optimize Alignment, Build Point Cloud, Build Mesh, Refine Me
 4. Remove the non-selected area by pressing the button below: 
 
 <p>
-  <img src="../images/Agisoft_Remove_Area.png" alt="Agisoft Remove Unselected Area" width="400">
+  <img src="../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Remove_Area.png" alt="Agisoft Remove Unselected Area" width="400">
 </p>
 
 5. Repeat to crop out everything other than the coral, epoxy, base/plug, and tag. 
@@ -218,7 +218,7 @@ The next four jobs (Optimize Alignment, Build Point Cloud, Build Mesh, Refine Me
 6. The final product should look like this:
 
 <p>
-  <img src="../images/Agisoft_Model_Crop.png" alt="Agisoft Model with Scale Bars and Cropped Area" width="400">
+  <img src="../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Model_Crop.png" alt="Agisoft Model with Scale Bars and Cropped Area" width="400">
 </p>
 
 <h4 id="Measuring_Volume">Measuring Volume</h4>
@@ -235,7 +235,7 @@ The next four jobs (Optimize Alignment, Build Point Cloud, Build Mesh, Refine Me
 2. The final product should look like this:
 
 <p>
-  <img src="../images/Agisoft_Model_SA.png" alt="Agisoft Model with Scale Bars and Cropped for Surface Area" width="400">
+  <img src="../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Model_SA.png" alt="Agisoft Model with Scale Bars and Cropped for Surface Area" width="400">
 </p>
 
 2. Tools -> Mesh -> Measure Surface Area and Volume. This will produce an Area (m<sup>2</sup>) value; the Volume value will be 0.

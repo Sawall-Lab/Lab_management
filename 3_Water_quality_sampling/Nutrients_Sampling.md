@@ -33,7 +33,7 @@ Note: Be sure to wear gloves for the entire process! Testing for nutrient conten
 Most materials are stored on a shelf in room 305, in a green plastic box labeled “Nutrients”.
 
 - Gloves
-- [Nuclepore 47mm Circular Filters](../images/Whatman_Nuclepore_Filter.png)
+- [Nuclepore 47mm Circular Filters](../images/Nutrients_Sampling/Whatman_Nuclepore_Filter.png)
 -	Tweezers to handle filters
 -	Filter holders
 -	Bottle with Nutrients Sampling (bottle modified for nutrient sampling)
@@ -54,7 +54,7 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
 <h2 id="Preparation">Preparation</h2>
 
 1. Use the tweezers to remove a filter from the filter container.
-    - The filters are clear and are separated by [blue round sheets](../images/Whatman_Nuclepore_Filter_Open.png).
+    - The filters are clear and are separated by [blue round sheets](../images/Nutrients_Sampling/Whatman_Nuclepore_Filter_Open.png).
 2. Untwist and separate the two parts of the filter holder and use the tweezers to put a filter inside (on the half with the grid), place the O-ring onto the filter, then close the filter holder again.
     - The filter must be placed very flat and uniform, and the filter must be closed carefully to keep the filter flat.
 
@@ -73,14 +73,14 @@ Most materials are stored on a shelf in room 305, in a green plastic box labeled
 7. Filter can be thrown in a regular waste bin.
     
 <p>
-  <img src="../images/NUTS_Sampling.png" alt="Nutrients Sampling" width="400">
+  <img src="../images/Nutrients_Sampling/NUTS_Sampling.png" alt="Nutrients Sampling" width="400">
 </p>
 
 *Potential sampling setup*
 
 
 <p>
-  <img src="../images/NUTS_Alternative_Sampling.png" alt="Nutrients Alternative Sampling" width="400">
+  <img src="../images/Nutrients_Sampling/NUTS_Alternative_Sampling.png" alt="Nutrients Alternative Sampling" width="400">
 </p>
 
 *Potential sampling setup using alternative sampling bottle (not stored in the Nutrients box)*

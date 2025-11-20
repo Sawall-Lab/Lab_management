@@ -94,7 +94,7 @@ Use fresh MQ and clean glassware!
 
 For absolute TA measurements: use RM or CRM measurements to back calculate precise acid concentration. Adjust concentration in Tiamo software and R templates. 
 
-If running a lot of samples (eg. over the summer field season) it’s best to make 4L at once in the big 4L amber bottle (blue label) and top up the smaller [amber titrant bottle](../../images/Titrator_Titrant_Bottle.png) (green label) as needed. This avoids having to restandardize.
+If running a lot of samples (eg. over the summer field season) it’s best to make 4L at once in the big 4L amber bottle (blue label) and top up the smaller [amber titrant bottle](../../images/Metrohm_Titrator_&_Tiamo_Software/Titrator_Titrant_Bottle.png) (green label) as needed. This avoids having to restandardize.
 
 <h2 id="Tiamo_Software">Tiamo Software</h2>
 
@@ -124,7 +124,7 @@ Methods are step-by-step procedures that the instrument takes each time it analy
 -	Be sure to save the Method after any changes are made, or else they may not be applied.
 
 <p>
-  <img src="../../images/Tiamo_Methods.png" alt="Tiamo Methods" width="400">
+  <img src="../../images/Metrohm_Titrator_&_Tiamo_Software/Tiamo_Methods.png" alt="Tiamo Methods" width="400">
 </p>
 
 *Method: TA_CO3_20mL_AU_JWelter*
@@ -148,7 +148,7 @@ Export Templates are outlines for where the produced “res” and “mp” file
         -	Each value from the “available field” can be given a simplified/clearer “displayed name”
 
 <p>
-  <img src="../../images/Tiamo_Export_Template.jpg" alt="Tiamo Export Template" width="400">
+  <img src="../../images/Metrohm_Titrator_&_Tiamo_Software/Tiamo_Export_Template.jpg" alt="Tiamo Export Template" width="400">
 </p>
 
 *Tiamo windows for finding, creating, and editing Export Templates*
@@ -171,10 +171,10 @@ These steps should be taken every day, regardless of if it is also the start of 
 1. Check that the titrant bottle is at least half full (500mL = ~150 runs).
 2. Check that the MQ reservoir has 5L or more (5L = ~30 runs).
 3. Check/empty the waste water reservoirs (see [Waste Disposal](#Waste_Disposal)).
-4. [Attach](../../images/Titrator_Latched_Pump2.png) the top of pump 2. 
-    - The [black mark](../../images/Titrator_Black_Mark_Pump2.png) on the tube goes flush with the right-hand side of the base of the clip.
-    - The tube should be within the large [groove](../../images/Titrator_Groove_Pump2.png) on the metal part of the holder.
-5. [Open the electrode](../../images/Titrator_Open_Electrode.png) and top up with KCL (3-mol) by squeezing liquid from the KCl bottle into the hole.
+4. [Attach](../../images/Metrohm_Titrator_&_Tiamo_Software/Titrator_Latched_Pump2.png) the top of pump 2. 
+    - The [black mark](../../images/Metrohm_Titrator_&_Tiamo_Software/Titrator_Black_Mark_Pump2.png) on the tube goes flush with the right-hand side of the base of the clip.
+    - The tube should be within the large [groove](../../images/Metrohm_Titrator_&_Tiamo_Software/Titrator_Groove_Pump2.png) on the metal part of the holder.
+5. [Open the electrode](../../images/Metrohm_Titrator_&_Tiamo_Software/Titrator_Open_Electrode.png) and top up with KCL (3-mol) by squeezing liquid from the KCl bottle into the hole.
 6. Start the computer (login is written on tape on the computer).
 7. Open the Tiamo software.
 8. Check for bubbles in both Dosinos (aka Dosing devices) and the blue tube coming from the titrant bottle. 
@@ -187,7 +187,7 @@ The waste line of pump 2 can be in the waste bottle with the green label for the
 1. Put a 50mL Falcon tube into the position directly under the injection needle.
 2. In the Tiamo software: “Manual -> Tower 1 -> Move -> Lower the “Lift position” until the injection needle is lowered to ~150mm in the Falcon tube.
 3. In “Tower 1”, start pump 2. 
-    - Pump 2 drains the [sample beaker](../../images/Tiamo_Sample_Beaker.png) - if the sample beaker isn’t draining, adjust the spring tension on pump 2 by twisting the [silver knob](../images/Titrator_Knob_Pump2.png) on the clasp.
+    - Pump 2 drains the [sample beaker](../../images/Metrohm_Titrator_&_Tiamo_Software/Tiamo_Sample_Beaker.png) - if the sample beaker isn’t draining, adjust the spring tension on pump 2 by twisting the [silver knob](../images/Metrohm_Titrator_&_Tiamo_Software/Titrator_Knob_Pump2.png) on the clasp.
 4. In “Dosing Devices”, start “prepare” commands for both dosinos.
 5. Wait until prepare commands have finished and liquid is fully drained out of the sample beaker.
 6. Stop pump 2 and run pump 1 until sample beaker is full to ~25mL.
@@ -217,7 +217,7 @@ Note: don’t run pump 1 for too long or else the sample beaker will overflow.
 9. 2 junk samples should be run between every ~12 real samples to ensure the system is still stabilized or to determine drift.
 
 <p>
-  <img src="../../images/Tiamo_Junk_Template.png" alt="Tiamo Junk Template" width="400">
+  <img src="../../images/Metrohm_Titrator_&_Tiamo_Software/Tiamo_Junk_Template.png" alt="Tiamo Junk Template" width="400">
 </p>
 
 *Example junk sample template*
@@ -248,7 +248,7 @@ Note: if samples are collected by another researcher, a template table can be se
     - For duplicates or triplicates, samples should not be run one after the other – alternate duplicates or triplicates with each other to account more for drift.
 
 <p>
-  <img src="../../images/Tiamo_Sample_Table.png" alt="Tiamo Sample Table" width="400">
+  <img src="../../images/Metrohm_Titrator_&_Tiamo_Software/Tiamo_Sample_Table.png" alt="Tiamo Sample Table" width="400">
 </p>
 
 *Sample table with triplicates before and after alternating*                                                  
@@ -280,7 +280,7 @@ Note: if samples are collected by another researcher, a template table can be se
 Recall that at the beginning of the day the LNSW junks need to be run first! The following describes real samples but the steps for junks are relatively the same.
 
 1. Un-spiked samples are kept in the fridge until they are run (for a week at most since they are un-spiked), but must be room temperature before titration. Take them out of the fridge and let them sit before analyzing.
-2. Methods are available for 30mL and 50mL samples. 30mL samples go in [threaded sample vials](../../images/Threaded_30mL_Vials.png) and can be placed directly on the titrator. Larger samples and LSNW junks will have to be transferred to [50mL vials](../images/50mL_Vial.png). [50mL falcon tubes](../images/Falcon_Tube.png) may be used for sample collection as well, and must be placed in Styrofoam stands to keep them upright.
+2. Methods are available for 30mL and 50mL samples. 30mL samples go in [threaded sample vials](../../images/Metrohm_Titrator_&_Tiamo_Software/Threaded_30mL_Vials.png) and can be placed directly on the titrator. Larger samples and LSNW junks will have to be transferred to [50mL vials](../images/50mL_Vial.png). [50mL falcon tubes](../images/Metrohm_Titrator_&_Tiamo_Software/Falcon_Tube.png) may be used for sample collection as well, and must be placed in Styrofoam stands to keep them upright.
 3. For 50mL samples, aliquot samples to sample vials to reach just under the blue fill line (fill line indicates ~40-50mL).
 4. Cover sample vials lids, first with aluminum foil, then with a white lid.
 5. Place samples on the titrator carousel in their appropriate positions.
@@ -298,8 +298,8 @@ Recall that at the beginning of the day the LNSW junks need to be run first! The
 
 <h2 id="End_of_Day">End of Day</h2>
 
-1. Top up electrode with KCl and [close](../../images/Titrator_Closed_Electrode.png) it.
-2. [Unlatch](../../images/Titrator_Unlatched_Pump2.png) top of pump 2.
+1. Top up electrode with KCl and [close](../../images/Metrohm_Titrator_&_Tiamo_Software/Titrator_Closed_Electrode.png) it.
+2. [Unlatch](../../images/Metrohm_Titrator_&_Tiamo_Software/Titrator_Unlatched_Pump2.png) top of pump 2.
 3. Move waste line on pump 2 back to waste bottle with green label. 
 4. Discard remnants from sample vials into the appropriate waste bottle, wash each 3x with MQ and leave to dry.
 5. Proceed to “Data Processing”.
@@ -308,7 +308,7 @@ Recall that at the beginning of the day the LNSW junks need to be run first! The
 
 <h4 id="Clean_Waste">Clean Waste</h4>
 
-1. [Nalgene bottle](../../images/Clean_Waste_Jug.png) with green label that says “Waste Water (clean)”
+1. [Nalgene bottle](../../images/Metrohm_Titrator_&_Tiamo_Software/Clean_Waste_Jug.png) with green label that says “Waste Water (clean)”
     -	Located on the counter
 2. Used for junk samples and un-spiked seawater samples
 3. Contains seawater, MQ, and Titrant
@@ -316,9 +316,9 @@ Recall that at the beginning of the day the LNSW junks need to be run first! The
 
 <h4 id="Spiked_Waste">Spiked Waste</h4>
 
-1. Rectangular [jerry can](../../images/Spiked_Waste_Jug.png) with red label that says “Waste Water (spiked/HCl)”
+1. Rectangular [jerry can](../../images/Metrohm_Titrator_&_Tiamo_Software/Spiked_Waste_Jug.png) with red label that says “Waste Water (spiked/HCl)”
     -	Located on the counter
-2. [Glass bottle](../../images/Small_Spiked_Waste_Jug.png) with yellow lid and red label that says “HgCl<sub>2</sub> Mercury Chloride HgCl<sub>2</sub>”
+2. [Glass bottle](../../images/Metrohm_Titrator_&_Tiamo_Software/Small_Spiked_Waste_Jug.png) with yellow lid and red label that says “HgCl<sub>2</sub> Mercury Chloride HgCl<sub>2</sub>”
     -	Located under the sink
     -	Used for the leftovers in sample vials, as well as rinse #1 with MQ
 3. Used for samples spiked with HgCl<sub>2</sub> 
@@ -345,7 +345,7 @@ Note: see “Methods -> Export locations for data” to find exact locations for
 
 Storage refers to when the system and the instrument will not be running samples for ~3+ weeks.
 
-1. Swap [amber titrant bottle](../../images/Titrator_Titrant_Bottle.png) with the [clear Dosino storage bottle](../../images/Titrator_Storage_Bottle.png) (contains MQ) and rinse the Dosino 3x.
+1. Swap [amber titrant bottle](../../images/Metrohm_Titrator_&_Tiamo_Software/Titrator_Titrant_Bottle.png) with the [clear Dosino storage bottle](../../images/Metrohm_Titrator_&_Tiamo_Software/Titrator_Storage_Bottle.png) (contains MQ) and rinse the Dosino 3x.
 2. Flush all lines with MQ using the machine commands (do not try to take off the lines and do it manually). After switching Titrant bottle for the Storage bottle, all inflows come from MQ - running prepare commands for both Dosinos is enough.
     -	Bonus: not necessary, but both Dosino units can be disassembled and rinsed with MQ to flush out any salt build up; Metrohm has instructional videos for [disassembling the sample Dosino](https://youtu.be/NHa0AXHTO-E?si=ftNoxO5LLXFLbEXw), and the titrant Dosino is the same process. After reassembly, run the “Prepare” command once or twice to ensure proper function. Tools required for disassembly are found in the drawer in room 305 marked “Metrohm”, in a Ziploc bag labeled “Tools”.
 3. Place electrode in a storage tube with the Metrohm 3M KCl solution. Seal the storage tube with Parafilm to prevent the solution from desiccating.
@@ -360,7 +360,7 @@ Storage refers to when the system and the instrument will not be running samples
 
 <h4 id="Calibration">Calibration</h4>
 
-If values seem off, the lab has batches of [Certified Reference Material (CRM)](../../images/CRMs.png) solution, located in cupboard labeled “Seawater Standards, Spiked HgCl<sub>2</sub>”. These have been prepared by the Scripps Institution, with each respective batch’s salinity, TA and CO<sub>2</sub> values published [online](https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Dickson_CRM/batches.html). Run some samples of an UNOPENED bottle of solution (if already opened then the values will not be accurate due to air exposure) using their salinity, and if the CO<sub>2</sub> and TA results do not match those published by Scripps (be sure to correspond the batch number to the number on the website) then there is something off with the system’s readings and offset must be accounted for.
+If values seem off, the lab has batches of [Certified Reference Material (CRM)](../../images/Metrohm_Titrator_&_Tiamo_Software/CRMs.png) solution, located in cupboard labeled “Seawater Standards, Spiked HgCl<sub>2</sub>”. These have been prepared by the Scripps Institution, with each respective batch’s salinity, TA and CO<sub>2</sub> values published [online](https://www.ncei.noaa.gov/access/ocean-carbon-acidification-data-system/oceans/Dickson_CRM/batches.html). Run some samples of an UNOPENED bottle of solution (if already opened then the values will not be accurate due to air exposure) using their salinity, and if the CO<sub>2</sub> and TA results do not match those published by Scripps (be sure to correspond the batch number to the number on the website) then there is something off with the system’s readings and offset must be accounted for.
 
 Note: the Scripps solutions are spiked with HgCl<sub>2</sub>!
 
@@ -375,7 +375,7 @@ The titrator needs to take up a certain amount of volume depending on the Method
 If the computer is shut down or the application is closed, the software will reset and may give error messages when trying to move the tower for bubble removal, as it will not be able to read the rack position: “Current position” (under Manual -> Tower 1 -> Move -> Rack position) will read “-----" instead of the number value that corresponds to the rack position directly under the tower.
 
 <p>
-  <img src="../../images/Tiamo_Tower_Rack_Position_Error.png" alt="Tiamo Tower Rack Position Error" width="400">
+  <img src="../../images/Metrohm_Titrator_&_Tiamo_Software/Tiamo_Tower_Rack_Position_Error.png" alt="Tiamo Tower Rack Position Error" width="400">
 </p>
 
 *Rack position reading “-----", indicating error in function and connection between the instrument and software*
@@ -384,7 +384,7 @@ If the computer is shut down or the application is closed, the software will res
 To fix: set up one junk sample in the Workplace and start it. The system should begin running as usual – you can press “Stop” once the tower begins to lower as though to take up the sample. When “Stop” is pressed, everything will stay as it was while “Stop” was pressed, so go into “Manual”, stop the stirrer and move the Lift position back to 0. “Current position” should now read the number value that corresponds to the rack position directly under the tower. Proceed with bubble removal.
 
 <p>
-  <img src="../../images/Tiamo_Tower_Rack_Position.png" alt="Tiamo Tower Rack Position" width="400">
+  <img src="../../images/Metrohm_Titrator_&_Tiamo_Software/Tiamo_Tower_Rack_Position.png" alt="Tiamo Tower Rack Position" width="400">
 </p>
 
 *Rack position reading a proper position, indicating proper function and connection between the instrument and software*
