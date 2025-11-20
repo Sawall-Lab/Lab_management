@@ -125,13 +125,9 @@ If using multiple chunks:
 
 - If there are alignment issues, the system will say there are misaligned photos.
     1. In Workspace, select the chunk with misaligned photos and its drop-down menu will appear.
-    2. Select “Images” – it will say how many images are aligned, and the misaligned frames will appear with “NA” (see below). 
+    2. Select “Images” – it will say [how many images are aligned, and the misaligned frames will appear with “NA”](../images/Agisoft_Align.png). 
         - If there are very few misaligned images (less than 20%), their absence won’t negatively affect the model, and coverage is good already, remove the misaligned photos. 
         - If there are many misaligned images, remove all images and import the video again with a different Frame Step value.
-<p>
-  <img src="../images/Agisoft_Align.png" alt="Agisoft Misalignment" width="400">
-</p>
-    
     3. If there are still alignment issues, manually crop any useless background from the images to reduce what the system needs to filter out.
     4. If there are still alignment issues, the video might not be good enough to properly generate a model. Re-record the video if possible.
 
