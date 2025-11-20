@@ -57,7 +57,7 @@ Note: perform in low light conditions.
 
 1. Retrieve samples from the -80°C freezer.
 2. Label a clean glass tube for each chl-a sample.
-    - Don’t write on the tubes, use tape to label tubes or label their positions in the rack
+    - Don’t write on the tubes, use tape to label tubes or label their positions in the rack.
 3. Transfer each filter to a glass tube, labelled with the corresponding sample ID.
 4. Add 3mL 90% acetone and seal the tube with parafilm or a reusable cap.
 5. Vortex for 5 seconds. 
@@ -77,7 +77,7 @@ Note: perform in low light conditions.
 -	Spatula
 -	1M HCl
 -	Pasteur pipet
--	“chlorophyl-a_trilogy_raw_fluorescence” excel sheet
+-	[“chlorophyl-a_trilogy_raw_fluorescence” datasheet](../Chlorophyll-A/chlorophyl-a_trilogy_raw_fluorescence_template.xlsx)
 
 <h4 id="A_Methods">Methods</h4>
 
