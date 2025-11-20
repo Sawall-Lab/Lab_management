@@ -18,7 +18,7 @@ This protocol is used for the collection of water samples for the later purpose 
 
 ## Contents  
 
-- [Materials](#Materials) 
+- [Materials](#Materials)
     - [Purchasing new materials](#Purchasing_new_materials)
 - [Sample Collection](#Sample_Collection)
 - [Cleanup](#Cleanup) 

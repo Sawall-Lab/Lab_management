@@ -187,7 +187,7 @@ The waste line of pump 2 can be in the waste bottle with the green label for the
 1. Put a 50mL Falcon tube into the position directly under the injection needle.
 2. In the Tiamo software: “Manual -> Tower 1 -> Move -> Lower the “Lift position” until the injection needle is lowered to ~150mm in the Falcon tube.
 3. In “Tower 1”, start pump 2. 
-    - Pump 2 drains the [sample beaker](../../images/Metrohm_Titrator_&_Tiamo_Software/Tiamo_Sample_Beaker.png) - if the sample beaker isn’t draining, adjust the spring tension on pump 2 by twisting the [silver knob](../images/Metrohm_Titrator_&_Tiamo_Software/Titrator_Knob_Pump2.png) on the clasp.
+    - Pump 2 drains the [sample beaker](../../images/Metrohm_Titrator_&_Tiamo_Software/Titrator_Sample_Beaker.png) - if the sample beaker isn’t draining, adjust the spring tension on pump 2 by twisting the [silver knob](../images/Metrohm_Titrator_&_Tiamo_Software/Titrator_Knob_Pump2.png) on the clasp.
 4. In “Dosing Devices”, start “prepare” commands for both dosinos.
 5. Wait until prepare commands have finished and liquid is fully drained out of the sample beaker.
 6. Stop pump 2 and run pump 1 until sample beaker is full to ~25mL.
@@ -280,7 +280,7 @@ Note: if samples are collected by another researcher, a template table can be se
 Recall that at the beginning of the day the LNSW junks need to be run first! The following describes real samples but the steps for junks are relatively the same.
 
 1. Un-spiked samples are kept in the fridge until they are run (for a week at most since they are un-spiked), but must be room temperature before titration. Take them out of the fridge and let them sit before analyzing.
-2. Methods are available for 30mL and 50mL samples. 30mL samples go in [threaded sample vials](../../images/Metrohm_Titrator_&_Tiamo_Software/Threaded_30mL_Vials.png) and can be placed directly on the titrator. Larger samples and LSNW junks will have to be transferred to [50mL vials](../images/50mL_Vial.png). [50mL falcon tubes](../images/Metrohm_Titrator_&_Tiamo_Software/Falcon_Tube.png) may be used for sample collection as well, and must be placed in Styrofoam stands to keep them upright.
+2. Methods are available for 30mL and 50mL samples. 30mL samples go in [threaded sample vials](../../images/Metrohm_Titrator_&_Tiamo_Software/Threaded_30mL_Vials.png) and can be placed directly on the titrator. Larger samples and LSNW junks will have to be transferred to [50mL vials](../images/Metrohm_Titrator_&_Tiamo_Software/50mL_Vial.png). [50mL falcon tubes](../images/Metrohm_Titrator_&_Tiamo_Software/Falcon_Tube.png) may be used for sample collection as well, and must be placed in Styrofoam stands to keep them upright.
 3. For 50mL samples, aliquot samples to sample vials to reach just under the blue fill line (fill line indicates ~40-50mL).
 4. Cover sample vials lids, first with aluminum foil, then with a white lid.
 5. Place samples on the titrator carousel in their appropriate positions.
