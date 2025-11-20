@@ -119,7 +119,7 @@ If using multiple chunks:
   <img src="../images/Agisoft_Photo_Cover.png" alt="Agisoft Photo Cover" width="400">
 </p>
 
-<h5 id="Troubleshooting">Troubleshooting</h5>
+<h4 id="- Troubleshooting">Troubleshooting</h4>
 
 A. If the coverage does not look like enough to accurately generate a model from all angles, another video of the same coral can be added to the same chunk by following the steps under “Importing Videos”, and then coverage can be re-checked by following the steps under “Generating Photo Cloud”.
 
