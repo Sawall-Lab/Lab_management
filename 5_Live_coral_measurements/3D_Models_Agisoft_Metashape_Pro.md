@@ -25,7 +25,7 @@ This protocol is for the analysis of live corals (or other objects) for the purp
 - [Agisoft Metashape Pro Model Creation](#Agisoft_Metashape_Pro_Model_Creation)  
     - [Importing Videos](#Importing_Videos)
     - [Generating Photo Cloud](#Generating_Photo_Cloud)
-        - [Troubleshooting](#Troubleshooting)
+        - [Photo Cloud Troubleshooting](#Photo_Cloud_Troubleshooting)
     - [Batch Processing to Generate Model](#Batch_Processing_to_Generate_Model)
 - [Markers and Scale Bars](#Markers_and_Scale_Bars) 
     - [Creating Markers](#Creating_Markers)
@@ -119,7 +119,7 @@ If using multiple chunks:
   <img src="../images/Agisoft_Photo_Cover.png" alt="Agisoft Photo Cover" width="400">
 </p>
 
-<h4 id="Troubleshooting">- Troubleshooting</h4>
+<h4 id="Photo_Cloud_Troubleshooting">Photo Cloud Troubleshooting</h4>
 
 A. If the coverage does not look like enough to accurately generate a model from all angles, another video of the same coral can be added to the same chunk by following the steps under “Importing Videos”, and then coverage can be re-checked by following the steps under “Generating Photo Cloud”.
 
@@ -191,7 +191,7 @@ The next four jobs (Optimize Alignment, Build Point Cloud, Build Mesh, Refine Me
 2. Right click on the selected markers -> Scale Bar
 3. Double-click space under “Distance(m)” next to the created scale bar to manually enter the scale according to real life measurement. 
 4. Repeat steps 1-3 for different combinations of markers to create as many scale bars as desired. 
-5. Once satisfied, press the [update transform button](../images/Agisoft_Transform_Buttom.png). The model will then be updated according to scale.
+5. Once satisfied, press the [update transform button](../images/Agisoft_Transform_Button.png). The model will then be updated according to scale.
     - Tip: Press 0 to reset the view of the model post-transformation. 
 6. The final product should look like this:
 
