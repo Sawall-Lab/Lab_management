@@ -9,7 +9,7 @@
 # Protocol for Nutrients Sampling 
 **Author(s):** David Jen, Xinya Calhoun  
 **Lab:** Sawall Lab / MABEE Lab  
-**Version:** v1.0  
+**Version:** v1.2  
 **Date:** 2024-07-13
 
 ## Overview 
