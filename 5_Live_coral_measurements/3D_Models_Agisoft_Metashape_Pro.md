@@ -128,14 +128,13 @@ If using multiple chunks:
     2. Select “Images” – it will say how many images are aligned, and the misaligned frames will appear with “NA” (see below). 
         - If there are very few misaligned images (less than 20%), their absence won’t negatively affect the model, and coverage is good already, remove the misaligned photos. 
         - If there are many misaligned images, remove all images and import the video again with a different Frame Step value.
-
 <p>
   <img src="../images/Agisoft_Align.png" alt="Agisoft Misalignment" width="400">
 </p>
+    
+    3. If there are still alignment issues, manually crop any useless background from the images to reduce what the system needs to filter out.
+    4. If there are still alignment issues, the video might not be good enough to properly generate a model. Re-record the video if possible.
 
-3. If there are still alignment issues, manually crop any useless background from the images to reduce what the system needs to filter out.
-4. If there are still alignment issues, the video might not be good enough to properly generate a model. Re-record the video if possible.
-     
 <h4 id="Batch_Processing_to_Generate_Model">Batch Processing to Generate Model</h4>
 
 The next four jobs (Optimize Alignment, Build Point Cloud, Build Mesh, Refine Mesh) are being lined up to run automatically after the prior job is completed. This is not necessary and you can run the jobs one at a time if desired – to do so, simply skip to step 6 after each job (Note: all 4 jobs still must be run).
