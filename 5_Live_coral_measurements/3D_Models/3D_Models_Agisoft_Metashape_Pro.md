@@ -6,7 +6,7 @@
 
 ---
 
-# Protocol for Nutrients Sampling 
+# Protocol for 3D Models and Agisoft Metashape Pro 
 **Author(s):** David Jen, Xinya Calhoun  
 **Lab:** Sawall Lab / MABEE Lab  
 **Version:** v1.2  
@@ -133,7 +133,7 @@ If using multiple chunks:
 
 <h4 id="Batch_Processing_to_Generate_Model">Batch Processing to Generate Model</h4>
 
-The next four jobs (Optimize Alignment, Build Point Cloud, Build Mesh, Refine Mesh) are being lined up to run automatically after the prior job is completed. This is not necessary and you can run the jobs one at a time if desired – to do so, simply skip to step 6 after each job (Note: all 4 jobs still must be run).
+The next four jobs (Optimize Alignment, Build Point Cloud, Build Mesh/Model, Refine Mesh/Model) are being lined up to run automatically after the prior job is completed. This is not necessary and you can run the jobs one at a time if desired – to do so, simply skip to step 6 after each job (Note: all 4 jobs still must be run). 
 
 1. Workflow -> Batch Processing -> Select “Align Photos” -> Remove. 
 2. Add -> Job Type -> Optimize Alignment (default parameters) -> Ok.
@@ -143,13 +143,15 @@ The next four jobs (Optimize Alignment, Build Point Cloud, Build Mesh, Refine Me
   <img src="../../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Point_Cloud.png" alt="Agisoft Build Point Cloud" width="400">
 </p>
 
-4. Add -> Job Type -> Build Mesh (see parameters below) -> Ok.
+4. Add -> Job Type -> Build Mesh (OR Build Model) (see parameters below) -> Ok.
+    - The software may say "Build Mesh" or "Build Model" depending on the version, but the function is the same.
 
 <p>
   <img src="../../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Mesh.png" alt="Agisoft Build Mesh" width="400">
 </p>
 
-5. Add-> Job Type -> Refine Mesh (see parameters below) -> Ok
+5. Add-> Job Type -> Refine Mesh (OR Refine Model) (see parameters below) -> Ok
+    - The software may say "Refine Mesh" or "Refine Model" depending on the version, but the function is the same.
 
 <p>
   <img src="../../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Refine_Mesh.png" alt="Agisoft Refine Mesh" width="400">
