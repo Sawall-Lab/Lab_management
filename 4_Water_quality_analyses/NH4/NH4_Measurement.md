@@ -49,25 +49,26 @@ Table 1: own standard range
 
 <h4 id="Preparation">Preparation</h4>
 
--	Bring all samples and reagents to room temperature.
--	Add BATS deep water to 15mL pre-aged tubes according to table 1.
--	Add secondary standard according to table 1.
--	Aliquot 10mL sample to 15mL pre-aged tubes.
--	Insert a 50mL tip in the repeater pipet and set to 2.5 setting.
--	Add 2.5mL WR to each tube, except the BF tube. Invert 5 times and store in the dark.
--	Incubate for 4-6 hours in the dark.
+1. Bring all samples and reagents to room temperature.
+2. Add BATS deep water to 15mL pre-aged tubes according to table 1.
+3. Add secondary standard according to table 1.
+4. Aliquot 10mL sample to 15mL pre-aged tubes.
+5. Insert a 50mL tip in the repeater pipet and set to 2.5 setting.
+6. Add 2.5mL WR to each tube, except the BF tube. Invert 5 times and store in the dark.
+7. Incubate for 4-6 hours in the dark.
+
 
 <h4 id="Measurement">Measurement</h4>
 
 The Table Template for this analysis can be found [here](../NH4/NH4_template.xlsx).
 
--	Power up the Trilogy.
+1. Power up the Trilogy.
     - Ideally 10-30 minutes before starting measurements to let it warm up.
--	Insert the quartz cuvette.
+2. Insert the quartz cuvette.
     - Good to give a quick rinse with MQ depending on when last used.
--	Add 2.5mL WR to the BF samples, mix and measure immediately.
--	Measure the standard ranges.
--	Measure the samples, if the triplicates indicate first reading was contaminated by previous sample measure a 4th time.
--	Measure the standard ranges again.
--	Leave old sample and standards in tubes to age.
--	Discard liquid in vacuum flask to waste container.
+3. Add 2.5mL WR to the BF samples, mix and measure immediately.
+4. Measure the standard ranges.
+5. Measure the samples, if the triplicates indicate first reading was contaminated by previous sample measure a 4th time.
+6. Measure the standard ranges again.
+7. Leave old sample and standards in tubes to age.
+8. Discard liquid in vacuum flask to waste container.
