@@ -7,10 +7,10 @@
 ---
 
 # Protocol for NH<sub>4</sub> Analysis
-**Author(s):** Roderick Bakker
-**Lab:** Sawall Lab / MABEE Lab
-**Version:** v1.0
-**Date:** 2024-03-26
+**Author(s):** Roderick Bakker 
+**Lab:** Sawall Lab / MABEE Lab 
+**Version:** v1.0 
+**Date:** 2024-03-26 
 
 ## Overview 
 
