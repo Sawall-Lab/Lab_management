@@ -10,7 +10,7 @@
 **Author(s):** David Jen, Xinya Calhoun  
 **Lab:** Sawall Lab / MABEE Lab  
 **Version:** v1.2  
-**Date:** 2024-07-13
+**Date:** 2025-11-24
 
 ## Overview 
 
@@ -78,7 +78,7 @@ The MABEE Lab has two platforms that can be used for 3D models. The above one is
 
 <h2 id="Agisoft_Metashape_Pro_Model_Creation">Agisoft Metashape Pro Model Creation</h2>
 
-<h4 id="Dowloading_Software">Downloading Software</h4>
+<h4 id="Downloading_Software">Downloading Software</h4>
 
 Agisoft Metashape Pro can be downloaded onto a personal device for a 30-day free trial (see instructions below). Otherwise, the full software is downloaded on a computer in the Scott Lab - ensure that no one else is using it first.
 
