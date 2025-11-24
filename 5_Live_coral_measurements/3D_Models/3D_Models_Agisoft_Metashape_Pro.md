@@ -18,11 +18,13 @@ This protocol is for the analysis of live corals (or other objects) for the purp
 
 ## Contents
 
-- [Setup](#Setup)  
+
 - [Video Collection](#Video_Collection) 
+    - [Setup](#Setup)
     - [Notes](#Notes)  
     - [Recording](#Recording)
 - [Agisoft Metashape Pro Model Creation](#Agisoft_Metashape_Pro_Model_Creation)  
+    - [Downloading Software](#Downloading_Software)
     - [Importing Videos](#Importing_Videos)
     - [Generating Photo Cloud](#Generating_Photo_Cloud)
         - [Photo Cloud Troubleshooting](#Photo_Cloud_Troubleshooting)
@@ -34,7 +36,10 @@ This protocol is for the analysis of live corals (or other objects) for the purp
     - [Measuring Volume](#Measuring_Volume) 
     - [Measuring Surface Area](#Measuring_Surface_Area)
  
-<h2 id="Setup">Setup</h2>
+ 
+<h2 id="Video_Collection">Video Collection</h2>
+
+<h4 id="Setup">Setup</h4>
 
 The platform the corals are placed on must have distinguishable markers on them for the software to recognize and for scale bars to be created. The platform should be black, and the markers should be bright contrasting colours, with small but visible dark-coloured dots/shapes – the scale bars will be made between these dots, so they must be small but distinguishable.
 
@@ -58,9 +63,6 @@ The MABEE Lab has two platforms that can be used for 3D models. The above one is
 
 *Larger platform with painted markers*
 
-
-<h2 id="Video_Collection">Video Collection</h2>
-
 <h4 id="Notes">Notes</h4>
 
 1. Ideally, the recorder must have enough space to walk all the way around the platform in order to film the coral from all angles, while also keeping at least two markers in frame at a time. The following is a suggestion of how to take a video:
@@ -76,16 +78,23 @@ The MABEE Lab has two platforms that can be used for 3D models. The above one is
 
 <h2 id="Agisoft_Metashape_Pro_Model_Creation">Agisoft Metashape Pro Model Creation</h2>
 
-In Agisoft Metashape Pro, create a project, then name and save it. Different projects can be made for different coral groups (eg. Ambient Corals and Heated Corals), but the same corals in a group can be input into the same project as chunks and can be run in batch processes. It is not necessary to use chunks – if desired, each coral can be a different project. The below instructions can be used for any number of chunks.
+<h4 id="Dowloading_Software">Downloading Software</h4>
+
+Agisoft Metashape Pro can be downloaded onto a personal device for a 30-day free trial (see instructions below). Otherwise, the full software is downloaded on a computer in the Scott Lab - ensure that no one else is using it first.
+
+1. Go to the [Agisoft Installer](https://www.agisoft.com/downloads/installer/) website.
+2. Download the latest version of Agisoft Metashape Professional Edition (NOT Standard Edition) for your operating system (Windows/macOS/Linux).
 
 <h4 id="Importing_Videos">Importing Videos</h4>
 
-1. Right-click  “Chunk 1” -> Rename.
-2. Right-click  “Chunk 1” -> Import -> Import Video -> select the desired video.
-3. Choose output folder (see below).
-4. Input Frame Step - this is the number of frames you want created from the video (see below). Change this according to the fps of the camera. If inherent fps is high, a frame step of 15 will generate roughly 75 frames for a 30 second video. Play around with the number until satisfied with the number of frames generated – a lower frame step value means more photos are generated. 70-100 frames per video is more than enough. 
-5. “Start from” and “End from” can be left as-is (see below), and the software will automatically create frames using the whole video.
-6. Select “Ok”.
+1. In Agisoft Metashape Pro, create a project, then name and save it. 
+    - Different projects can be made for different coral groups (eg. Ambient Corals and Heated Corals), but the same corals in a group can be input into the same project as different "chunks"" and can be run in batch processes. It is not necessary to use chunks – if desired, each coral can be a different project. The instructions for the rest of this protocol can be used for any number of chunks.
+2. Right-click  “Chunk 1” -> Rename.
+3. Right-click  “Chunk 1” -> Import -> Import Video -> select the desired video.
+4. Choose output folder (see below).
+5. Input Frame Step - this is the number of frames you want created from the video (see below). Change this according to the fps of the camera. If inherent fps is high, a frame step of 15 will generate roughly 75 frames for a 30 second video. Play around with the number until satisfied with the number of frames generated – a lower frame step value means more photos are generated. 70-100 frames per video is more than enough. 
+6. “Start from” and “End from” can be left as-is (see below), and the software will automatically create frames using the whole video.
+7. Select “Ok”.
 
 <p>
   <img src="../../images/3D_Models_Agisoft_Metashape_Pro/Agisoft_Import_Vid.png" alt="Agisoft Import Video" width="400">
