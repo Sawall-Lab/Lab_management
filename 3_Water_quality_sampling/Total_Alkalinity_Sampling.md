@@ -14,7 +14,7 @@
 
 ## Overview
 
-This protocol is used for the collection of water samples for the later purpose of analyzing Total Alkalinity (TA) with the Metrohm Titrator in room 305.
+This protocol is used for the collection of water samples for the later purpose of analyzing Total Alkalinity (TA) with the Metrohm Titrator in room 305  of the Naess Laboratory building.
 
 ## Contents  
 
@@ -73,7 +73,7 @@ Samples can be collected through different methods (eg. RAS Sampler, BIO-RESORT 
 
 <h2 id="Analysis">Analysis</h2>
 
-Analysis of the TA samples is conducted using the Metrohm Titrator and the attached Tiamo software, located in room 305. The protocol for this process is outlined [here](../4_Water_quality_analyses/Total_Alkalinity_CO3/Metrohm_Titrator_&_Tiamo_Software.md).
+Analysis of the TA samples is conducted using the Metrohm Titrator and the attached Tiamo software, located in room 305 of the Naess Laboratory building. The protocol for this process is outlined [here](../4_Water_quality_analyses/Total_Alkalinity_CO3/Metrohm_Titrator_&_Tiamo_Software.md).
 
 
         

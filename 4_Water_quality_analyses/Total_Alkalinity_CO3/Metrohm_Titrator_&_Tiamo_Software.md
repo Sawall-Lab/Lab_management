@@ -54,7 +54,7 @@ No gloves for computer handling!
 
 <h2 id="Materials">Materials</h2>
 
-Materials are mostly stored in room 305. Note that not all materials on this list need to be used each time samples are run.
+Materials are mostly stored in room 305 of the Naess Laboratory building. Note that not all materials on this list need to be used each time samples are run.
 
 <h4 id="Titrant">Titrant</h4> 
 

@@ -30,7 +30,7 @@ Note: Be sure to wear gloves for the entire process! Testing for nutrient conten
  
 <h2 id="Materials">Materials</h2>
 
-Most materials are stored on a shelf in room 305, in a green plastic box labeled “Nutrients”.
+Most materials are stored on a shelf in room 305of the Naess Laboratory building, in a green plastic box labeled “Nutrients”.
 
 - Gloves
 - [Nuclepore 47mm Circular Filters](../images/Nutrients_Sampling/Whatman_Nuclepore_Filter.png)
