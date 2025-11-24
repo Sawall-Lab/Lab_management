@@ -25,16 +25,16 @@ This protocol is for the analysis of NH<sub>4</sub> from collected seawater samp
     
 <h2 id="Materials">Materials</h2>
 
--	Secondary standards (100$\mu M$), 2x 1.8mL
+-	Secondary standards (100µM), 2x 1.8mL
 - BATS deep water (stored in fridge)
--	Pipets and tips (10mL, 5mL, 1000\mu L, 100\mu L, 10\mu L)
+-	Pipets and tips (10mL, 5mL, 1000µL, 100µL, 10µL)
 -	Repeater pipet and tips (50mL)
 -	Working Reagent (WR)
 -	15mL dark tubes (pre-aged)
 
 Table 1: own standard range
-| NH<sub>4</sub> | Volume of matrix (LNSW, MQ, etc.) (mL) | Volume of Secondary Standard (\mu L) |
-|--------|----------------|--------|----------------|
+| NH<sub>4</sub> | Volume of matrix (LNSW, MQ, etc.) (mL) | Volume of Secondary Standard (µL) |
+|--------|----------------|--------|
 | (BF) 0.00 | 10.000 | 0 |
 | (0) 0.00 | 10.000 | 0 |
 | 0.02 | 9.998 | 2 |
