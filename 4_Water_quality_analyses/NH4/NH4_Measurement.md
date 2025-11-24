@@ -23,9 +23,9 @@ This protocol is for the analysis of NH<sub>4</sub> from collected seawater samp
     - [Preparation](#Preparation) 
     - [Measurement](#Measurement) 
     
-<h2 id="Materials">Materials/h2>
+<h2 id="Materials">Materials</h2>
 
--	Secondary standards (100 \mu M), 2x 1.8mL
+-	Secondary standards (100$\mu M$), 2x 1.8mL
 - BATS deep water (stored in fridge)
 -	Pipets and tips (10mL, 5mL, 1000\mu L, 100\mu L, 10\mu L)
 -	Repeater pipet and tips (50mL)
@@ -45,9 +45,9 @@ Table 1: own standard range
 | 2.00 | 9.800 | 200 |
 | 5.00 | 9.500 | 500 |
 
-<h2 id="Methods">Methods/h2>
+<h2 id="Methods">Methods</h2>
 
-<h4 id="Preparation">Preparation/h4>
+<h4 id="Preparation">Preparation</h4>
 
 -	Bring all samples and reagents to room temperature.
 -	Add BATS deep water to 15mL pre-aged tubes according to table 1.
@@ -57,9 +57,9 @@ Table 1: own standard range
 -	Add 2.5mL WR to each tube, except the BF tube. Invert 5 times and store in the dark.
 -	Incubate for 4-6 hours in the dark.
 
-<h4 id="Measurement">Measurement/h4>
+<h4 id="Measurement">Measurement</h4>
 
-- Table Template can be found [here](../NH4/NH4_template.xslx).
+- Table Template can be found [here](../NH4/NH4_template.xlsx).
 
 -	Power up the Trilogy.
     - Ideally 10-30 minutes before starting measurements to let it warm up.
