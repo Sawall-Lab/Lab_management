@@ -59,7 +59,7 @@ Table 1: own standard range
 
 <h4 id="Measurement">Measurement</h4>
 
-- Table Template can be found [here](../NH4/NH4_template.xlsx).
+The Table Template for this analysis can be found [here](../NH4/NH4_template.xlsx).
 
 -	Power up the Trilogy.
     - Ideally 10-30 minutes before starting measurements to let it warm up.
