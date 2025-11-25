@@ -240,7 +240,7 @@ The next four jobs (Optimize Alignment, Build Point Cloud, Build Mesh/Model, Ref
 2. Tools -> Mesh (OR Model) -> Measure Area and Volume. This will produce an Area (m<sup>2</sup>) and a Volume (m<sup>3</sup>) value based on the model.
     - The software may say "Mesh" or "Model" depending on the version, but the function is the same.
 3. Record values elsewhere – values are not saved on Agisoft.
-    - The Area value produced here is not the one we want (though record it for the sake of datakeeping) – we will be generating another one.
+    - The Area value produced here is **not** the one we want (though record it for the sake of datakeeping) – we will be generating another one.
     
 <h4 id="Measuring_Surface_Area">Measuring Surface Area</h4>
 
