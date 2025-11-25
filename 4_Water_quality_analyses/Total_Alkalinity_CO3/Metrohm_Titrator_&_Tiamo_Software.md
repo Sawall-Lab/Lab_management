@@ -282,7 +282,8 @@ Recall that at the beginning of the day the LNSW junks need to be run first! The
 1. Un-spiked samples are kept in the fridge until they are run (for a week at most since they are un-spiked), but must be room temperature before titration. Take them out of the fridge and let them sit before analyzing.
 2. Methods are available for 30mL and 50mL samples. 30mL samples go in [threaded sample vials](../../images/Metrohm_Titrator_&_Tiamo_Software/Threaded_30mL_Vials.png) and can be placed directly on the titrator. Larger samples and LSNW junks will have to be transferred to [50mL vials](../images/Metrohm_Titrator_&_Tiamo_Software/50mL_Vial.png). [50mL falcon tubes](../images/Metrohm_Titrator_&_Tiamo_Software/Falcon_Tube.png) may be used for sample collection as well, and must be placed in Styrofoam stands to keep them upright.
 3. For 50mL samples, aliquot samples to sample vials to reach just under the blue fill line (fill line indicates ~40-50mL).
-4. Cover sample vials lids, first with aluminum foil, then with a white lid.
+4. Cover sample vials lids, first with Titrator aluminum foil square, then with a white lid.
+    - Foils must be manually cut from regular aluminum foil rolls and restocked occasionally.
 5. Place samples on the titrator carousel in their appropriate positions.
 6. Ensure waste line on pump 2 is in the waste bottle with the green label for un-spiked samples, and the red label for spiked (HgCl<sub>2</sub>) samples.
 7. Place the white foam 50mL falcon tube holder in front of the sensor of the tower. 
