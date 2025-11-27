@@ -40,7 +40,7 @@ This protocol is used to calculate the ash free dry weight of coral tissue slurr
 - Analytical balance (4-decimal place or more)
 - 1 mL pipette and tips
 - Vortex
-- [Dry weight template table](../6_Coral_tissue_analyses/Dry_Weight/Ash_Free_Dry_Weight_Template.xlsx)
+- [Dry weight template table](../Dry_Weight/Ash_Free_Dry_Weight_Template.xlsx)
 
 <h4 id="Purchasing_new_materials">Purchasing new materials</h4>
 
