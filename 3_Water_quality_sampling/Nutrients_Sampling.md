@@ -49,7 +49,8 @@ Most materials are stored on a shelf in room 305of the Naess Laboratory building
 
 -	Filters can be purchased by ordering online (sold by various websites, eg. [Cytivia](https://www.cytivalifesciences.com/en/us/products/items/whatman-nuclepore-polycarbonate-hydrophilic-membranes-p-06195)).
 -	HCl can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
-
+- Gloves can be purchased through the front desk at reception or through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).
+    - If from reception must be charged to the Lab, ask Yvonne for the appropriate bank account code.
 
 <h2 id="Preparation">Preparation</h2>
 

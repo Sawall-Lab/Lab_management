@@ -50,6 +50,7 @@ To be done the day before measurements.
 -	Aluminium foil
 -	Acetone (90%)
 -	Chl-a samples 
+- Gloves
 
 <h4 id="SE_Methods">Methods</h4>
 
@@ -78,6 +79,7 @@ Note: perform in low light conditions.
 -	1M HCl
 -	Pasteur pipet
 -	[“chlorophyl-a_trilogy_raw_fluorescence” datasheet](../Chlorophyll-A/chlorophyll-a_trilogy_raw_fluorescence_template.xlsx)
+- Gloves
 
 <h4 id="A_Methods">Methods</h4>
 

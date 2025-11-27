@@ -19,6 +19,7 @@ This protocol is used to calculate the ash free dry weight of coral tissue slurr
 ## Contents
 
 - [Materials](#Materials)
+    - [Purchasing New Materials](#Purchasing_New_Materials)
 - [Template Table](#Template_Table)
 - [Procedure](#Procedure)
 - [References](#References)
@@ -26,13 +27,13 @@ This protocol is used to calculate the ash free dry weight of coral tissue slurr
 <h2 id="Materials">Materials</h2>
 
 - Aluminum pans
-    - Any size will do but ___cm diameter is large enough for 2mL samples
+    - Any size will do but a small one (~2.4cm diameter) is large enough for 2mL samples.
 - Coral tissue samples
 - Gloves
 - Drying oven (60°C)
-    Dry oven is owned by [Andrew Peters] (apeter95@bios.asu.edu) - check with him that it is free to use!
+    - Dry oven is owned by [Andrew Peters] (apeter95@bios.asu.edu) - check with him that it is free to use!
 - Muffle furnace (aka combustion oven) (450°C)
-    Dry oven is owned by [Andrew Peters] (apeter95@bios.asu.edu) - check with him that it is free to use!
+    - Dry oven is owned by [Andrew Peters] (apeter95@bios.asu.edu) - check with him that it is free to use!
 - Tray
 - Desiccator
     - Desiccator is from [Amy Maas](amaas4@asu.edu) - check with her that it is free to borrow!
@@ -41,22 +42,26 @@ This protocol is used to calculate the ash free dry weight of coral tissue slurr
 - Vortex
 - [Dry weight template table]()
 
+<h4 id="Purchasing_new_materials">Purchasing new materials</h4>
+
+- Aluminum pans and pipette tips can be purchased online through various sites.
+- Gloves can be purchased through the front desk at reception or through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).
+    - If from reception must be charged to the Lab, ask Yvonne for the appropriate bank account code.
+
 <h2 id="Template_Table">Template Table</h2>
 
- | A | B | C | D | E | F | G | H |
+Column: | A | B | C | D | E | F | G | H |
 ----|----|----|----|----|----|----|----|----|
- | Aluminum pan ID | Coral ID | Sample volume (mL) | Burned pan (g) | Burned pan + Dry residue (g) | Dry tissue biomass (g) | Burned pan + burned residue (g) | AFDW (g/mL) |
-Calculations | | | | | | = D-C | | = (D-F)/B |
-Example | 1 | PAST-A0605 | 2.0 | 0.4119 | 0.5170 | 0.1048 | 0.4789 | 0.0189 |
+Headings: | Aluminum pan ID | Coral ID | Sample volume (mL) | Burned pan (g) | Burned pan + Dry residue (g) | Dry tissue biomass (g) | Burned pan + burned residue (g) | AFDW (g/mL) |
+Calculations: | | | | | | = D-C | | = (D-F)/B |
+Example: | 1 | PAST-A0605 | 2.0 | 0.4119 | 0.5170 | 0.1048 | 0.4789 | 0.0189 |
 
 <h2 id="Procedure">Procedure</h2>
 
-Notes: 
-
-- Use gloves while touching burned pans as the balance is very sensitive.
+Use gloves while touching burned pans as the balance is very sensitive!
 
 1. Label each aluminum pan with an ID, using a pen or a pencil and indenting into the aluminum.
-    - The pencil or pen will get burned off, only the indent of the ID will remain so ENSURE the indent is there.
+    - The pencil or pen will get burned off, only the indent of the ID will remain so ENSURE the indent is there and readable.
     - Do NOT use a marker as it will get burned off. 
 2. Record aluminum pan IDs (column A) and Coral IDs (column B) in the template table. 
 3. Place the pans as well as a large sheet of aluminum foil in the muffle furnace and turn it on at 450°C for 4-6 hours.

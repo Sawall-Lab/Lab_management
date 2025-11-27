@@ -44,7 +44,8 @@ Most materials are stored in room 305.
 
 -	HgCl<sub>2</sub> can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
 -	Filters can be purchased by ordering online (sold by various websites, eg. [Cytivia](https://www.cytivalifesciences.com/en/us/products/items/whatman-nuclepore-polycarbonate-hydrophilic-membranes-p-06195)).
-
+- Gloves can be purchased through the front desk at reception or through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).
+    - If from reception must be charged to the Lab, ask Yvonne for the appropriate bank account code.
     
 <h2 id="Sample_Collection">Sample Collection</h2>
 

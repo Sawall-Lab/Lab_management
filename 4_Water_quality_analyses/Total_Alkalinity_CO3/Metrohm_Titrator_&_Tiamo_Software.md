@@ -83,7 +83,9 @@ Materials are mostly stored in room 305 of the Naess Laboratory building. Note t
 - pH testing strips can be ordered online or off-island.
 -	HCl can be ordered through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).              
 -	Metrohm solutions and parts (KCl solution, etc.) can be purchased through their [website](https://www.metrohm.com/en.html).
-
+- Gloves can be purchased through the front desk at reception or through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).
+    - If from reception must be charged to the Lab, ask Yvonne for the appropriate bank account code.
+    
 <h2 id="Making_Titrant">Making Titrant</h2>
 
 Use fresh MQ and clean glassware! 

@@ -19,6 +19,7 @@ This protocol is for the analysis of NH<sub>4</sub> from collected seawater samp
 ## Contents
 
 - [Materials](#Materials) 
+    - [Purchasing New Materials](#Purchasing_New_Materials)
 - [Methods](#Methods) 
     - [Preparation](#Preparation) 
     - [Measurement](#Measurement) 
@@ -31,7 +32,13 @@ This protocol is for the analysis of NH<sub>4</sub> from collected seawater samp
 -	Repeater pipet and tips (50mL)
 -	Working Reagent (WR)
 -	15mL dark tubes (pre-aged)
+- Gloves
 
+<h4 id="Purchasing_new_materials">Purchasing new materials</h4>
+
+- Gloves can be purchased through the front desk at reception or through Lab Operations ([Yasah Pitcher](ypitcher@bios.asu.edu), [Jess Godfrey](Jessica_Godfrey@bios.asu.edu)).
+    - If from reception must be charged to the Lab, ask Yvonne for the appropriate bank account code.
+    
 Table 1: own standard range
 | NH<sub>4</sub> | Volume of matrix (LNSW, MQ, etc.) (mL) | Volume of Secondary Standard (µL) |
 |--------|----------------|--------|
