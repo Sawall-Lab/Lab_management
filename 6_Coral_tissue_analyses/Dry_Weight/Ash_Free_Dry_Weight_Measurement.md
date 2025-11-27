@@ -6,7 +6,7 @@
 
 ---
 
-# Protocol for Analyzing Total Alkalinity
+# Protocol for Measuring Ash Free Dry Weight
 **Author(s):** Xinya Calhoun  
 **Lab:** Sawall Lab / MABEE Lab  
 **Version:** v1.0  
@@ -14,7 +14,7 @@
 
 ## Overview
 
-This protocol is used to calculate the ash free dry weight of coral tissue slurrys.
+This protocol is used to calculate the ash free dry weight of pre-collected coral tissue slurrys.
 
 ## Contents
 
