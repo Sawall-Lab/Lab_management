@@ -31,9 +31,9 @@ This protocol is used to calculate the ash free dry weight of coral tissue slurr
 - Coral tissue samples
 - Gloves
 - Drying oven (60°C)
-    - Dry oven is owned by [Andrew Peters] (apeter95@bios.asu.edu) - check with him that it is free to use!
+    - Dry oven is owned by [Andrew Peters](apeter95@bios.asu.edu) - check with him that it is free to use!
 - Muffle furnace (aka combustion oven) (450°C)
-    - Dry oven is owned by [Andrew Peters] (apeter95@bios.asu.edu) - check with him that it is free to use!
+    - Dry oven is owned by [Andrew Peters](apeter95@bios.asu.edu) - check with him that it is free to use!
 - Tray
 - Desiccator
     - Desiccator is from [Amy Maas](amaas4@asu.edu) - check with her that it is free to borrow!
