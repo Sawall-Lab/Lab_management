@@ -53,24 +53,24 @@ This protocol is used for deploying and retrieving the SeapHOx in the field.
     - Press connect 
 5. Make sure data from the previous deployment is offloaded before proceeding!
 6. In the Seafet dashboard click deployment wizard.
-    a. Set operating mode to Autonomous Sampling.
-    b. Synchronize SeaFET clock to computer, check the “clear SeaFET data” box
+    1. Set operating mode to Autonomous Sampling.
+    2. Synchronize SeaFET clock to computer, check the “clear SeaFET data” box
        - Important: Make sure data from previous deployment is offloaded.
-    c. Set the desired start time (UTC) for deployment.
+    3. Set the desired start time (UTC) for deployment.
         - Important: set the start time several hours past the deployment time to make sure the SeaFET doesn’t run whilst at the surface. 
-    d. Real-time data transmission can be on or off during autonomous deployment. Header format should already be set correctly.
-    e. Check the “Enable External Pump” box. 5 seconds is sufficient at low sampling intervals (2-30 min), for longer intervals pump time should be increased to clear previous water masses and fouling. 
-    f. Set the sampling interval in seconds (Eddy Reef JSB = 300 seconds).
-    g. Input minimum expected water temperature. Set sampling interval in seconds.
+    4. Real-time data transmission can be on or off during autonomous deployment. Header format should already be set correctly.
+    5. Check the “Enable External Pump” box. 5 seconds is sufficient at low sampling intervals (2-30 min), for longer intervals pump time should be increased to clear previous water masses and fouling. 
+    6. Set the sampling interval in seconds (Eddy Reef JSB = 300 seconds).
+    7. Input minimum expected water temperature. Set sampling interval in seconds.
 7. The SeapHOx is now programmed for deployment.
 8. Swipe a magnet over the [switch](   ) at the bottom to confirm the SeapHOx is ready for deployment.
-    a. If the light flashes green: SeapHOx is ready.
-    b. Flashes red: The Seaphox did not disconnect correctly
-        i. Open the command terminal in the UCI software.
-        ii. Type “startlater” and press enter.
-        iii. The command terminal should now show the logging start and interval.
-        iv.	Check the magnetic switch again, it should now flash green. 
-        v. Press disconnect in the SeaFET dashboard.
+    1. If the light flashes green: SeapHOx is ready.
+    2. Flashes red: The Seaphox did not disconnect correctly
+        1. Open the command terminal in the UCI software.
+        2. Type “startlater” and press enter.
+        3. The command terminal should now show the logging start and interval.
+        4.	Check the magnetic switch again, it should now flash green. 
+        5. Press disconnect in the SeaFET dashboard.
 9. Disconnect the communications cable from the computer and the SeapHOx.
 10.	Grease the dummy plug and attach to the SeapHOx.
 
