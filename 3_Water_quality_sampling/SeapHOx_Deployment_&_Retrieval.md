@@ -25,15 +25,14 @@ This protocol is used for deploying and retrieving the SeapHOx in the field.
 
 <h2 id="Materials">Materials</h2>
 
-- [SeapHOx Box](       )
+- [SeapHOx Box](../images/SeapHOx_Deployment_&Retrieval/SeapHOX_Box.png)
     - Tool bag
-        - Small, broad, flat head screwdriver
-        - Square head screwdriver
-        - 5/32 hex driver
+        - 5/32 hex screwdriver
         - Adjustable wrench/spanner
         - SeapHOx copper tubing
-        - [Stirrer magnets](     )
-    - Plastic tubing with weight attached
+        - [Stirrer magnets](../images/SeapHOx_Deployment_&Retrieval/Magnets.png)
+        - Other screwdrivers
+    - [Plastic tubing with weight attached](../images/SeapHOx_Deployment_&Retrieval/Tubing.png)
     - SeapHOx communication cable (8-pin)
     - Grease
 - Bucket
@@ -63,9 +62,9 @@ This protocol is used for deploying and retrieving the SeapHOx in the field.
     6. Set the sampling interval in seconds (Eddy Reef JSB = 300 seconds).
     7. Input minimum expected water temperature. Set sampling interval in seconds.
 7. The SeapHOx is now programmed for deployment.
-8. Swipe a magnet over the [switch](   ) at the bottom to confirm the SeapHOx is ready for deployment.
-    1. If the light flashes green: SeapHOx is ready.
-    2. Flashes red: The Seaphox did not disconnect correctly
+8. Swipe a magnet over the [switch](../images/SeapHOx_Deployment_&Retrieval/SeapHOx_Switch.png) at the bottom to confirm the SeapHOx is ready for deployment.
+    - If the light flashes green: SeapHOx is ready.
+    1 If the light flashes red: The Seaphox did not disconnect correctly
         1. Open the command terminal in the UCI software.
         2. Type “startlater” and press enter.
         3. The command terminal should now show the logging start and interval.
@@ -77,13 +76,13 @@ This protocol is used for deploying and retrieving the SeapHOx in the field.
 
 <h2 id="Deployment">Deployment</h2>
 
-1. Remove the wet cap from the SeaoHOx using the 5/32 hex driver.
+1. Remove the wet cap from the SeaoHOx using the 5/32 hex screwdriver.
     - Water will come out of the wet cap.
     - Important: the wet cap needs to be installed and flowing with water within 15 minutes or the ISFET sensor will dry out and may be permanently damaged.
-2. Remove the [plastic seals](../images/SeapHOx_Deployment_&Retrieval/WetCap_Plastic_Seals.png) from the wet cap using an adjustable spanner.
-3. Place the [copper tubes](../images/SeapHOx_Deployment_&Retrieval/WetCap_Copper_Tubing.png) on the wet cap and tighten firmly with the adjustable spanner.
+2. Remove the [plastic seals](../images/SeapHOx_Deployment_&Retrieval/WetCap_Plastic_Seals.png) from the wet cap using the adjustable wrench.
+3. Place the [copper tubes](../images/SeapHOx_Deployment_&Retrieval/WetCap_Copper_Tubing.png) on the wet cap and tighten firmly with the adjustable wrench.
     - Ensure that the black, plastic adapter piece is oriented towards the CTD inlet so that it will [fit into the hole](../images/SeapHOx_Deployment_&Retrieval/Copper_Tubing_Connection.png).
-4. Attach the wet cap back onto the SeapHOx using the 5/32 hex driver.
+4. Attach the wet cap back onto the SeapHOx using the 5/32 hex screwdriver.
     - Pressure will have to be maintained towards the CTD inlet to replace the screws.
 5. Place the SeapHOx in water, or maintain flow using the plastic tubing. 
     - **Important**: do not let the SeapHOx run dry.
@@ -96,7 +95,7 @@ This protocol is used for deploying and retrieving the SeapHOx in the field.
 
 1. Fill the bucket with seawater. 
 2. Detach the SeapHOx from the X base of the frame (if necessary) and bring the SeapHOx back to the surface.
-3. Immediately start [water flowing through the SeapHOx](       ) by starting a siphon with the plastic tubing, with the non-weight end attached to the open copper tube and the weight end in the bucket.
+3. Immediately start water flowing through the SeapHOx by starting a siphon with the plastic tubing, with the non-weight end attached to the open copper tube of the wet cap and the weight end in the bucket.
     - **Important**: ensure water is flowing consistently. The SeapHOx pump does not have a minimal conductivity sensor and will run dry, damaging both the pump and the ISFET sensor.
 4. Attach the communications cable to port 1 on the back of the field laptop.
 5. Dry the data connector plug. Remove the dummy plug from the SeapHOx and connect the data cable.
@@ -109,9 +108,9 @@ This protocol is used for deploying and retrieving the SeapHOx in the field.
     - Press connect
 8. Select “Transfer Data” and import to the field laptop.
 9. Swipe a magnet over the switch at the bottom to confirm the SeapHOx is off.
-10. Take off the wet cap and remove the copper tubing.
+10. Remove the wet cap using the 5/32 hex screwdriver and remove the copper tubing using the adjustable spanner.
 11. Rinse off any debris with filtered seawater and remove fouling around the wet cap area.
-12. Insert one of the plastic seals (the once facing the CTD) and reinstall the wet cap.
-13.	Fill the wet cap with filtered seawater and install the second plastic seal.
+12. Insert one of the plastic seals (the once facing the CTD), tighten with the adjustable wrench, and reinstall the wet cap using the 5/32 hex screwdriver.
+13.	Fill the wet cap with filtered seawater and install the second plastic seal with the adjustable wrench.
 14.	Rinse the CTD with MQ.
 
