@@ -25,14 +25,14 @@ This protocol is used for deploying and retrieving the SeapHOx in the field.
 
 <h2 id="Materials">Materials</h2>
 
-- [SeapHOx Box](../images/SeapHOx_Deployment_&Retrieval/SeapHOX_Box.png)
+- [SeapHOx Box](../images/SeapHOx_Deployment_&_Retrieval/SeapHOX_Box.png)
     - Tool bag
         - 5/32 hex screwdriver
         - Adjustable wrench/spanner
-        - SeapHOx copper tubing
-        - [Stirrer magnets](../images/SeapHOx_Deployment_&Retrieval/Magnets.png)
+        - [SeapHOx copper tubing](../images/SeapHOx_Deployment_&_Retrieval/Copper_Tubing.png)
+        - [Stirrer magnets](../images/SeapHOx_Deployment_&_Retrieval/Magnets.png)
         - Other screwdrivers
-    - [Plastic tubing with weight attached](../images/SeapHOx_Deployment_&Retrieval/Plastic_Tubing.png)
+    - [Plastic tubing with weight attached](../images/SeapHOx_Deployment_&_Retrieval/Plastic_Tubing.png)
     - SeapHOx communication cable (8-pin)
     - Grease
 - Bucket
@@ -62,7 +62,7 @@ This protocol is used for deploying and retrieving the SeapHOx in the field.
     6. Set the sampling interval in seconds (Eddy Reef JSB = 300 seconds).
     7. Input minimum expected water temperature. Set sampling interval in seconds.
 7. The SeapHOx is now programmed for deployment.
-8. Swipe a magnet over the [switch](../images/SeapHOx_Deployment_&Retrieval/SeapHOx_Switch.png) at the bottom to confirm the SeapHOx is ready for deployment.
+8. Swipe a magnet over the [switch](../images/SeapHOx_Deployment_&_Retrieval/SeapHOx_Switch.png) at the bottom to confirm the SeapHOx is ready for deployment.
     - If the light flashes green: SeapHOx is ready.
     1 If the light flashes red: The Seaphox did not disconnect correctly
         1. Open the command terminal in the UCI software.
@@ -79,16 +79,16 @@ This protocol is used for deploying and retrieving the SeapHOx in the field.
 1. Remove the wet cap from the SeaoHOx using the 5/32 hex screwdriver.
     - Water will come out of the wet cap.
     - Important: the wet cap needs to be installed and flowing with water within 15 minutes or the ISFET sensor will dry out and may be permanently damaged.
-2. Remove the [plastic seals](../images/SeapHOx_Deployment_&Retrieval/WetCap_Plastic_Seals.png) from the wet cap using the adjustable wrench.
-3. Place the [copper tubes](../images/SeapHOx_Deployment_&Retrieval/WetCap_Copper_Tubing.png) on the wet cap and tighten firmly with the adjustable wrench.
-    - Ensure that the black, plastic adapter piece is oriented towards the CTD inlet so that it will [fit into the hole](../images/SeapHOx_Deployment_&Retrieval/Copper_Tubing_Connection.png).
+2. Remove the [plastic seals](../images/SeapHOx_Deployment_&_Retrieval/WetCap_Plastic_Seals.png) from the wet cap using the adjustable wrench.
+3. Place the [copper tubes](../images/SeapHOx_Deployment_&_Retrieval/WetCap_Copper_Tubing.png) on the wet cap and tighten firmly with the adjustable wrench.
+    - Ensure that the black, plastic adapter piece is oriented towards the CTD inlet so that it will [fit into the hole](../images/SeapHOx_Deployment_&_Retrieval/Copper_Tubing_Connection.png).
 4. Attach the wet cap back onto the SeapHOx using the 5/32 hex screwdriver.
     - Pressure will have to be maintained towards the CTD inlet to replace the screws.
 5. Place the SeapHOx in water, or maintain flow using the plastic tubing. 
     - **Important**: do not let the SeapHOx run dry.
 6. Deploy the SeapHOx with the wet cap facing upward.
-    - If deploying with the [frame](../images/SeapHOx_Deployment_&Retrieval/SeapHOX_Frame.png), deploy the X base first by laying it down on a flat part of the reef, and reinforcing each arm of the X onto the reef with rope. Attach the SeapHOx afterwards.
-7. Check that the [purge hole](../images/SeapHOx_Deployment_&Retrieval/SeapHOX_Purge_Hole.png) on the top of the SeapHOx is clear from fouling or debris.
+    - If deploying with the [frame](../images/SeapHOx_Deployment_&_Retrieval/SeapHOX_Frame.png), deploy the X base first by laying it down on a flat part of the reef, and reinforcing each arm of the X onto the reef with rope. Attach the SeapHOx afterwards.
+7. Check that the [purge hole](../images/SeapHOx_Deployment_&_Retrieval/SeapHOX_Purge_Hole.png) on the top of the SeapHOx is clear from fouling or debris.
 
 
 <h2 id="Retrieval">Retrieval</h2>
