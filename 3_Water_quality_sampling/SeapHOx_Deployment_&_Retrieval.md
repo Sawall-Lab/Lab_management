@@ -32,7 +32,7 @@ This protocol is used for deploying and retrieving the SeapHOx in the field.
         - SeapHOx copper tubing
         - [Stirrer magnets](../images/SeapHOx_Deployment_&Retrieval/Magnets.png)
         - Other screwdrivers
-    - [Plastic tubing with weight attached](../images/SeapHOx_Deployment_&Retrieval/Tubing.png)
+    - [Plastic tubing with weight attached](../images/SeapHOx_Deployment_&Retrieval/Plastic_Tubing.png)
     - SeapHOx communication cable (8-pin)
     - Grease
 - Bucket
