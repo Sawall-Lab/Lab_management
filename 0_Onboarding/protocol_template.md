@@ -137,9 +137,10 @@ Specify where the outputs go.
 
 - Papers 
 - Manuals  
-- GitHub Repositories  
+- GitHub Repositories
 - Related SOPs
-- DOI links if applicable  
+- DOI links if applicable 
+- Other links
     - eg. [ASU BIOS](https://bios.asu.edu/)
 
 ---
