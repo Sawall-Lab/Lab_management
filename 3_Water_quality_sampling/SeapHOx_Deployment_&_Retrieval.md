@@ -35,7 +35,7 @@ This protocol is used for deploying and retrieving the SeapHOx in the field.
         - Other screwdrivers
     - [Plastic tubing with weight attached](../images/SeapHOx_Deployment_&_Retrieval/Plastic_Tubing.png)
     - SeapHOx communication cable (8-pin)
-    - Grease
+    - Grease/Silicon Lubricant
 - Bucket
 - Durabook field laptop with UCI software
 - Filtered seawater (preferably 0.1µm) 
