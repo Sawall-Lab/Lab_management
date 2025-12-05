@@ -65,7 +65,7 @@ Use gloves while touching burned pans as the balance is very sensitive!
     - Do NOT use a marker as it will get burned off. 
 2. Record aluminum pan IDs (column A) and Coral IDs (column B) in the template table. 
 3. Place the pans as well as a large sheet of aluminum foil in the muffle furnace and turn it on at 450°C for 4-6 hours.
-    - The muffle furnace gets very hot so you will have to turn off the muffle furnace, open the door by a crack, and let it cool for an hour or two.
+    - The muffle furnace gets very hot so after the 4-6 hours you will have to turn off the muffle furnace and let it cool (could take ~12hrs).
 4. Once cool, and take the burned sheet of aluminum foil out of the oven and line tray with the foil.
 5. Take the pans out of the muffle furnace and place on the tray.
     - From now on, burned pans should sit on the burned aluminum foil when out of the ovens, either on the tray or in the desiccator.
@@ -85,7 +85,7 @@ Use gloves while touching burned pans as the balance is very sensitive!
     - For each pan, remove from the dessicator to weight, and then put it back. Since the samples is out of the dessicator, the salt crystals can absorb moisture from the surrounding air and influence the weight, as the balance is sensitive. Though the weight of a pan may still be fluctuating, record the value after 20s.
 15. Transfer the pans to the muffle furnace and turn it on at 450°C for 4-6 hours.
     - This final step will leave salt and inorganics behind in the pan.
-    - The muffle furnace gets very hot so after the 4-6 hours you will have to turn off the muffle furnace, open the door by a crack, and let it cool for an hour or two.
+    - The muffle furnace gets very hot so after the 4-6 hours you will have to turn off the muffle furnace and let it cool (could take ~12hrs).
 16. Once cool, remove the pans and place them in the desiccator.
     - Pans MUST be cooled to room temperature, transporting when warm will cause water to adhere to the pans.
 17. Weight the pans using the balance and record it on the table (column G).
