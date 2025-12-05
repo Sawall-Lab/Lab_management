@@ -9,7 +9,7 @@
 # Protocol for 3D Models and Agisoft Metashape Pro 
 **Author(s):** David Jen, Xinya Calhoun  
 **Lab:** Sawall Lab / MABEE Lab  
-**Version:** v1.2  
+**Version:** v1.1  
 **Date:** 2025-11-24
 
 ## Overview 
