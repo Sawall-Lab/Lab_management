@@ -19,7 +19,7 @@ Describe what the protocol does, its context, and why it is needed.
 ## Contents
 
 - [Materials & Reagents](#Materials_&_Reagents)
-    - [Example](#Example1)
+    - [Example](#Example)
 - [Equipment](#Equipment)
 - [Sample Preparation](#Sample_Preparation)
 - [Procedure](#Procedure)
@@ -31,7 +31,8 @@ Describe what the protocol does, its context, and why it is needed.
 - [References](#References)
 
 
-## Materials & Reagents
+<h2 id="Materials_&_Reagents">Materials & Reagents</h2>
+
 List all required materials with details that support reproducibility.
 
 - Chemical name, grade, purity  
@@ -40,11 +41,15 @@ List all required materials with details that support reproducibility.
 - Shelf life  
 - Working concentrations and how to prepare them  
 
-Example:
+
+<h4 id="Example">Example</h4>
+
 - **99.5% Ethanol**, Molecular Grade (Sigma-Aldrich, Cat. #459844)  
 - **Pierce BCA Protein Assay Kit** (ThermoFisher, Cat. #23255)
 
-## Equipment
+
+<h2 id="Equipment">Equipment</h2>
+
 Include all instruments, software, and hardware.
 
 - Model, manufacturer, and serial number  
@@ -52,7 +57,9 @@ Include all instruments, software, and hardware.
 - Required settings (e.g., temperature, speed, gain, cycle time)  
 - Software version numbers    
 
-## Sample Preparation
+
+<h2 id="Sample_Preparation">Sample Preparation</h2>
+
 Describe any pre-processing steps:
 
 - Sample preservation  
@@ -64,7 +71,9 @@ Describe any pre-processing steps:
 You may refer to other protocols here using Markdown links, e.g.:  
 [See Tissue Homogenization Protocol](../6_Coral_tissue_analyses/Air_picking.md)
 
-## Procedure
+
+<h2 id="Procedure">Procedure</h2>
+
 Provide steps **exactly as performed**, using numbered lists for clarity.
 
 1. Step-by-step instructions.  
@@ -75,7 +84,9 @@ Provide steps **exactly as performed**, using numbered lists for clarity.
 - Specify **units**, **temperatures**, **volumes**, **incubation times**, and **rates**.  
 - Include stopping points where the procedure may be paused.
 
-## Quality Control & Calibration
+
+<h2 id="Quality_Control_&_Calibration">Quality Control & Calibration</h2>
+
 Document all required QC checks:
 
 - Calibration curves  
@@ -84,7 +95,9 @@ Document all required QC checks:
 - Frequency of calibration (daily, per batch, per instrument start)  
 - These are just a few examples.
 
-## Troubleshooting (Optional)
+
+<h2 id="Troubleshooting">Troubleshooting</h2>
+
 Provide actionable solutions to likely issues.
 
 | Problem | Possible Cause | Solution |
@@ -93,14 +106,18 @@ Provide actionable solutions to likely issues.
 | High blank | Reagent contamination | Prepare fresh reagents |
 | Drift | Temperature instability | Allow longer equilibration | 
 
-## Safety Notes
+
+<h2 id="Safety_Notes">Safety Notes</h2>
+
 - Required PPE (gloves, eye protection, lab coat, etc.)  
 - Chemical hazards (corrosive, toxic, carcinogenic, etc.)  
 - Spill response  
 - Waste disposal instructions (solid vs. liquid waste)  
 - Biosafety considerations  
 
-## Data Logging & Record-Keeping
+
+<h2 id="Data_Logging_&_Record-Keeping">Data Logging & Record-Keeping</h2>
+
 Specify where the outputs go.
 
 - **Raw data file format:** (e.g., `.csv`, `.txt`, `.xlsx`)  
@@ -108,12 +125,16 @@ Specify where the outputs go.
 - **Naming convention:**  
   - `SampleID_AnalysisType_YYYYMMDD_operator.csv`
   
-## Versioning Notes
+
+<h2 id="Versioning_Notes">Versioning Notes</h2>
+
 - v1.0 — Initial protocol  
 - v1.1 — Minor edits, formatting improvements  
 - v2.0 — Major methodological update  
 
-## References
+
+<h2 id="References">References</h2>
+
 - Papers 
 - Manuals  
 - GitHub Repositories  
