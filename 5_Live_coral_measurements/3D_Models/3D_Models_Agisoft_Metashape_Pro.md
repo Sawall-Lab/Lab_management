@@ -18,7 +18,6 @@ This protocol is for the analysis of live corals (or other objects) for the purp
 
 ## Contents
 
-
 - [Video Collection](#Video_Collection) 
     - [Setup](#Setup)
     - [Notes](#Notes)  
@@ -35,6 +34,7 @@ This protocol is for the analysis of live corals (or other objects) for the purp
 - [Volume/Surface Area Measurements](#Volume/Surface_Area_Measurements)  
     - [Measuring Volume](#Measuring_Volume) 
     - [Measuring Surface Area](#Measuring_Surface_Area)
+- [Versioning Notes](#Versioning_Notes)
  
  
 <h2 id="Video_Collection">Video Collection</h2>
@@ -254,3 +254,8 @@ The next four jobs (Optimize Alignment, Build Point Cloud, Build Mesh/Model, Ref
 2. Tools -> Mesh (OR Model) -> Measure Area and Volume. This will produce an Area (m<sup>2</sup>) value; the Volume value will be 0.
     - The software may say "Mesh" or "Model" depending on the version, but the function is the same.
 3. Record values elsewhere – values are not saved on Agisoft.
+
+<h2 id="Versioning_Notes">Versioning Notes</h2>
+
+- v1.0 — Initial protocol (DJ)
+- v1.1 — Minor modifications, organized steps, included downloading instructions, added images (XC)

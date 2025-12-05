@@ -9,7 +9,7 @@
 # Protocol for SeapHOx Deployment and Retrieval
 **Author(s):** Roderick Bakker, Xinya Calhoun  
 **Lab:** Sawall Lab / MABEE Lab  
-**Version:** v1.2  
+**Version:** v1.1  
 **Date:** 2025-02-19
 
 ## Overview
@@ -22,6 +22,7 @@ This protocol is used for deploying and retrieving the SeapHOx in the field.
 - [Software Setup](#Software_Setup)
 - [Deployment](#Deployment)
 - [Retrieval](#Retrieval)
+- [Versioning Notes](#Versioning_Notes)
 
 <h2 id="Materials">Materials</h2>
 
@@ -114,3 +115,7 @@ This protocol is used for deploying and retrieving the SeapHOx in the field.
 13.	Fill the wet cap with filtered seawater and install the second plastic seal with the adjustable wrench.
 14.	Rinse the CTD with MQ.
 
+<h2 id="Versioning_Notes">Versioning Notes</h2>
+
+- v1.0 — Initial protocol (RB)
+- v1.2 — Minor modifications, added images (XC)

@@ -13,8 +13,23 @@
 **Version:** v1.0  
 **Date:** YYYY-MM-DD
 
-## Purpose
+## Overview
 Describe what the protocol does, its context, and why it is needed.
+
+## Contents
+
+- [Materials & Reagents](#Materials_&_Reagents)
+    - [Example](#Example1)
+- [Equipment](#Equipment)
+- [Sample Preparation](#Sample_Preparation)
+- [Procedure](#Procedure)
+- [Quality Control & Calibration](#Quality_Control_&_Calibration)
+- [Troubleshooting](#Troubleshooting)
+- [Safety Notes](#Safety_Notes)
+- [Data Logging & Record-Keeping](#Data_Logging_&_Record-Keeping)
+- [Versioning Notes](#Versioning_Notes)
+- [References](#References)
+
 
 ## Materials & Reagents
 List all required materials with details that support reproducibility.

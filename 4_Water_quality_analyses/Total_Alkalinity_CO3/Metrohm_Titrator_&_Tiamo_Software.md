@@ -9,7 +9,7 @@
 # Protocol for Analyzing Total Alkalinity
 **Author(s):** Roderick Bakker, Xinya Calhoun  
 **Lab:** Sawall Lab / MABEE Lab  
-**Version:** v1.3  
+**Version:** v1.2  
 **Date:** 2025-11-18
 
 ## Overview
@@ -50,7 +50,8 @@ No gloves for computer handling!
     - [Calibration](#Calibration)
     - [Volume](#Volume)
     - [Software was shut down](#Software_was_shut_down) 
-    - [Broken equipment](#Broken_Equipment) 
+    - [Broken equipment](#Broken_Equipment)
+- [Versioning Notes](#Versioning_Notes)
 
 <h2 id="Materials">Materials</h2>
 
@@ -399,3 +400,8 @@ To fix: set up one junk sample in the Workplace and start it. The system should 
 
 Broken parts can simply be replaced – there are spare parts in the drawer in room 305 marked “Metrohm”, in a Ziploc bag labeled “Spare Parts”. If parts required are not in the drawer, they can be replaced by ordering from the [Metrohm website](https://www.metrohm.com/en.html).
 
+<h2 id="Versioning_Notes">Versioning Notes</h2>
+
+- v1.0 — Initial protocol (RB)
+- v1.1 — (RB)
+- v1.2 — Added significant detail overall, added multiple new sections (eg. software guidance, waste disposal, storage, troubleshooting), added images and links (XC)

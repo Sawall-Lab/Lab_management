@@ -7,9 +7,9 @@
 ---
 
 # Protocol for Measuring Ash Free Dry Weight
-**Author(s):** Xinya Calhoun  
+**Author(s):** Holly Putnam, Xinya Calhoun  
 **Lab:** Sawall Lab / MABEE Lab  
-**Version:** v1.0  
+**Version:** v1.1  
 **Date:** 2025-11-27
 
 ## Overview
@@ -22,6 +22,7 @@ This protocol is used to calculate the ash free dry weight of pre-collected cora
     - [Purchasing New Materials](#Purchasing_New_Materials)
 - [Template Table](#Template_Table)
 - [Procedure](#Procedure)
+- [Versioning Notes](#Versioning_Notes)
 - [References](#References)
     
 <h2 id="Materials">Materials</h2>
@@ -89,6 +90,11 @@ Use gloves while touching burned pans as the balance is very sensitive!
 16. Once cool, remove the pans and place them in the desiccator.
     - Pans MUST be cooled to room temperature, transporting when warm will cause water to adhere to the pans.
 17. Weight the pans using the balance and record it on the table (column G).
+
+<h2 id="Versioning_Notes">Versioning Notes</h2>
+
+- v1.0 — Initial protocol (HP)
+- v1.1 — Modifications for tissue slurry weight only, specified for MABEE labs/facilities, added images (XC)
 
 <h2 id="References">References</h2>
 
