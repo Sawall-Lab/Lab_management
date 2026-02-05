@@ -1,0 +1,133 @@
+---
+title: "Sawall_lab_Chla_ChlC2_coral_tissue_analysis_Carbonne"
+author: "Dr. Chloe Carbonne"
+date: "`r Sys.Date()`"
+output:
+  pdf_document:
+    latex_engine: xelatex
+geometry: margin=1in
+fontsize: 11pt
+header-includes:
+  - \usepackage{graphicx}
+  - \usepackage{titling}
+  - \usepackage{amssymb}
+  - \pretitle{\begin{center}\includegraphics[width=12cm]{BIOS_ASU_logo.png}\par\vspace{1cm}}
+  - \posttitle{\end{center}}
+---
+  
+# Protocols Adapted for Sawall Lab at ASU
+
+## Quantifying Chlorophyll-*a* and Chlorophyll-*c2* Concentrations  
+*Adapted from Dr. Hollie Putman’s protocol by Dr. Chloe Carbonne*
+
+---
+
+## Materials Checklist
+
+$\square$ 100% acetone  
+$\square$ Flammable-safe fridge (4 °C)  
+$\square$ Quartz 96-well plate  
+$\square$ Glass plate lid (plastic lids will melt)  
+$\square$ Centrifuge  
+$\square$ 10 mL glass syringe  
+$\square$ 2 mL microcentrifuge tubes  
+$\square$ Q-tips  
+$\square$ Labeling tape  
+$\square$ Microplate reader (λ 630, 663, 750 nm)  
+$\square$ Homogenizer (Ultra-Turrax type)  
+$\square$ Parafilm (optional)
+
+---
+
+## Protocol
+
+### A. Sample Preparation
+
+1. Prepare a **500 µL aliquot** of adult airbrush homogenate (coral slurry) in a **2 mL microcentrifuge tube**.
+
+2. Add **1 mL of 100% acetone** to the slurry using a **10 mL glass syringe**.
+
+3. Vortex tubes for **15 seconds**.
+
+   - If the pellet does not dissolve or tissue chunks remain:
+     - Sonicate **2 × 5 seconds**, **100% amplitude**
+     - Keep tubes **on ice**
+     - Avoid evaporation as much as possible
+
+4. Place tubes **in the dark** at **4 °C** for **24 hours**.
+
+5. After incubation, sonicate again:
+   - **2 × 5 seconds**, **100% amplitude**, on ice
+
+6. Centrifuge tubes at **2,000 rpm for 3 minutes** to pellet debris.
+
+---
+
+### B. Plate Setup
+
+1. Use the plate template to **map sample positions**.
+
+2. Pipette:
+   - **200 µL** of each sample into **triplicate wells**
+   - **200 µL acetone blanks** into:
+     - First 3 wells
+     - Last 3 wells
+
+3. As you fill the plate:
+   - Cover every ~3 columns with the **glass lid or parafilm**
+   - Use another plate (or object of equal height) to support the lid and maintain balance
+
+4. Once the plate is complete, **fully cover with the glass lid**.
+
+---
+
+### C. Measuring Absorbance
+
+1. Measure absorbance at:
+   - **630 nm**
+   - **663 nm**
+   - **750 nm**
+
+2. Using Roger Lab’s plate reader:
+   - Open **Gen5 software**
+   - The **Task Manager** will open automatically
+   - Select protocol: **“Chloe_Chla”**
+
+---
+
+## 3. Calculating Chlorophyll Concentration
+
+1. Subtract **A750** from all absorbance measurements.
+
+2. Calculate chlorophyll *a* and *c2* concentrations using equations from  
+   **Jeffrey & Humphrey (1975)**.
+
+---
+
+### Path Length Correction
+
+Because well-plate path length differs from a 1 cm cuvette, apply a correction following **Warren (2007)**.
+
+- Path length correction factor used here: **0.6 cm**
+- This value may vary by instrument
+
+#### Corrected Absorbance Calculations
+
+
+data$c630.corr <- (data$c630 - data$c750) / 0.6
+data$c663.corr <- (data$c663 - data$c750) / 0.6
+Units of concentration: µg mL⁻¹
+
+To calculate a plate-specific path length, follow the procedure described in Warren (2007).
+
+References
+
+Jeffrey, S. W. & Humphrey, G. F. (1975)
+New spectrophotometric equations for determining chlorophylls a, b, c1 and c2
+
+Warren, C. R. (2007)
+Standards for chlorophyll measurement
+
+Synergy HTX Operating Manual
+
+Gen5 Software Manual
