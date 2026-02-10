@@ -1,47 +1,49 @@
----
-title: "Sawall_lab_Chla_ChlC2_coral_tissue_analysis_Carbonne"
-author: "Dr. Chloe Carbonne"
-date: "`r Sys.Date()`"
-output:
-  pdf_document:
-    latex_engine: xelatex
-geometry: margin=1in
-fontsize: 11pt
-header-includes:
-  - \usepackage{graphicx}
-  - \usepackage{titling}
-  - \usepackage{amssymb}
-  - \pretitle{\begin{center}\includegraphics[width=12cm]{BIOS_ASU_logo.png}\par\vspace{1cm}}
-  - \posttitle{\end{center}}
----
-  
-# Protocols Adapted for Sawall Lab at ASU
-
-## Quantifying Chlorophyll-*a* and Chlorophyll-*c2* Concentrations  
-*Adapted from Dr. Hollie Putman’s protocol by Dr. Chloe Carbonne*
+<p align="center">
+  <img src="../../images/ASU_BIOS_Logo.png" 
+       alt="ASU-BIOS Logo"
+       height="140">
+</p>
 
 ---
 
-## Materials Checklist
+# Quantifying Chlorophyll-*a* and Chlorophyll-*c2* concentrations in coral tissue
+### Adapted from: Adapted from Dr. Hollie Putman’s protocol
+**Author(s):** Dr. Chloe Carbonne  
+**Lab:** Sawall Lab / MABEE Lab  
+**Version:** v1.0  
+**Date:** 2025-11-12
+
+## Contents
+
+- [Materials checklist](#Materials_checklist)
+- [Protocol](#Protocol)
+  - [Sample Preparation](#Sample_preparation)
+  - [Plate Setup](#Plate_setup)
+  - [Measuring Absorbance](#Measuring-absorbance)
+  - [Calculating Chlorophyll Concentration](#Calculate_chl_concentration)
+  - [Path Length Correction](#Path_length_correction)
+- [References](#References)
+
+<h2 id="Materials_checklist">Materials checklist</h2>
 
 $\square$ 100% acetone  
 $\square$ Flammable-safe fridge (4 °C)  
 $\square$ Quartz 96-well plate  
 $\square$ Glass plate lid (plastic lids will melt)  
-$\square$ Centrifuge  
+$\square$ Refrigerated centrifuge  
 $\square$ 10 mL glass syringe  
 $\square$ 2 mL microcentrifuge tubes  
 $\square$ Q-tips  
 $\square$ Labeling tape  
 $\square$ Microplate reader (λ 630, 663, 750 nm)  
-$\square$ Homogenizer (Ultra-Turrax type)  
+$\square$ Homogenizer (Ultra-Turrax type) 
+$\square$ Sonicator with adjustable amplitude 
+$\square$ Vortex mixer
 $\square$ Parafilm (optional)
 
----
+<h2 id="Protocol">Protocol</h2>
 
-## Protocol
-
-### A. Sample Preparation
+<h4 id="Sample_preparation">Sample Preparation</h4>
 
 1. Prepare a **500 µL aliquot** of adult airbrush homogenate (coral slurry) in a **2 mL microcentrifuge tube**.
 
@@ -61,9 +63,7 @@ $\square$ Parafilm (optional)
 
 6. Centrifuge tubes at **2,000 rpm for 3 minutes** to pellet debris.
 
----
-
-### B. Plate Setup
+<h4 id="Plate_setup">Plate Setup</h4>
 
 1. Use the plate template to **map sample positions**.
 
@@ -79,9 +79,7 @@ $\square$ Parafilm (optional)
 
 4. Once the plate is complete, **fully cover with the glass lid**.
 
----
-
-### C. Measuring Absorbance
+<h4 id="Measuring absorbance">Measuring Absorbance</h4>
 
 1. Measure absorbance at:
    - **630 nm**
@@ -93,18 +91,14 @@ $\square$ Parafilm (optional)
    - The **Task Manager** will open automatically
    - Select protocol: **“Chloe_Chla”**
 
----
-
-## 3. Calculating Chlorophyll Concentration
+<h4 id="Calculate_chl_concentration">Calculating Chlorophyll Concentration</h4>
 
 1. Subtract **A750** from all absorbance measurements.
 
 2. Calculate chlorophyll *a* and *c2* concentrations using equations from  
    **Jeffrey & Humphrey (1975)**.
 
----
-
-### Path Length Correction
+<h4 id="Path_length_correction">Path Length Correction</h4>
 
 Because well-plate path length differs from a 1 cm cuvette, apply a correction following **Warren (2007)**.
 
@@ -120,6 +114,7 @@ Units of concentration: µg mL⁻¹
 
 To calculate a plate-specific path length, follow the procedure described in Warren (2007).
 
+<h2 id="References">References</h2>
 References
 
 Jeffrey, S. W. & Humphrey, G. F. (1975)
