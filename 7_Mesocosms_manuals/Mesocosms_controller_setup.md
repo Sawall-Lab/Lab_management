@@ -34,11 +34,11 @@ These parameters are maintained when we turn off the pump and start it again.
 
 <h2 id="Access_the_menu">Access the menu</h2>
 
-Push the “set” button for 10 seconds. “0” will appear on the screen. Wait 4 seconds and push the “set” button again. You can go through the different setting options using \“&#129169\” or “:arrow_down_small:” buttons. 
+Push the “set” button for 10 seconds. “0” will appear on the screen. Wait 4 seconds and push the “set” button again. You can go through the different setting options using :arrow_up_small: or :arrow_down_small: buttons. 
 
 <h2 id="Change_from_F_to_C">Change from °F to °C</h2>
 
-Go to the setting option “P0” using the  :arrow_up_small: or ''':arrow_down_small:''' buttons. Push “set”, you should see “°F”. Push :arrow_up_small: to get “°C” on the screen. Push “set” again to validate the change. 
+Go to the setting option “P0” using the  :arrow_up_small: or :arrow_down_small: buttons. Push “set”, you should see “°F”. Push :arrow_up_small: to get “°C” on the screen. Push “set” again to validate the change. 
 
 <h2 id="Change_the_range">Change the range of temperature for the lower set point</h2>
 
