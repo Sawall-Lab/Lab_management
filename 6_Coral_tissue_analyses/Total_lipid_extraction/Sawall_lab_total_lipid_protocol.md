@@ -100,19 +100,19 @@ Empty the vial of the water.
 5. **Extraction solvent:** 2:1 (v/v) chloroform:methanol + 50 mg/L butylated hydroxytoluene (BHT)
 
 <p>
-  <img src="../../images/Total_lipid_extraction/Lipid1.png" alt="Lipid 1" width="400">
+  <img src="../../images/Total_lipids/Lipid1.png" alt="Lipid 1" width="400">
 </p>
 
 6. Stock container with 100% chloroform (100 mL bottle)
 
 <p>
-  <img src="../../images/Total_lipid_extraction/Lipid2.png" alt="Lipid 2" width="400">
+  <img src="../../images/Total_lipids/Lipid2.png" alt="Lipid 2" width="400">
 </p>
 
 7. **Potassium chloride, 0.88% solution**: dissolve the KCl powder in Milli-Q water.
 
 <p>
-  <img src="../../images/Total_lipid_extraction/Lipid3.png" alt="Lipid 3" width="400">
+  <img src="../../images/Total_lipids/Lipid3.png" alt="Lipid 3" width="400">
 </p>
 
 ---
@@ -138,7 +138,7 @@ Store the vial in the dark for two hours at room temperature.
 **3000 rpm, room temperature, 00:05:00**
 
 <p>
-  <img src="../../images/Total_lipid_extraction/Lipid4.png" alt="Lipid 4" width="400">
+  <img src="../../images/Total_lipids/Lipid4.png" alt="Lipid 4" width="400">
 </p>
 
 12. **Purify lipid extracts** (see the video in the Google drive): Prepare the annotated 20 mL vials under each separatory funnel. Pour the lipid extract into the corresponding separatory funnel, the stopcock in the closed position. Add 4 mL of the 0.88 % KCl solution and place the stopper (use the 1000 uL pipette). Gently invert the funnel, with the tip up in a 45° angle **looking towards the fumehood**. Shake the funnel three times making sure to release the pressure in between. Wait until the two phases are well separated.
@@ -166,7 +166,7 @@ Everything needs to be on ice and stay on ice as much as possible. Actions need 
 **Don’t reuse the standard from one day to another as evaporation is very fast with these solvents.**
 
 <p>
-  <img src="../../images/Total_lipid_extraction/Lipid5.png" alt="Lipid 5" width="400">
+  <img src="../../images/Total_lipids/Lipid5.png" alt="Lipid 5" width="400">
 </p>
 
 17. **Prepare 17% phosphoric acid for the vanillin reagent for 4 plates**: In a 100 mL beaker resting on ice, pipette 0.8 mL of 85% phosphoric acid.<span style="color:#C00000"><strong>SLOWLY</strong></span>  add 3.2 mL of MilliQ water. 
@@ -175,7 +175,7 @@ Everything needs to be on ice and stay on ice as much as possible. Actions need 
 18. **Prepare a stock of 0.2 mg/mL phospho-vanillin reagent**: Wrap a 20 mL glass vial in aluminium foil, the reagent is sensitive to light. Dilute the vanillin powder in the 17% phosphoric acid solution. This solution can be stored for a week in the dark. It is recommended to prepare for 4 plates unless you know you are going to run less than that for the week. With these quantities, you will not have enough to fill up 4 plates.
 
 <p>
-  <img src="../../images/Total_lipid_extraction/Lipid6.png" alt="Lipid 6" width="400">
+  <img src="../../images/Total_lipids/Lipid6.png" alt="Lipid 6" width="400">
 </p>
 
 19. **Resuspension of lipid extract**: put the 20 mL glass vial with the samples lipid extracts on ice. Using the 10 mL syringe, add 4 mL to the dried lipids.
@@ -183,7 +183,7 @@ Everything needs to be on ice and stay on ice as much as possible. Actions need 
 20. **Loading the glass plate**: print the plate template and write down the names of the triplicate samples and standards on the wells for reference. Tape the paper inside the fume hood to be able to check. Pour 100 μL triplicate of the cholesterol standard and lipid samples into each well of the 96-well glass plate with a filtered pipette tip. If the sample looks very concentrated, only put 50 μL of the sample to make sure the sample does not oversaturate the plate reader. **Use filtered pipette tips to avoid any damage of the pipette**. <span style="color:#C00000"><strong>Don’t forget to write down the volume you pour on the plate template paper.</strong></span>
 
 <p>
-  <img src="../../images/Total_lipid_extraction/Lipid7.png" alt="Lipid 7" width="400">
+  <img src="../../images/Total_lipids/Lipid7.png" alt="Lipid 7" width="400">
 </p>
 
 21. **Evaporation of the solvent**: put the glass plate in the water bath, making sure **every 10 min** that the plate is at least **halfway** into the water on top of the platform with no lid. Let the solvent evaporate at 90°C for 30 min. Don’t close the water bath lid to avoid water dripping onto the plate.
