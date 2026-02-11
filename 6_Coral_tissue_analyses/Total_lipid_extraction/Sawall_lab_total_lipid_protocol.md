@@ -100,7 +100,7 @@ Empty the vial of the water.
 5. **Extraction solvent:** 2:1 (v/v) chloroform:methanol + 50 mg/L butylated hydroxytoluene (BHT)
 
 <p>
-  <img src="../../images/Total_lipids/Lipid1.png" alt="Lipid 1" width="1000">
+  <img src="../../images/Total_lipids/Lipid1.png" alt="Lipid 1" width="900">
 </p>
 
 6. Stock container with 100% chloroform (100 mL bottle)
@@ -159,7 +159,7 @@ Store the vial in the dark for two hours at room temperature.
 **Before starting**: warm up Liza’s water bath to 90°C (MilliQ water inside). Adjust the elevation platform from the sonication probe and the water level to the top - 2 mm of the glass 96 well plate. Turn on Susanne’s heater-shaker to 37°C.
 
 16. **Prepare the cholesterol standard**  
-:warning: **During this step, evaporation can happen extremely quickly.**2222 :warning:  
+:warning: **During this step, evaporation can happen extremely quickly.** :warning:  
 Everything needs to be on ice and stay on ice as much as possible. Actions need to be anticipated and fast. Lids and caps must be closed as soon as possible. The stock solution A has to be made in a cold 15 mL Falcon tube on ice. The solvent needs to be poured in a 15 mL Falcon tube and cooled down on ice a few minutes before use. Weighing the 8 mg cholesterol powder has to be very very precise. Make sure you get all the powder out of the aluminium boat by pipetting out the solvent on the aluminium. Make sure not too much evaporation has happened during this phase. Top up to 4 mL in the Falcon tube if the meniscus is not there. The remaining standard A has to be pipetted in a 2 mL centrifuge tube after making standard B, C, and D to avoid future evaporation. When the solutions are done, store them in -80 or -20 freezer.  
 **Don’t reuse the standard from one day to another as evaporation is very fast with these solvents.**
 
@@ -178,7 +178,9 @@ Everything needs to be on ice and stay on ice as much as possible. Actions need 
 
 19. **Resuspension of lipid extract**: put the 20 mL glass vial with the samples lipid extracts on ice. Using the 10 mL syringe, add 4 mL to the dried lipids.
 
-20. **Loading the glass plate**: print the plate template and write down the names of the triplicate samples and standards on the wells for reference. Tape the paper inside the fume hood to be able to check. Pour 100 μL triplicate of the cholesterol standard and lipid samples into each well of the 96-well glass plate with a filtered pipette tip. If the sample looks very concentrated, only put 50 μL of the sample to make sure the sample does not oversaturate the plate reader. **Use filtered pipette tips to avoid any damage of the pipette**. :exclamation: Don’t forget to write down the volume you pour on the plate template paper. :exclamation:
+20. **Loading the glass plate**: print the plate template and write down the names of the triplicate samples and standards on the wells for reference. Tape the paper inside the fume hood to be able to check. Pour 100 μL triplicate of the cholesterol standard and lipid samples into each well of the 96-well glass plate with a filtered pipette tip. If the sample looks very concentrated, only put 50 μL of the sample to make sure the sample does not oversaturate the plate reader. **Use filtered pipette tips to avoid any damage of the pipette**. 
+
+:exclamation: **Don’t forget to write down the volume you pour on the plate template paper.** :exclamation:
 
 <p>
   <img src="../../images/Total_lipids/Lipid7.png" alt="Lipid 7" width="1000">
@@ -196,7 +198,7 @@ Everything needs to be on ice and stay on ice as much as possible. Actions need 
 
 26. **Add the phospho-vanillin reagent**: add 50 μL of the reagent in each well using a multipipette.
 
-27. **Final incubation: cover the plate with the plastic lid, wrap the plate with aluminium foil, making sure to keep the plate straight. Write “TOP” on top of the aluminium to make sure of the top of the plate and avoid accidents. Incubate the plate in Susanne’s heater-shaker at 37°C for 15 min at 250 rpm.
+27. **Final incubation**: cover the plate with the plastic lid, wrap the plate with aluminium foil, making sure to keep the plate straight. Write “TOP” on top of the aluminium to make sure of the top of the plate and avoid accidents. Incubate the plate in Susanne’s heater-shaker at 37°C for 15 min at 250 rpm.
 
 28. **Measure the final absorbance at 540 nm**: using the same protocol in the software.
 
