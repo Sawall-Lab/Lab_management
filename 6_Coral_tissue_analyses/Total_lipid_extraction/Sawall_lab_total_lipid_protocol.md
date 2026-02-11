@@ -82,14 +82,14 @@ $\square$ Pure sulfuric acid 100%
 2. Take a picture of the coral fragment ~1 cm² with a ruler for surface area or a video for 3D reconstruction.
 
 3. Rinse the sample in MilliQ water for 5 min in the 20 mL vial to remove the salts  
-<span style="color:#C00000"><strong>(be careful with Millepora samples, no harsh rinsing or direct sprinkler bottle on the tissue, or they will detach from the skeleton)</strong></span>.  
+**(be careful with Millepora samples, no harsh rinsing or direct sprinkler bottle on the tissue, or they will detach from the skeleton)**.  
 Empty the vial of the water.
 
-<span style="color:#11c9f7"><strong>The samples can be stored in the -80 freezer before the next step</strong></span>.
+:snowflake: **The samples can be stored in the -80 freezer before the next step**. :snowflake:
 
 4. Dehydrate the samples in the freeze dryer. Unscrew the cap and leave it in the freeze dryer next to the samples. Follow the protocol on how to use the freeze dryer in the room of the autoclave. Leave the samples to dehydrate overnight. The next morning screw the lid and store the samples in the -80°C freezer.
 
-<span style="color:#11c9f7"><strong>The samples can be stored in the -80 freezer before the next step.</strong></span>
+:snowflake: **The samples can be stored in the -80 freezer before the next step**. :snowflake:
 
 ---
 
@@ -106,18 +106,17 @@ Empty the vial of the water.
 6. Stock container with 100% chloroform (100 mL bottle)
 
 <p>
-  <img src="../../images/Total_lipids/Lipid2.png" alt="Lipid 2" width="200">
+  <img src="../../images/Total_lipids/Lipid2.png" alt="Lipid 2" width="300">
 </p>
 
 7. **Potassium chloride, 0.88% solution**: dissolve the KCl powder in Milli-Q water.
 
 <p>
-  <img src="../../images/Total_lipids/Lipid3.png" alt="Lipid 3" width="600">
+  <img src="../../images/Total_lipids/Lipid3.png" alt="Lipid 3" width="500">
 </p>
 
 ---
 
-## 6. Lipid Extraction
 <h2 id="Lipid_extraction">Lipid Extraction</h2>
 
 You can prepare the samples by batches of 12, as we have 2 × 6 separatory funnels. If you want to do 24 samples in one day, plan to have time to clean and dry the separatory funnels after the first 12 samples.
@@ -125,7 +124,7 @@ You can prepare the samples by batches of 12, as we have 2 × 6 separatory funne
 8. **Extract lipids:** Pour 10 mL of the extraction chloroform:methanol solution with the glass syringe into the glass extraction vial containing the freeze-dried sample. Record the time of solvent addition.
 
 9. Sonicate with the sonication probe five times for 10 s.  
-**[Keep the vial on ice during sonication]**
+:snowflake: **[Keep the vial on ice during sonication]** :snowflake:
 Make sure you touch the tissue but do not touch the glass vial. Make pauses between if needed, as it will cause heat.  
 Add 30 min of sonication in a sonication bath for Porites and Montastrea.  
 For Millepora, 3 × 10 s of probe sonication and 10 min of sonication bath.  
@@ -135,7 +134,7 @@ Store the vial in the dark for two hours at room temperature.
 
 11. Centrifuge the glass centrifuge tubes to pellet the skeleton crystals and other debris.
 
-**3000 rpm, room temperature, 00:05:00**
+:cyclone: **3000 rpm, room temperature, 00:05:00** :cyclone:
 
 <p>
   <img src="../../images/Total_lipids/Lipid4.png" alt="Lipid 4" width="800">
@@ -145,31 +144,31 @@ Store the vial in the dark for two hours at room temperature.
 
 13. **Drain lipid extract**: remove the stopper (it will not pour if you forget to take it off, if it’s the case close the stopcock and take the stopper off) and drain the lower organic phase into the corresponding 20 mL glass vial, making sure not to let pass of the aqueous (white) phase in. (If any goes through, pour the containt of the 20mL vial back into the separatory funnel and shake it again, and use a new 20 mL glass vial). 
 
-14. **Rince the aqueous phase**: add 1 mL of chloroform in the separatory funnels place the stopper back (use the 1000 uL pipette <span style="color:#C00000"><strong>with filtered pipette tips</strong></span>, chloroform will damage **PERMANENTLY** the pipette if the tips are not filtered). Gently invert the funnel, with the tip up at a 45° angle looking towards the fumehood. Shake the funnel three times, making sure to release the pressure in between. Wait until the two phases are well separated. Remove the stopper and drain the lower organic phase into the corresponding 20 mL glass vial, making sure not to let pass of the aqueous (white) phase in. Get rid of the aqueous phase in the chemical waste “chloroform, methanol, KCl, BHT”
+14. **Rince the aqueous phase**: add 1 mL of chloroform in the separatory funnels place the stopper back (use the 1000 uL pipette :warning: with filtered pipette tips :warning:, chloroform will damage **PERMANENTLY** the pipette if the tips are not filtered). Gently invert the funnel, with the tip up at a 45° angle looking towards the fumehood. Shake the funnel three times, making sure to release the pressure in between. Wait until the two phases are well separated. Remove the stopper and drain the lower organic phase into the corresponding 20 mL glass vial, making sure not to let pass of the aqueous (white) phase in. Get rid of the aqueous phase in the chemical waste “chloroform, methanol, KCl, BHT”
 
 15. **Evaporation**: Open the cap of the 20mL glass vials **under the fumehood** and leave them overnight to evaporate. 
 
 
-<span style="color:#11c9f7"><strong>The samples can be stored in the -80 freezer before the next step.</strong></span>
+:snowflake: **The samples can be stored in the -80 freezer before the next step**. :snowflake:
 
 
 <h2 id="Phospho_vanillin_method">Lipid Quantification with the Phospho-Vanillin Method</h2>
 
-<span style="color:#C00000"><strong>BE EXTREMELY CAREFUL Sulfuric acid is very corrosive, wear double gloves, a lab coat, glasses, and do everything under the fume hood.</strong></span>
+:rotating_light: **BE EXTREMELY CAREFUL Sulfuric acid is very corrosive, wear double gloves, a lab coat, glasses, and do everything under the fume hood.** :rotating_light:
 
 **Before starting**: warm up Liza’s water bath to 90°C (MilliQ water inside). Adjust the elevation platform from the sonication probe and the water level to the top - 2 mm of the glass 96 well plate. Turn on Susanne’s heater-shaker to 37°C.
 
 16. **Prepare the cholesterol standard**  
-<span style="color:#C00000"><strong>During this step, evaporation can happen extremely quickly.</strong></span>  
-Everything needs to be on ice and stay on ice as much as possible. Actions need to be anticipated and fast. Lids and caps must be closed as soon as possible. The stock solution <span style="color:#C00000"><strong>A</strong></span> has to be made in a cold 15 mL Falcon tube on ice. The solvent needs to be poured in a 15 mL Falcon tube and cooled down on ice a few minutes before use. Weighing the 8 mg cholesterol powder has to be very very precise. Make sure you get all the powder out of the aluminium boat by pipetting out the solvent on the aluminium. Make sure not too much evaporation has happened during this phase. Top up to 4 mL in the Falcon tube if the meniscus is not there. The remaining standard <span style="color:#C00000"><strong>A</strong></span> has to be pipetted in a 2 mL centrifuge tube after making standard <span style="color:#c09600"><strong>B</strong></span>, <span style="color:#a0c000"><strong>C</strong></span>, and <span style="color:#0ac000"><strong>D</strong></span> to avoid future evaporation. When the solutions are done, store them in -80 or -20 freezer.  
+:warning: During this step, evaporation can happen extremely quickly. :warning:  
+Everything needs to be on ice and stay on ice as much as possible. Actions need to be anticipated and fast. Lids and caps must be closed as soon as possible. The stock solution A has to be made in a cold 15 mL Falcon tube on ice. The solvent needs to be poured in a 15 mL Falcon tube and cooled down on ice a few minutes before use. Weighing the 8 mg cholesterol powder has to be very very precise. Make sure you get all the powder out of the aluminium boat by pipetting out the solvent on the aluminium. Make sure not too much evaporation has happened during this phase. Top up to 4 mL in the Falcon tube if the meniscus is not there. The remaining standard A has to be pipetted in a 2 mL centrifuge tube after making standard B, C, and D to avoid future evaporation. When the solutions are done, store them in -80 or -20 freezer.  
 **Don’t reuse the standard from one day to another as evaporation is very fast with these solvents.**
 
 <p>
   <img src="../../images/Total_lipids/Lipid5.png" alt="Lipid 5" width="800">
 </p>
 
-17. **Prepare 17% phosphoric acid for the vanillin reagent for 4 plates**: In a 100 mL beaker resting on ice, pipette 0.8 mL of 85% phosphoric acid.<span style="color:#C00000"><strong>SLOWLY</strong></span>  add 3.2 mL of MilliQ water. 
-<span style="color:#C00000"><strong>[The reaction of acids with water produces a lot of heat]</strong></span>
+17. **Prepare 17% phosphoric acid for the vanillin reagent for 4 plates**: In a 100 mL beaker resting on ice, pipette 0.8 mL of 85% phosphoric acid. :exclamation: SLOWLY :exclamation: add 3.2 mL of MilliQ water. 
+:boom: [The reaction of acids with water produces a lot of heat] :boom:
 
 18. **Prepare a stock of 0.2 mg/mL phospho-vanillin reagent**: Wrap a 20 mL glass vial in aluminium foil, the reagent is sensitive to light. Dilute the vanillin powder in the 17% phosphoric acid solution. This solution can be stored for a week in the dark. It is recommended to prepare for 4 plates unless you know you are going to run less than that for the week. With these quantities, you will not have enough to fill up 4 plates.
 
@@ -179,7 +178,7 @@ Everything needs to be on ice and stay on ice as much as possible. Actions need 
 
 19. **Resuspension of lipid extract**: put the 20 mL glass vial with the samples lipid extracts on ice. Using the 10 mL syringe, add 4 mL to the dried lipids.
 
-20. **Loading the glass plate**: print the plate template and write down the names of the triplicate samples and standards on the wells for reference. Tape the paper inside the fume hood to be able to check. Pour 100 μL triplicate of the cholesterol standard and lipid samples into each well of the 96-well glass plate with a filtered pipette tip. If the sample looks very concentrated, only put 50 μL of the sample to make sure the sample does not oversaturate the plate reader. **Use filtered pipette tips to avoid any damage of the pipette**. <span style="color:#C00000"><strong>Don’t forget to write down the volume you pour on the plate template paper.</strong></span>
+20. **Loading the glass plate**: print the plate template and write down the names of the triplicate samples and standards on the wells for reference. Tape the paper inside the fume hood to be able to check. Pour 100 μL triplicate of the cholesterol standard and lipid samples into each well of the 96-well glass plate with a filtered pipette tip. If the sample looks very concentrated, only put 50 μL of the sample to make sure the sample does not oversaturate the plate reader. **Use filtered pipette tips to avoid any damage of the pipette**. :exclamation: Don’t forget to write down the volume you pour on the plate template paper. :exclamation:
 
 <p>
   <img src="../../images/Total_lipids/Lipid7.png" alt="Lipid 7" width="800">
@@ -187,7 +186,7 @@ Everything needs to be on ice and stay on ice as much as possible. Actions need 
 
 21. **Evaporation of the solvent**: put the glass plate in the water bath, making sure **every 10 min** that the plate is at least **halfway** into the water on top of the platform with no lid. Let the solvent evaporate at 90°C for 30 min. Don’t close the water bath lid to avoid water dripping onto the plate.
 
-22. **Add the 100% sulfuric acid**: Take the plate out of the water bath and leave it to cool down at ambient temperature for 5 min (the plate still needs to be warm, but not too hot).<span style="color:#C00000"><strong>BE EXTREMELY CAREFUL</strong></span> Sulfuric acid is very corrosive, wear double gloves, a lab coat, glasses, and do everything under the fume hood. Clean every droplet that might fall on the bench. Pour a little bit of 100% sulfuric acid into the glass multipipette cuvette (for one plate, we need 9.6 mL). Pour 100 μL of sulfuric acid in each well using the multipipette with filtered tips (even if you poured only 50 μL of samples). Do not reuse the leftover sulfuric acid from one plate to another. It oxidizes very fast and messes up the results. If you have any extra sulfuric acid on the cuvette, dispose of it in the “sulfuric acid, phospho-vanillin” waste bottle. Put the waste bottle on ice and pour very slowly the leftover sulfuric acid. Make sure to rinse the cuvette properly.
+22. **Add the 100% sulfuric acid**: Take the plate out of the water bath and leave it to cool down at ambient temperature for 5 min (the plate still needs to be warm, but not too hot). :rotating_light: BE EXTREMELY CAREFUL :rotating_light: Sulfuric acid is very corrosive, wear double gloves, a lab coat, glasses, and do everything under the fume hood. Clean every droplet that might fall on the bench. Pour a little bit of 100% sulfuric acid into the glass multipipette cuvette (for one plate, we need 9.6 mL). Pour 100 μL of sulfuric acid in each well using the multipipette with filtered tips (even if you poured only 50 μL of samples). Do not reuse the leftover sulfuric acid from one plate to another. It oxidizes very fast and messes up the results. If you have any extra sulfuric acid on the cuvette, dispose of it in the “sulfuric acid, phospho-vanillin” waste bottle. Put the waste bottle on ice and pour very slowly the leftover sulfuric acid. Make sure to rinse the cuvette properly.
 
 23. **Mix the sulfuric acid with the lipids**: Sometimes a black or brown precipitate appears. To get rid of it, directly use Susanne’s heater-shaker around 300–350 rpm for 5 min or more if needed, with a plastic lid on the glass plate to avoid any spill. You can add some gentle hand tapping on the side of the plate.
 
@@ -205,4 +204,4 @@ Everything needs to be on ice and stay on ice as much as possible. Actions need 
 
 30. **Normalize with the volume added to the dry lipids and the surface area.**
 
-<span style="color:#11c9f7"><strong>The remaining samples can be stored in the -80 freezer.</strong></span>
+:snowflake: **The remaining samples can be stored in the -80 freezer**. :snowflake:
