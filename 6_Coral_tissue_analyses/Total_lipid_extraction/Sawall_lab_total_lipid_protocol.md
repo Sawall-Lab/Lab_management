@@ -95,12 +95,12 @@ Empty the vial of the water.
 
 <h2 id="Preparation_solvents">Preparation of the Solvents</h2>
 
-<span style="color:#C00000"><strong>Make sure every step with solvent is done under the fume hood in glass dishes, chloroform is highly toxic and melts plastic.</strong></span>
+:warning: **Make sure every step with solvent is done under the fume hood in glass dishes, chloroform is highly toxic and melts plastic.** :warning:
 
 5. **Extraction solvent:** 2:1 (v/v) chloroform:methanol + 50 mg/L butylated hydroxytoluene (BHT)
 
 <p>
-  <img src="../../images/Total_lipids/Lipid1.png" alt="Lipid 1" width="800">
+  <img src="../../images/Total_lipids/Lipid1.png" alt="Lipid 1" width="1000">
 </p>
 
 6. Stock container with 100% chloroform (100 mL bottle)
@@ -112,7 +112,7 @@ Empty the vial of the water.
 7. **Potassium chloride, 0.88% solution**: dissolve the KCl powder in Milli-Q water.
 
 <p>
-  <img src="../../images/Total_lipids/Lipid3.png" alt="Lipid 3" width="500">
+  <img src="../../images/Total_lipids/Lipid3.png" alt="Lipid 3" width="600">
 </p>
 
 ---
@@ -137,7 +137,7 @@ Store the vial in the dark for two hours at room temperature.
 :cyclone: **3000 rpm, room temperature, 00:05:00** :cyclone:
 
 <p>
-  <img src="../../images/Total_lipids/Lipid4.png" alt="Lipid 4" width="800">
+  <img src="../../images/Total_lipids/Lipid4.png" alt="Lipid 4" width="1000">
 </p>
 
 12. **Purify lipid extracts** (see the video in the Google drive): Prepare the annotated 20 mL vials under each separatory funnel. Pour the lipid extract into the corresponding separatory funnel, the stopcock in the closed position. Add 4 mL of the 0.88 % KCl solution and place the stopper (use the 1000 uL pipette). Gently invert the funnel, with the tip up in a 45° angle **looking towards the fumehood**. Shake the funnel three times making sure to release the pressure in between. Wait until the two phases are well separated.
@@ -159,7 +159,7 @@ Store the vial in the dark for two hours at room temperature.
 **Before starting**: warm up Liza’s water bath to 90°C (MilliQ water inside). Adjust the elevation platform from the sonication probe and the water level to the top - 2 mm of the glass 96 well plate. Turn on Susanne’s heater-shaker to 37°C.
 
 16. **Prepare the cholesterol standard**  
-:warning: During this step, evaporation can happen extremely quickly. :warning:  
+:warning: **During this step, evaporation can happen extremely quickly.**2222 :warning:  
 Everything needs to be on ice and stay on ice as much as possible. Actions need to be anticipated and fast. Lids and caps must be closed as soon as possible. The stock solution A has to be made in a cold 15 mL Falcon tube on ice. The solvent needs to be poured in a 15 mL Falcon tube and cooled down on ice a few minutes before use. Weighing the 8 mg cholesterol powder has to be very very precise. Make sure you get all the powder out of the aluminium boat by pipetting out the solvent on the aluminium. Make sure not too much evaporation has happened during this phase. Top up to 4 mL in the Falcon tube if the meniscus is not there. The remaining standard A has to be pipetted in a 2 mL centrifuge tube after making standard B, C, and D to avoid future evaporation. When the solutions are done, store them in -80 or -20 freezer.  
 **Don’t reuse the standard from one day to another as evaporation is very fast with these solvents.**
 
@@ -168,7 +168,7 @@ Everything needs to be on ice and stay on ice as much as possible. Actions need 
 </p>
 
 17. **Prepare 17% phosphoric acid for the vanillin reagent for 4 plates**: In a 100 mL beaker resting on ice, pipette 0.8 mL of 85% phosphoric acid. :exclamation: SLOWLY :exclamation: add 3.2 mL of MilliQ water. 
-:boom: [The reaction of acids with water produces a lot of heat] :boom:
+:boom: **[The reaction of acids with water produces a lot of heat]** :boom:
 
 18. **Prepare a stock of 0.2 mg/mL phospho-vanillin reagent**: Wrap a 20 mL glass vial in aluminium foil, the reagent is sensitive to light. Dilute the vanillin powder in the 17% phosphoric acid solution. This solution can be stored for a week in the dark. It is recommended to prepare for 4 plates unless you know you are going to run less than that for the week. With these quantities, you will not have enough to fill up 4 plates.
 
@@ -181,12 +181,12 @@ Everything needs to be on ice and stay on ice as much as possible. Actions need 
 20. **Loading the glass plate**: print the plate template and write down the names of the triplicate samples and standards on the wells for reference. Tape the paper inside the fume hood to be able to check. Pour 100 μL triplicate of the cholesterol standard and lipid samples into each well of the 96-well glass plate with a filtered pipette tip. If the sample looks very concentrated, only put 50 μL of the sample to make sure the sample does not oversaturate the plate reader. **Use filtered pipette tips to avoid any damage of the pipette**. :exclamation: Don’t forget to write down the volume you pour on the plate template paper. :exclamation:
 
 <p>
-  <img src="../../images/Total_lipids/Lipid7.png" alt="Lipid 7" width="800">
+  <img src="../../images/Total_lipids/Lipid7.png" alt="Lipid 7" width="1000">
 </p>
 
 21. **Evaporation of the solvent**: put the glass plate in the water bath, making sure **every 10 min** that the plate is at least **halfway** into the water on top of the platform with no lid. Let the solvent evaporate at 90°C for 30 min. Don’t close the water bath lid to avoid water dripping onto the plate.
 
-22. **Add the 100% sulfuric acid**: Take the plate out of the water bath and leave it to cool down at ambient temperature for 5 min (the plate still needs to be warm, but not too hot). :rotating_light: BE EXTREMELY CAREFUL :rotating_light: Sulfuric acid is very corrosive, wear double gloves, a lab coat, glasses, and do everything under the fume hood. Clean every droplet that might fall on the bench. Pour a little bit of 100% sulfuric acid into the glass multipipette cuvette (for one plate, we need 9.6 mL). Pour 100 μL of sulfuric acid in each well using the multipipette with filtered tips (even if you poured only 50 μL of samples). Do not reuse the leftover sulfuric acid from one plate to another. It oxidizes very fast and messes up the results. If you have any extra sulfuric acid on the cuvette, dispose of it in the “sulfuric acid, phospho-vanillin” waste bottle. Put the waste bottle on ice and pour very slowly the leftover sulfuric acid. Make sure to rinse the cuvette properly.
+22. **Add the 100% sulfuric acid**: Take the plate out of the water bath and leave it to cool down at ambient temperature for 5 min (the plate still needs to be warm, but not too hot). :rotating_light: **BE EXTREMELY CAREFUL** :rotating_light: Sulfuric acid is very corrosive, wear double gloves, a lab coat, glasses, and do everything under the fume hood. Clean every droplet that might fall on the bench. Pour a little bit of 100% sulfuric acid into the glass multipipette cuvette (for one plate, we need 9.6 mL). Pour 100 μL of sulfuric acid in each well using the multipipette with filtered tips (even if you poured only 50 μL of samples). Do not reuse the leftover sulfuric acid from one plate to another. It oxidizes very fast and messes up the results. If you have any extra sulfuric acid on the cuvette, dispose of it in the “sulfuric acid, phospho-vanillin” waste bottle. Put the waste bottle on ice and pour very slowly the leftover sulfuric acid. Make sure to rinse the cuvette properly.
 
 23. **Mix the sulfuric acid with the lipids**: Sometimes a black or brown precipitate appears. To get rid of it, directly use Susanne’s heater-shaker around 300–350 rpm for 5 min or more if needed, with a plastic lid on the glass plate to avoid any spill. You can add some gentle hand tapping on the side of the plate.
 
