@@ -57,11 +57,11 @@ Go to the menu, go to the setting option “P1”, push “set”, change the va
 <h2 id="Pictures_manual">Pictures of the manual</h2>
 
 <p>
-  <img src="../images/Mesocosms_controller_setup/Controller_manual1.jpg" alt="Controller manual1" width="400">
+  <img src="../images/Mesocosms_controller_setup/Controller_manual1.jpg" alt="Controller manual1" width="600">
 </p>
 
 <p>
-  <img src="../images/Mesocosms_controller_setup/Controller_manual2.jpg" alt="Controller manual2" width="400">
+  <img src="../images/Mesocosms_controller_setup/Controller_manual2.jpg" alt="Controller manual2" width="600">
 </p>
 
 
