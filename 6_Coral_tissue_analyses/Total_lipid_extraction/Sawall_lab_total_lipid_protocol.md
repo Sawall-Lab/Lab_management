@@ -21,6 +21,7 @@
 - [Materials & Reagents](#Materials_reagents)
 - [Equipment](#Equipment)
 - [Chemicals](#Chemicals)
+- [Labelling the glass vials and tubes with double tape](#Labels)
 - [Sample Preparation](#Sample_preparation)
 - [Preparation of the Solvents](#Preparation_solvents)
 - [Lipid Extraction](#Lipid_extraction)
@@ -42,6 +43,7 @@ $\square$ Aluminum paper sheets (for weight boats and plate coverage)
 $\square$ Glass 96-well plates with glass lid  
 $\square$ Multi-channel pipette 200 μL  
 $\square$ 2 mL centrifuge tubes for the standard  
+$\square$ Transparent tape  
 
 ---
 
@@ -66,14 +68,24 @@ $\square$ Heater-shaker 37°C
 $\square$ Milli-Q water  
 $\square$ Chloroform 100%  
 $\square$ Methanol 100%  
-$\square$ Butylated hydroxytoluene (BHT powder) 
-$\square$ KCl (powder) 
-$\square$ Cholesterol (powder)   
-$\square$ Concentrated phosphoric acid 80–100%   
-$\square$ Vanillin (powder) 
+$\square$ Butylated hydroxytoluene (BHT powder)  
+$\square$ KCl (powder)  
+$\square$ Cholesterol (powder)  
+$\square$ Concentrated phosphoric acid 80–100%  
+$\square$ Vanillin (powder)  
 $\square$ Pure sulfuric acid 100%  
 
 ---
+
+<h2 id="Labels">Labelling the glass vials and tubes with double tape</h2>
+
+Before starting anysample preapration make sure you have labelled all the vials and tubes you will need. 
+You need:
+-2* 20 mL glass vials per sample, one for the lipid extraction and one for the lipid storage after lipid purification (separatory funnel step)
+-1* glass centrifuge tube
+
+**For labelling, tape one transparent tape on the glassware and lid, write ON TOP of the tape the sample ID, date and more if needed/wanted (mostly for the final vial) and tape on top of the writing. This :heavy_exclamation_mark: VERY IMPORTANT :heavy_exclamation_mark: step will prevent the solvent from dissolving the sample ID and will help a lot with the cleaning step.**
+
 
 <h2 id="Sample_preparation">Sample Preparation</h2>
 
