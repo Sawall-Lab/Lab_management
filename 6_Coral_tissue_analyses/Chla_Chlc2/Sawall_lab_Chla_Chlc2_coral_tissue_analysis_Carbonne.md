@@ -32,13 +32,13 @@ $\square$ Quartz 96-well plate
 $\square$ Glass plate lid (plastic lids will melt)  
 $\square$ Refrigerated centrifuge  
 $\square$ 10 mL glass syringe  
-$\square$ 2 mL microcentrifuge tubes  
-$\square$ Q-tips  
-$\square$ Labeling tape  
-$\square$ Microplate reader (λ 630, 663, 750 nm)  
-$\square$ Homogenizer (Ultra-Turrax type) 
-$\square$ Sonicator with adjustable amplitude 
-$\square$ Vortex mixer
+$\square$ 2 mL microcentrifuge tubes   
+$\square$ Q-tips   
+$\square$ Labeling tape   
+$\square$ Microplate reader (λ 630, 663, 750 nm)   
+$\square$ Homogenizer (Ultra-Turrax type)  
+$\square$ Sonicator with adjustable amplitude  
+$\square$ Vortex mixer 
 $\square$ Parafilm (optional)
 
 <h2 id="Protocol">Protocol</h2>

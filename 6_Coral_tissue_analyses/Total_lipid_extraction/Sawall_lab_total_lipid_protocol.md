@@ -68,9 +68,9 @@ $\square$ Chloroform 100%
 $\square$ Methanol 100%  
 $\square$ Butylated hydroxytoluene (BHT powder) 
 $\square$ KCl (powder) 
-$\square$ Cholesterol  
-$\square$ Concentrated phosphoric acid 80–100%  
-$\square$ Vanillin (powder)
+$\square$ Cholesterol (powder)   
+$\square$ Concentrated phosphoric acid 80–100%   
+$\square$ Vanillin (powder) 
 $\square$ Pure sulfuric acid 100%  
 
 ---
