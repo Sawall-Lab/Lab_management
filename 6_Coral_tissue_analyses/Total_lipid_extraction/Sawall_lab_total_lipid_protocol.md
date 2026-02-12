@@ -79,9 +79,9 @@ $\square$ Pure sulfuric acid 100%
 
 <h2 id="Labels">Labelling the glass vials and tubes with double tape</h2>
 
-Before starting anysample preapration make sure you have labelled all the vials and tubes you will need. 
-You need:
--2* 20 mL glass vials per sample, one for the lipid extraction and one for the lipid storage after lipid purification (separatory funnel step)
+Before starting any sample preparation make sure you have labelled all the vials and tubes you will need. 
+You need:  
+-2* 20 mL glass vials per sample, one for the lipid extraction and one for the lipid storage after lipid purification (separatory funnel step)  
 -1* glass centrifuge tube
 
 **For labelling, tape one transparent tape on the glassware and lid, write ON TOP of the tape the sample ID, date and more if needed/wanted (mostly for the final vial) and tape on top of the writing. This :heavy_exclamation_mark: VERY IMPORTANT :heavy_exclamation_mark: step will prevent the solvent from dissolving the sample ID and will help a lot with the cleaning step.**
