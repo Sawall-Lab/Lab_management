@@ -29,7 +29,7 @@ $\square$ Pierce BCA Protein Assay Kit from Thermo Scientific
 $\square$ 96-well flat-bottom plastic plate  
 $\square$ Incubator at 37°C  
 $\square$ Plate reader Spectrophotometer  
-$\square$ 1% and 10% SDS in MilliQ water  
+$\square$ 1% and 5% SDS in MilliQ water  
 $\square$ P1000 and P200 pipettes and tips  
 $\square$ Clean 1.5ml microfuge tubes (Eppendorf cups)  
 $\square$ Clean 50 mL Falcon tubes  
