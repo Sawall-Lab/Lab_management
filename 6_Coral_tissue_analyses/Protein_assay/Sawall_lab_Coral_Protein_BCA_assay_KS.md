@@ -115,7 +115,7 @@ $\square$ MilliQ water
 - **Software:** SoftMax Pro 7.1
 - **Software Product Key:** 3338329450633820971
 
-**Step 1.** Start a new project: **Plate icon** in the top left-hand corner → **"New"**.
+**1.** Start a new project: **Plate icon** in the top left-hand corner → **"New"**.
 *Note: inside the project you can have different experiments, and different plates within each experiment.*
 
 <p align="center">
@@ -124,7 +124,7 @@ $\square$ MilliQ water
        width="500">
 </p>
 
-**Step 2.** Change absorbance in **"Settings Information"**: change the value in the box to **562 nm** → **"OK"**.
+**2.** Change absorbance in **"Settings Information"**: change the value in the box to **562 nm** → **"OK"**.
 
 <p align="center">
   <img src="../../images/Protein_plate_reader/step2_settings_information.png"
@@ -137,7 +137,7 @@ $\square$ MilliQ water
        width="500">
 </p>
 
-**Step 3.** Set the plate map in the **"Template Editor"**.
+**3.** Set the plate map in the **"Template Editor"**.
 
 <p align="center">
   <img src="../../images/Protein_plate_reader/step3_template_editor.png"
@@ -145,7 +145,7 @@ $\square$ MilliQ water
        width="500">
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Step 3a.** Set concentration units to **µg/mL** by clicking **"Edit"** and changing the units in the drop-down.
+&nbsp;&nbsp;&nbsp;&nbsp;**a.** Set concentration units to **µg/mL** by clicking **"Edit"** and changing the units in the drop-down.
 
 <p align="center">
   <img src="../../images/Protein_plate_reader/step3a_edit_units.png"
@@ -158,9 +158,9 @@ $\square$ MilliQ water
        width="500">
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Step 3b.** Set standards.
+&nbsp;&nbsp;&nbsp;&nbsp;**b.** Set standards.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Step 3b-i.** Click **"Standards"** in the groups legend on the right-hand side.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**i.** Click **"Standards"** in the groups legend on the right-hand side.
 
 <p align="center">
   <img src="../../images/Protein_plate_reader/step3b_i_click_standards.png"
@@ -168,7 +168,7 @@ $\square$ MilliQ water
        width="500">
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Step 3b-ii.** Select the first triplicate of standards (click and drag) and enter the concentration of BSA (e.g. 2000 for A, 1500 for B, 1000 for C, etc.).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ii.** Select the first triplicate of standards (click and drag) and enter the concentration of BSA (e.g. 2000 for A, 1500 for B, 1000 for C, etc.).
 
 <p align="center">
   <img src="../../images/Protein_plate_reader/step3b_ii_enter_concentration.png"
@@ -176,7 +176,7 @@ $\square$ MilliQ water
        width="500">
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Step 3b-iii.** Continue until all standards are assigned their appropriate values.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**iii.** Continue until all standards are assigned their appropriate values.
 
 <p align="center">
   <img src="../../images/Protein_plate_reader/step3b_iii_all_standards.png"
@@ -184,9 +184,9 @@ $\square$ MilliQ water
        width="500">
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;**Step 3c.** Set unknowns.
+&nbsp;&nbsp;&nbsp;&nbsp;**c.** Set unknowns.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Step 3c-i.** Label the SDS blank triplicate and all samples with their coral ID on the plate map.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**i.** Label the SDS blank triplicate and all samples with their coral ID on the plate map.
 
 <p align="center">
   <img src="../../images/Protein_plate_reader/step3c_i_label_unknowns.png"
@@ -194,9 +194,9 @@ $\square$ MilliQ water
        width="500">
 </p>
 
-**Step 4.** Place the plate in the plate reader **uncovered** and click the green **"Read"** icon in the top bar.
+**4.** Place the plate in the plate reader **uncovered** and click the green **"Read"** icon in the top bar.
 
-**Step 5.** Export the data as an Excel file: **Plate icon** in the top left-hand corner → **"Export"** → **Export to XML XLS TXT** → export as an Excel file to a known location on the computer.
+**5.** Export the data as an Excel file: **Plate icon** in the top left-hand corner → **"Export"** → **Export to XML XLS TXT** → export as an Excel file to a known location on the computer.
 
 <p align="center">
   <img src="../../images/Protein_plate_reader/step5_export.png"
@@ -204,4 +204,4 @@ $\square$ MilliQ water
        width="500">
 </p>
 
-**Step 6.** Save the project: **Plate icon** in the top left-hand corner → **"Save as"** → save to a known location on the computer.
+**6.** Save the project: **Plate icon** in the top left-hand corner → **"Save as"** → save to a known location on the computer.
