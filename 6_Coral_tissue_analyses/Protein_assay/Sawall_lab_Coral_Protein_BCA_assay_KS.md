@@ -8,10 +8,10 @@
 
 # Coral Protein Assay Protocol - Plate Reader
 ### Adapted by: Katelyn Saric
-**Author(s):** Coral Reef Ecology Course 
-**Lab:** Sawall Lab / MABEE Lab
+**Author(s):** Coral Reef Ecology Course  
+**Lab:** Sawall Lab / MABEE Lab  
 **Version:** v1.0  
-**Date:** 2026-07-13
+**Date:** 2026-07-13  
 
 ## Contents
 
