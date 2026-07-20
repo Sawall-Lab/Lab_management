@@ -215,8 +215,27 @@ $\square$ MilliQ water
        alt="Step 2 — plot standard curve"
        width="500">
 
-3. Use the equation from the standard curve to calculate the protein concentration of each unknown sample.
+3. Use the equation from the standard curve to calculate the protein concentration of each unknown sample in each well. 
 
-4. Calculate the mean protein concentration across all three replicates for each unknown sample.
+<p align="center">
+  <img src="../../images/Protein_plate_reader/Data_analysis/step3_calculation.jpg"
+       alt="Step 3 — calculate protein conc per well"
+       width="500">
+  
+4. Multiply the protein concentration per well by the **dilution factor** to get the corrected protein concentration for each unknown **host** sample. The dilution factor is equal to the total volume of host tissue plus the volume of SDS added (e.g. 900 µL host + 225 µL SDS = 1,125), divided by the volume of host tissue (e.g. 1,125 µL total / 900 µL host = 1.25). 
 
+<p align="center">
+  <img src="../../images/Protein_plate_reader/Data_analysis/step4_dilutionfactor.jpg"
+       alt="Step 4 — calculate corrected host protein conc per well using dilution factor"
+       width="500">
 
+5. Divide the protein concentration per well by **2.5** to get the corrected protein concentration for each unknown **zoox** sample.
+
+<p align="center">
+  <img src="../../images/Protein_plate_reader/Data_analysis/step5_dilutionfactor.jpg"
+       alt="Step 4 — calculate corrected zoox protein conc per well using dilution factor"
+       width="500">
+
+6. Multiply the corrected protein concentration by the **total slurry volume** measured in the tissue air picking protocol for each fragment ID to get the **total protein (μg)**. Then divide the total protein (μg) by the surface area of the coral fragment to get the protein per surface area (μg/cm^2). Divide by 1000 to get mg/cm^2. 
+
+7. Calculate the mean protein concentration across all three replicates for each unknown sample.
