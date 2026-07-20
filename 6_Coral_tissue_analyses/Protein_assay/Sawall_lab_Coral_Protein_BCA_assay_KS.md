@@ -204,14 +204,14 @@ $\square$ MilliQ water
 1. Subtract the average 562 nm absorbance of the **Blank** standard replicates from the 562 nm measurement of all other individual standard and unknown sample replicates. Take care to use the appropriate blank for the standard curve and for the samples. That is, subtract the mean of the **SDS blank** from the unknown samples, and the standard blank (**standard I**) from the other standards. 
 
 <p align="center">
-  <img src="../../images/Protein_assay/Analysis/step1_blanks.jpg"
+  <img src="../../images/Protein_plate_reader/Data_analysis/step1_blanks.jpg"
        alt="Step 1 — normalize data with blanks"
        width="500">
 
 2. Prepare a **standard curve** by plotting the average blank-corrected 562 nm measurement for each BSA standard versus its concentration in µg/mL.
 
 <p align="center">
-  <img src="../../images/Protein_assay/Analysis/step2_standardcurve.jpg"
+  <img src="../../images/Protein_plate_reader/Data_analysis/step2_standardcurve.jpg"
        alt="Step 2 — plot standard curve"
        width="500">
 
