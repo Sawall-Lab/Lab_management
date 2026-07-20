@@ -10,7 +10,7 @@
 ### Adapted from: Coral Reef Ecology Course
 **Author(s):** Katelyn Saric  
 **Lab:** Sawall Lab / MABEE Lab  
-**Version:** v1.1  
+**Version:** v2.0  
 **Date:** 2026-07-13  
 
 ## Contents
