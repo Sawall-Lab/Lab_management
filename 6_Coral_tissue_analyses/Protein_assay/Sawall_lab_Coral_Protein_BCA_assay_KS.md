@@ -218,7 +218,7 @@ $\square$ MilliQ water
 3. Use the equation from the standard curve to calculate the protein concentration of each unknown sample in each well. 
 
 <p align="center">
-  <img src="../../images/Protein_plate_reader/Data_analysis/step3_calculation.jpg"
+  <img src="../../images/Protein_plate_reader/Data_analysis/step3_concentration.jpg"
        alt="Step 3 — calculate protein conc per well"
        width="500">
   
