@@ -39,13 +39,13 @@ $\square$ MilliQ water
 
 <h4 id="Coral_Host_and_Zoox_Tissue_Preparation">Coral Host and Zoox Tissue Preparation</h4>
 
-1. Thaw the **1 mL homogenate aliquot**. 
+1. Thaw the **1 mL homogenate aliquot**. Turn on incubator and start preheating to 37°C.
 
 2. Shake well to resuspend settled material. Keep samples on **ice**.
 
 3. Centrifuge at **1500 rcf for 5 min** to separate zooxanthellae from host tissue. 
 
-4. Carefully transfer the supernatant (host tissue) to a new **1.5 mL Eppendorf cup**. Try to get all the supernatant without disturbing the zooxanthellae pellet. Add **5% SDS** to the host tissue to a final concentration of 1% SDS (e.g. add 250 µl to a 1 mL aliquot).
+4. Carefully transfer the supernatant (host tissue) to a new **1.5 mL Eppendorf cup** labelled with coral ID, host/zoox, and undiltuted (e.g. P1a H undil). Try to get all the supernatant without disturbing the zooxanthellae pellet. Mix by pipetting, then add 900 µL of the host slurry to a new **1.5 mL Eppendorf cup** labelled with coral ID and host/zoox (e.g. P1a H). Add 225 µL of **5% SDS** to the host tissue to get a final concentration of 1% SDS.  
 
 5. Add **400 µL of 1% SDS** to each zooxanthellae pellet and shake vigorously to resuspend the pellet.
 
@@ -93,13 +93,13 @@ $\square$ MilliQ water
 
 1. Pipette **25 µL** of each standard, blank or unknown sample into the microplate **in triplicate**.
 
-2. Add **200 µL of the working reagent (WR)** to each well and mix the plate thoroughly on a plate shaker for **30 seconds**.
+2. Add **200 µL of the working reagent (WR)** to each well.
 
 3. Cover the plate to keep it dark and incubate at **37 °C for 30 minutes at ~125 rpm**.
 
 4. Remove the plate and allow it to cool to room temperature for **10 minutes** (keep it **covered / in the dark**).
 
-5. Measure the absorbance at **562 nm** on a plate reader spectrophotometer **without the plate cover**.
+5. Measure the absorbance at **562 nm** on a plate reader spectrophotometer **without the plate cover**. Make sure there are no bubbles in the wells. Can pop them with a paperclip, wiping with a Kim wipe between wells. 
 
 6. Subtract the average 562 nm absorbance of the **Blank** standard replicates from the 562 nm measurement of all other individual standard and unknown sample replicates. Take care to use the appropriate blank for the standard curve and for the samples.
 
