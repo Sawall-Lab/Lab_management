@@ -22,6 +22,7 @@
   - [BCA Working Reagent Preparation](#BCA_Working_Reagent_Preparation)
   - [Microplate Procedure for Pierce BCA Protein Assay Kit](#Microplate_Procedure_for_Pierce_BCA_Protein_Assay_Kit)
   - [Plate Reader Program](#Plate_Reader_Program)
+  - [Data Analysis](#Data_Analysis)
 
 <h2 id="Materials_checklist">Materials checklist</h2>
 
@@ -99,15 +100,7 @@ $\square$ MilliQ water
 
 4. Remove the plate and allow it to cool to room temperature for **10 minutes** (keep it **covered / in the dark**).
 
-5. Measure the absorbance at **562 nm** on a plate reader spectrophotometer **without the plate cover**. Make sure there are no bubbles in the wells. Can pop them with a paperclip, wiping with a Kim wipe between wells. 
-
-6. Subtract the average 562 nm absorbance of the **Blank** standard replicates from the 562 nm measurement of all other individual standard and unknown sample replicates. Take care to use the appropriate blank for the standard curve and for the samples.
-
-7. Prepare a standard curve by plotting the average blank-corrected 562 nm measurement for each BSA standard versus its concentration in µg/mL.
-
-8. Use the equation from the standard curve to calculate the protein concentration of each unknown sample.
-
-9. Calculate the mean protein concentration across all three replicates for each unknown sample.
+5. Measure the absorbance at **562 nm** on a plate reader spectrophotometer **without the plate cover**. Before reading, make sure there are no bubbles in the wells. Pop them with a paperclip, wiping with a Kim wipe between wells. 
 
 <h4 id="Plate_Reader_Program">Plate Reader Program</h4>
 
@@ -205,3 +198,25 @@ $\square$ MilliQ water
 </p>
 
 **6.** Save the project: **Plate icon** in the top left-hand corner → **"Save as"** → save to a known location on the computer.
+
+<h4 id="Data_Analysis">Data Analysis</h4>
+
+1. Subtract the average 562 nm absorbance of the **Blank** standard replicates from the 562 nm measurement of all other individual standard and unknown sample replicates. Take care to use the appropriate blank for the standard curve and for the samples. That is, subtract the mean of the **SDS blank** from the unknown samples, and the standard blank (**standard I**) from the other standards. 
+
+<p align="center">
+  <img src="../../images/Protein_assay/Analysis/step1_blanks.png"
+       alt="Step 1 — normalize data with blanks"
+       width="500">
+
+2. Prepare a **standard curve** by plotting the average blank-corrected 562 nm measurement for each BSA standard versus its concentration in µg/mL.
+
+<p align="center">
+  <img src="../../images/Protein_assay/Analysis/step2_standardcurve.png"
+       alt="Step 2 — plot standard curve"
+       width="500">
+
+3. Use the equation from the standard curve to calculate the protein concentration of each unknown sample.
+
+4. Calculate the mean protein concentration across all three replicates for each unknown sample.
+
+
