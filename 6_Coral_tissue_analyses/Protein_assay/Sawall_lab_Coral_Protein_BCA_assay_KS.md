@@ -45,7 +45,7 @@ $\square$ MilliQ water
 
 3. Centrifuge at **1500 rcf for 5 min** to separate zooxanthellae from host tissue. 
 
-4. Carefully transfer the supernatant (host tissue) to a new **1.5 mL Eppendorf cup** labelled with coral ID, host/zoox, and undiltuted (e.g. P1a H undil). Try to get all the supernatant without disturbing the zooxanthellae pellet. Mix by pipetting, then add 900 µL of the host slurry to a new **1.5 mL Eppendorf cup** labelled with coral ID and host/zoox (e.g. P1a H). Add 225 µL of **5% SDS** to the host tissue to get a final concentration of 1% SDS.  
+4. Carefully transfer the supernatant (host tissue) to a new **1.5 mL Eppendorf cup** labelled with coral ID, host/zoox, and undiltuted (e.g. P1a H undil). Try to get all the supernatant without disturbing the zooxanthellae pellet. Mix by pipetting, then add **900 µL** of the host slurry to a new **1.5 mL Eppendorf cup** labelled with coral ID and host/zoox (e.g. P1a H). Add **225 µL** of **5% SDS** to the host tissue to get a final concentration of 1% SDS.  
 
 5. Add **400 µL of 1% SDS** to each zooxanthellae pellet and shake vigorously to resuspend the pellet.
 
