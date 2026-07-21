@@ -283,10 +283,9 @@ Plugins → Macros → Batch → Select the folder with your images
 ## Recording Results in Excel
 
 Your spreadsheet should have these headers/columns (give or take some
-automated ones from the script). The columns marked **(script output)**
-are the columns/counts that the script gives you.
+automated ones from the script). 
 
-| File_name | Image_name | haemo_replicate | day | N.alga | C.Alga_per_pxl3 | Est_vol_pxl2 | Cam_Sz   | Surface_um2 | Volume_um3 | zx_um3 |  zx_mL |
+| Directory | file_name  | haemo_replicate | day | N.alga | C.Alga_per_pxl3 | Est_vol_pxl2 | Cam_Sz   | Surface_um2 | Volume_um3 | zx_um3 |  zx_mL |
 |:----------|:-----------|----------------:|:----|-------:|----------------:|-------------:|:---------|------------:|-----------:|-------:|-------:|
 | blahblah  | M2_984     |               1 | D21 |    563 |        0.000390 |      1223680 | 1280x956 |     7648000 |  764800000 |  7e-07 | 736000 |
 | blah      | M2_984     |               2 | D21 |    639 |        0.000443 |      1223680 | 1280x956 |     7648000 |  764800000 |  8e-07 | 836000 |
@@ -302,6 +301,9 @@ The space between the coverslip and the microscope slide is 0.100 mm, or
 
 *Example: We measured 433.0185 pixels per 1 mm, or (433.0185/1000) =
 0.433 µm.*
+
+*Example: We measured 400 pixels per 1 mm, or (400/1000) =
+0.400 µm.*
 
 Your **Cam Sz** is the number of pixels on one surface of the camera
 (e.g., 1280x956). This can be found in the top left corner of the images
