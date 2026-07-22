@@ -441,19 +441,10 @@ sym_cols <- sym_dat %>%
 #   zx_cm2 = zx_mL * slurry_mL / surface_area / 1e5
 # (the /1e5 rescales into units of 10^5 cells/cm2, matching the plot below)
 zx_table <- sym_cols %>%
-  left_join(sa_cols, by = c("coral_ID", "day")) %>%
-  group_by(coral_ID, day, treatment, species, slurry_mL, surface_area) %>%
-  summarise(zx_mL = mean(zx_mL, na.rm = TRUE), .groups = "drop") %>%
-  mutate(
-    zx_cm2 = ifelse(
-      !is.na(zx_mL) & !is.na(slurry_mL) & !is.na(surface_area),
-      zx_mL * slurry_mL / surface_area / 1e5,
-      NA_real_
-    )
-  )
+  left_join(sa_cols, by = c("coral_ID", "day"))
 
 # Quick check: how many rows actually got a valid zx_cm2 value, and what
-# does the overall distribution look like?
+# does the overall distribution look like? (making sure you don't have NA or mismatch)
 cat("\n--- zx per cm² summary (all days) ---\n")
 print(summary(zx_table$zx_cm2))
 cat("\nCalculated for", sum(!is.na(zx_table$zx_cm2)), "of", nrow(zx_table), "rows.\n")
