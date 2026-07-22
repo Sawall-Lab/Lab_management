@@ -317,7 +317,6 @@ The following conversions and worked example (Cam Sz = 1280x956, N.alga
 = 563) are used to go from a raw camera image to a symbiont density in
 cells/mL.
 
-``` r
 # Camera / pixel conversions
 mm_per_400px   <- 1          # 1 mm = 400 pixels
 mm_per_px      <- 1 / 400    # 1 pixel = 0.0025 mm
@@ -338,7 +337,7 @@ data.frame(
   Quantity = c("Est. vol. (pxl^2)", "Surface_um^2", "Volume_um^3", "zx_um^3 (cells/um^3)", "zx_mL (cells/mL)"),
   Value    = c(cam_sz_px, surface_um2, volume_um3, signif(zx_um3, 3), signif(zx_mL, 3))
 )
-```
+
 
     ##               Quantity       Value
     ## 1    Est. vol. (pxl^2) 1.22368e+06
