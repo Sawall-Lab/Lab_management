@@ -283,9 +283,10 @@ Plugins → Macros → Batch → Select the folder with your images
 ## Recording Results in Excel
 
 Your spreadsheet should have these headers/columns (give or take some
-automated ones from the script). 
+automated ones from the script). The columns marked **(script output)**
+are the columns/counts that the script gives you.
 
-| Directory | file_name  | haemo_replicate | day | N.alga | C.Alga_per_pxl3 | Est_vol_pxl2 | Cam_Sz   | Surface_um2 | Volume_um3 | zx_um3 |  zx_mL |
+| Directory | coral_ID   | haemo_replicate | day | N.alga | C.Alga_per_pxl3 | Est_vol_pxl2 | Cam_Sz   | Surface_um2 | Volume_um3 | zx_um3 |  zx_mL |
 |:----------|:-----------|----------------:|:----|-------:|----------------:|-------------:|:---------|------------:|-----------:|-------:|-------:|
 | blahblah  | M2_984     |               1 | D21 |    563 |        0.000390 |      1223680 | 1280x956 |     7648000 |  764800000 |  7e-07 | 736000 |
 | blah      | M2_984     |               2 | D21 |    639 |        0.000443 |      1223680 | 1280x956 |     7648000 |  764800000 |  8e-07 | 836000 |
@@ -302,9 +303,6 @@ The space between the coverslip and the microscope slide is 0.100 mm, or
 *Example: We measured 433.0185 pixels per 1 mm, or (433.0185/1000) =
 0.433 µm.*
 
-*Example: We measured 400 pixels per 1 mm, or (400/1000) =
-0.400 µm.*
-
 Your **Cam Sz** is the number of pixels on one surface of the camera
 (e.g., 1280x956). This can be found in the top left corner of the images
 you take on the microscope.
@@ -317,37 +315,6 @@ The following conversions and worked example (Cam Sz = 1280x956, N.alga
 = 563) are used to go from a raw camera image to a symbiont density in
 cells/mL.
 
-# Camera / pixel conversions
-mm_per_400px   <- 1          # 1 mm = 400 pixels
-mm_per_px      <- 1 / 400    # 1 pixel = 0.0025 mm
-um_per_px      <- mm_per_px * 1000   # -> 2.5 um
-um2_per_px2    <- um_per_px^2        # 1 px^2 = 6.25 um^2
-
-# Worked example values
-cam_sz_px    <- 1280 * 956          # Est. vol. (pxl^2) -- pixel area of the camera frame
-depth_um     <- 100                 # coverslip-to-slide gap (um)
-n_alga       <- 563                 # counted algal cells (N.alga), from CounZoox.ijm
-
-surface_um2  <- cam_sz_px * um2_per_px2         # Surface area imaged, in um^2
-volume_um3   <- surface_um2 * depth_um          # Volume imaged, in um^3
-zx_um3       <- n_alga / volume_um3             # Density, cells per um^3
-zx_mL        <- zx_um3 / 1e-12                  # Density, cells per mL (1 mL = 1e12 um^3)
-
-data.frame(
-  Quantity = c("Est. vol. (pxl^2)", "Surface_um^2", "Volume_um^3", "zx_um^3 (cells/um^3)", "zx_mL (cells/mL)"),
-  Value    = c(cam_sz_px, surface_um2, volume_um3, signif(zx_um3, 3), signif(zx_mL, 3))
-)
-
-
-    ##               Quantity       Value
-    ## 1    Est. vol. (pxl^2) 1.22368e+06
-    ## 2         Surface_um^2 7.64800e+06
-    ## 3          Volume_um^3 7.64800e+08
-    ## 4 zx_um^3 (cells/um^3) 7.36000e-07
-    ## 5     zx_mL (cells/mL) 7.36000e+05
-
-**Summary of the conversions used above:**
-
 - 1 mm = 400 pixels → 1 pixel = 0.0025 mm = 2.5 µm
 - 1 pixel² = 6.25 µm²
 - `Surface_µm²` = `Est. vol. (pxl²)` × 6.25 µm²
@@ -356,9 +323,19 @@ data.frame(
 - `zx_µm³` = `N.alga` / `Volume_µm³`
 - `zx_mL` = `zx_µm³` / 10⁻¹²
 
-You can reuse the `density-calc` code chunk above for any new image:
-just update `cam_sz_px` (from the image’s top-left pixel dimensions) and
-`n_alga` (the CounZoox.ijm output) to get `zx_mL` for that sample.
+**Worked example (Cam Sz = 1280x956, N.alga = 563):**
+
+| Quantity           | Value       |
+|:-------------------|:------------|
+| Est. vol. (pxl²)   | 1,223,680   |
+| Surface_µm²        | 7,648,000   |
+| Volume_µm³         | 764,800,000 |
+| zx_µm³ (cells/µm³) | 7.36e-07    |
+| zx_mL (cells/mL)   | 7.36e+05    |
+
+You can reuse this calculation for any new image: just update the Cam Sz
+(from the image’s top-left pixel dimensions) and N.alga (the
+CounZoox.ijm output) to get zx_mL for that sample.
 
 # Symbiont Counts Analysis
 
