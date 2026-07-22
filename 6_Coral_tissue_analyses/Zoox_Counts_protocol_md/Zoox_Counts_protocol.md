@@ -302,6 +302,8 @@ The space between the coverslip and the microscope slide is 0.100 mm, or
 
 *Example: We measured 433.0185 pixels per 1 mm, or (433.0185/1000) =
 0.433 µm.*
+*Example: We measured 400 pixels per 1 mm, or (400/1000) =
+0.400 µm.*
 
 Your **Cam Sz** is the number of pixels on one surface of the camera
 (e.g., 1280x956). This can be found in the top left corner of the images
