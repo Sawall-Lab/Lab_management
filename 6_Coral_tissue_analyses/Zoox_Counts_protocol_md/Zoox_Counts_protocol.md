@@ -169,6 +169,11 @@ in the bottom left corner when you’re using it.
 microscope pushes back towards the wall to give you more space, but be
 careful, as it will hit the wall.
 
+We've noticed that pulling the slider (column) all the way out to adjust the
+amount of light/exposure is the easiest way to find your cells in Wide blue.
+They'll be a faint red and then you can adjust the exposure on the 
+screen/computer program.
+
 ## To Take Images
 
 Once you have your symbionts in focus, press **snapshot**.
