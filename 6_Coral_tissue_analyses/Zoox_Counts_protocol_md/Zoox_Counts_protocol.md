@@ -203,7 +203,7 @@ Below is an example of what the symbionts should look like on the image.
 # Preparing Your Samples
 
 Your samples should be in slurry (rather than frozen) and ready to go
-when the time comes to image the zoox counts.
+when the time comes to image the zoox counts (about an hour on the ice).
 
 The following are materials you’ll need on the lab bench:
 
@@ -236,6 +236,9 @@ both grey grids and side divots.
 Be sure not to overfill, as sometimes the slurry will overflow on top of
 the coverslip. The slurry will create surface tension between the
 coverslip and the haemocytometer.
+
+Also be sure not to have any bubbles, as this will sometimes condense your
+cells into clumps, or lift the cover slide higher than the calculated height.
 
 When finished, flip the haemocytometer upside down and place it on the
 microscope in the center. The light should be centered on one of the
