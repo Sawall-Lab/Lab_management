@@ -2,11 +2,11 @@
 
 # Coral Incubations Protocol
 
-**Author(s):** Janna Hynds, Jacob Welter
+**Author(s):** Janna Hynds
 **Adapted from:** Dr. Chloe Carbonne
 **Lab:** Sawall Lab
 **Version:** v1.0
-**Date:** 2026-09-14
+**Last edited:** 2026-09-14
 
 ## Overview
 
