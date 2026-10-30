@@ -1,8 +1,4 @@
 ---
-editor_options: 
-  markdown: 
-    wrap: 72
----
 
 # Zoox Counts Protocol using Haemocytometer at ASU
 
