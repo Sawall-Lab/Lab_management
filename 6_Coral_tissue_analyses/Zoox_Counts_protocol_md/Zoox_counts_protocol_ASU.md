@@ -131,6 +131,10 @@ You can adjust the exposure and brightness (LED) on the right panel.
 
 <img src="images/revolve_exposure_panel.jpeg" style="width:45.0%"/>
 
+After trial and error, make sure the magnification on the top right red colored box is at 4x|0.13.
+This allows you to see a good view of the fluorescence and have a clearer view of the grid with the cells in the picture.
+Adjusting the DHR was also helpful for visualization of the cells as well as adjusting the levels so the pictures come out clearer.
+
 ## To Take Images {#to-take-images}
 
 When you’re ready to take a picture of your symbionts, hit **CAPTURE**.
