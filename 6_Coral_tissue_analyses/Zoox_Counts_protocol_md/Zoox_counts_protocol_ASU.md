@@ -81,8 +81,6 @@ properly so it doesn’t fall through.
 This is an **inverted microscope**, so when you load the haemocytometer,
 you have to flip it upside down.
 
-<img src="images/image12.png" style="width:60.0%"/>
-
 ## Focusing and Moving the Stage {#focusing-and-moving-the-stage}
 
 The focus knob is on the left of the microscope. The thicker band raises
